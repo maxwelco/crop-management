@@ -1,0 +1,380 @@
+crop,Location,Year,Plot,Trt,Herbicide,Rate (oz/A),GPA,Weight,Biomass
+corn,Arlington,2018,101,1,Resicore,1.75,2.5,10.9,87.2
+corn,Arlington,2018,102,2,Resicore,1.75,5,8.8,70.4
+corn,Arlington,2018,103,3,Resicore,1.75,10,6.8,54.4
+corn,Arlington,2018,104,4,Resicore,1.75,15,8.9,71.2
+corn,Arlington,2018,105,5,Resicore,1.75,17.5,15.6,124.8
+corn,Arlington,2018,106,6,Acuron Flexi,2.25,2.5,10.1,80.8
+corn,Arlington,2018,107,7,Acuron Flexi,2.25,5,5.4,43.2
+corn,Arlington,2018,108,8,Acuron Flexi,2.25,10,6.1,48.8
+corn,Arlington,2018,109,9,Acuron Flexi,2.25,15,9.8,78.4
+corn,Arlington,2018,110,10,Acuron Flexi,2.25,17.5,3.4,27.2
+corn,Arlington,2018,111,11,Anthem Maxx,4,2.5,34.6,276.8
+corn,Arlington,2018,112,12,Anthem Maxx,4,5,20.2,161.6
+corn,Arlington,2018,113,13,Anthem Maxx,4,10,29.2,233.6
+corn,Arlington,2018,114,14,Anthem Maxx,4,15,24,192
+corn,Arlington,2018,115,15,Anthem Maxx,4,17.5,27.6,220.8
+corn,Arlington,2018,116,16,Check,0,0,59.8,478.4
+corn,Arlington,2018,201,15,Anthem Maxx,4,17.5,23.6,188.8
+corn,Arlington,2018,202,7,Acuron Flexi,2.25,5,4.2,33.6
+corn,Arlington,2018,203,14,Anthem Maxx,4,15,31.4,251.2
+corn,Arlington,2018,204,16,Check,0,0,37.7,301.6
+corn,Arlington,2018,205,12,Anthem Maxx,4,5,28.5,228
+corn,Arlington,2018,206,3,Resicore,1.75,10,9.7,77.6
+corn,Arlington,2018,207,5,Resicore,1.75,17.5,6.8,54.4
+corn,Arlington,2018,208,13,Anthem Maxx,4,10,14.4,115.2
+corn,Arlington,2018,209,11,Anthem Maxx,4,2.5,15.2,121.6
+corn,Arlington,2018,210,4,Resicore,1.75,15,6.1,48.8
+corn,Arlington,2018,211,1,Resicore,1.75,2.5,9.5,76
+corn,Arlington,2018,212,8,Acuron Flexi,2.25,10,3.5,28
+corn,Arlington,2018,213,6,Acuron Flexi,2.25,2.5,2,16
+corn,Arlington,2018,214,9,Acuron Flexi,2.25,15,8.2,65.6
+corn,Arlington,2018,215,2,Resicore,1.75,5,2.4,19.2
+corn,Arlington,2018,216,10,Acuron Flexi,2.25,17.5,3.9,31.2
+corn,Arlington,2018,301,13,Anthem Maxx,4,10,22.4,179.2
+corn,Arlington,2018,302,10,Acuron Flexi,2.25,17.5,11.1,88.8
+corn,Arlington,2018,303,5,Resicore,1.75,17.5,10.5,84
+corn,Arlington,2018,304,11,Anthem Maxx,4,2.5,27,216
+corn,Arlington,2018,305,8,Acuron Flexi,2.25,10,3.4,27.2
+corn,Arlington,2018,306,4,Resicore,1.75,15,3,24
+corn,Arlington,2018,307,6,Acuron Flexi,2.25,2.5,7.6,60.8
+corn,Arlington,2018,308,9,Acuron Flexi,2.25,15,3.8,30.4
+corn,Arlington,2018,309,14,Anthem Maxx,4,15,32.1,256.8
+corn,Arlington,2018,310,2,Resicore,1.75,5,2.7,21.6
+corn,Arlington,2018,311,12,Anthem Maxx,4,5,29.5,236
+corn,Arlington,2018,312,16,Check,0,0,67,536
+corn,Arlington,2018,313,15,Anthem Maxx,4,17.5,38.6,308.8
+corn,Arlington,2018,314,7,Acuron Flexi,2.25,5,3.9,31.2
+corn,Arlington,2018,315,1,Resicore,1.75,2.5,6.4,51.2
+corn,Arlington,2018,316,3,Resicore,1.75,10,4.4,35.2
+corn,Arlington,2018,401,6,Acuron Flexi,2.25,2.5,3.4,27.2
+corn,Arlington,2018,402,1,Resicore,1.75,2.5,1.4,11.2
+corn,Arlington,2018,403,9,Acuron Flexi,2.25,15,2,16
+corn,Arlington,2018,406,15,Anthem Maxx,4,17.5,30.1,240.8
+corn,Arlington,2018,407,8,Acuron Flexi,2.25,10,1.2,9.6
+corn,Arlington,2018,408,16,Check,0,0,44.9,359.2
+corn,Arlington,2018,409,5,Resicore,1.75,17.5,3.6,28.8
+corn,Arlington,2018,411,3,Resicore,1.75,10,4.8,38.4
+corn,Arlington,2018,412,11,Anthem Maxx,4,2.5,19.5,156
+corn,Arlington,2018,413,10,Acuron Flexi,2.25,17.5,6.8,54.4
+corn,Arlington,2018,414,4,Resicore,1.75,15,18,144
+corn,Arlington,2018,415,14,Anthem Maxx,4,15,26.6,212.8
+corn,Arlington,2018,416,13,Anthem Maxx,4,10,22,176
+corn,Janesville,2018,101,1,Resicore,1.75,2.5,14.9,119.2
+corn,Janesville,2018,102,2,Resicore,1.75,5,0.3,2.4
+corn,Janesville,2018,103,3,Resicore,1.75,10,0.1,0.8
+corn,Janesville,2018,104,4,Resicore,1.75,15,0,0
+corn,Janesville,2018,105,5,Resicore,1.75,17.5,0.2,1.6
+corn,Janesville,2018,106,6,Acuron Flexi,2.25,2.5,0,0
+corn,Janesville,2018,107,7,Acuron Flexi,2.25,5,0,0
+corn,Janesville,2018,108,8,Acuron Flexi,2.25,10,0,0
+corn,Janesville,2018,109,9,Acuron Flexi,2.25,15,0,0
+corn,Janesville,2018,110,10,Acuron Flexi,2.25,17.5,0.1,0.8
+corn,Janesville,2018,111,11,Anthem Maxx,4,2.5,2.7,21.6
+corn,Janesville,2018,112,12,Anthem Maxx,4,5,0.6,4.8
+corn,Janesville,2018,113,13,Anthem Maxx,4,10,36.7,293.6
+corn,Janesville,2018,114,14,Anthem Maxx,4,15,3.6,28.8
+corn,Janesville,2018,115,15,Anthem Maxx,4,17.5,9.9,79.2
+corn,Janesville,2018,116,16,Check,0,0,131.7,1053.6
+corn,Janesville,2018,201,11,Anthem Maxx,4,2.5,24,192
+corn,Janesville,2018,202,6,Acuron Flexi,2.25,2.5,0,0
+corn,Janesville,2018,203,13,Anthem Maxx,4,10,55.1,440.8
+corn,Janesville,2018,204,10,Acuron Flexi,2.25,17.5,0,0
+corn,Janesville,2018,205,9,Acuron Flexi,2.25,15,0,0
+corn,Janesville,2018,206,16,Check,0,0,16.3,130.4
+corn,Janesville,2018,207,14,Anthem Maxx,4,15,6.1,48.8
+corn,Janesville,2018,208,3,Resicore,1.75,10,0,0
+corn,Janesville,2018,209,2,Resicore,1.75,5,0,0
+corn,Janesville,2018,210,5,Resicore,1.75,17.5,0,0
+corn,Janesville,2018,211,4,Resicore,1.75,15,30.4,243.2
+corn,Janesville,2018,212,15,Anthem Maxx,4,17.5,6.5,52
+corn,Janesville,2018,213,1,Resicore,1.75,2.5,1.9,15.2
+corn,Janesville,2018,214,8,Acuron Flexi,2.25,10,0,0
+corn,Janesville,2018,215,7,Acuron Flexi,2.25,5,0,0
+corn,Janesville,2018,216,12,Anthem Maxx,4,5,8.2,65.6
+corn,Janesville,2018,301,7,Acuron Flexi,2.25,5,12.4,99.2
+corn,Janesville,2018,302,14,Anthem Maxx,4,15,97.1,776.8
+corn,Janesville,2018,303,12,Anthem Maxx,4,5,18.5,148
+corn,Janesville,2018,304,2,Resicore,1.75,5,0,0
+corn,Janesville,2018,305,8,Acuron Flexi,2.25,10,0,0
+corn,Janesville,2018,306,4,Resicore,1.75,15,0,0
+corn,Janesville,2018,307,1,Resicore,1.75,2.5,2.2,17.6
+corn,Janesville,2018,308,13,Anthem Maxx,4,10,77,616
+corn,Janesville,2018,309,15,Anthem Maxx,4,17.5,20.9,167.2
+corn,Janesville,2018,310,11,Anthem Maxx,4,2.5,18.4,147.2
+corn,Janesville,2018,311,9,Acuron Flexi,2.25,15,0,0
+corn,Janesville,2018,312,16,Check,0,0,54.7,437.6
+corn,Janesville,2018,313,3,Resicore,1.75,10,1,8
+corn,Janesville,2018,314,6,Acuron Flexi,2.25,2.5,0,0
+corn,Janesville,2018,315,10,Acuron Flexi,2.25,17.5,5.2,41.6
+corn,Janesville,2018,316,5,Resicore,1.75,17.5,1.6,12.8
+corn,Janesville,2018,401,15,Anthem Maxx,4,17.5,62.2,497.6
+corn,Janesville,2018,402,9,Acuron Flexi,2.25,15,0.9,7.2
+corn,Janesville,2018,403,16,Check,0,0,66.9,535.2
+corn,Janesville,2018,404,3,Resicore,1.75,10,4.6,36.8
+corn,Janesville,2018,405,10,Acuron Flexi,2.25,17.5,0.2,1.6
+corn,Janesville,2018,406,7,Acuron Flexi,2.25,5,2.2,17.6
+corn,Janesville,2018,407,5,Resicore,1.75,17.5,0.1,0.8
+corn,Janesville,2018,408,6,Acuron Flexi,2.25,2.5,1.3,10.4
+corn,Janesville,2018,409,8,Acuron Flexi,2.25,10,1.9,15.2
+corn,Janesville,2018,410,1,Resicore,1.75,2.5,6.9,55.2
+corn,Janesville,2018,411,14,Anthem Maxx,4,15,24.5,196
+corn,Janesville,2018,412,12,Anthem Maxx,4,5,4,32
+corn,Janesville,2018,413,4,Resicore,1.75,15,1.6,12.8
+corn,Janesville,2018,414,2,Resicore,1.75,5,0.2,1.6
+corn,Janesville,2018,415,11,Anthem Maxx,4,2.5,1.2,9.6
+corn,Janesville,2018,416,13,Anthem Maxx,4,10,5.6,44.8
+corn,Arlington,2019,101,1,Resicore,1.75,2.5,0,0
+corn,Arlington,2019,102,2,Resicore,1.75,5,0.09,0.968752355
+corn,Arlington,2019,103,3,Resicore,1.75,10,0,0
+corn,Arlington,2019,104,4,Resicore,1.75,15,0,0
+corn,Arlington,2019,105,5,Resicore,1.75,17.5,0,0
+corn,Arlington,2019,106,6,Acuron Flexi,2.25,2.5,1.1,11.84030656
+corn,Arlington,2019,107,7,Acuron Flexi,2.25,5,8.99,96.76759631
+corn,Arlington,2019,108,8,Acuron Flexi,2.25,10,2.8,30.13896214
+corn,Arlington,2019,109,9,Acuron Flexi,2.25,15,0,0
+corn,Arlington,2019,110,10,Acuron Flexi,2.25,17.5,8.16,87.83354682
+corn,Arlington,2019,111,11,Anthem Maxx,4,2.5,1.22,13.13197636
+corn,Arlington,2019,112,12,Anthem Maxx,4,5,0.37,3.982648569
+corn,Arlington,2019,113,13,Anthem Maxx,4,10,8.1,87.18771191
+corn,Arlington,2019,114,14,Anthem Maxx,4,15,0.3,3.229174515
+corn,Arlington,2019,115,15,Anthem Maxx,4,17.5,7.4,79.65297138
+corn,Arlington,2019,116,16,Check,0,0,3.17,34.12161071
+corn,Arlington,2019,201,15,Anthem Maxx,4,17.5,1.76,18.94449049
+corn,Arlington,2019,202,6,Acuron Flexi,2.25,2.5,1.9,20.4514386
+corn,Arlington,2019,203,7,Acuron Flexi,2.25,5,0,0
+corn,Arlington,2019,204,16,Check,0,0,1,10.76391505
+corn,Arlington,2019,205,3,Resicore,1.75,10,6.1,65.65988181
+corn,Arlington,2019,206,11,Anthem Maxx,4,2.5,0,0
+corn,Arlington,2019,207,2,Resicore,1.75,5,5.53,59.52445023
+corn,Arlington,2019,208,10,Acuron Flexi,2.25,17.5,14.37,154.6774593
+corn,Arlington,2019,209,14,Anthem Maxx,4,15,10.2,109.7919335
+corn,Arlington,2019,210,4,Resicore,1.75,15,0,0
+corn,Arlington,2019,211,5,Resicore,1.75,17.5,2.4,25.83339612
+corn,Arlington,2019,212,1,Resicore,1.75,2.5,14.32,154.1392635
+corn,Arlington,2019,213,8,Acuron Flexi,2.25,10,10.49,112.9134689
+corn,Arlington,2019,214,9,Acuron Flexi,2.25,15,2.48,26.69450933
+corn,Arlington,2019,215,13,Anthem Maxx,4,10,1.15,12.37850231
+corn,Arlington,2019,216,12,Anthem Maxx,4,5,0.5,5.381957526
+corn,Arlington,2019,301,10,Acuron Flexi,2.25,17.5,3.1,33.36813666
+corn,Arlington,2019,302,4,Resicore,1.75,15,5.58,60.06264599
+corn,Arlington,2019,303,13,Anthem Maxx,4,10,8.1,87.18771191
+corn,Arlington,2019,304,1,Resicore,1.75,2.5,14.37,154.6774593
+corn,Arlington,2019,305,2,Resicore,1.75,5,0,0
+corn,Arlington,2019,306,5,Resicore,1.75,17.5,4.26,45.85427812
+corn,Arlington,2019,307,9,Acuron Flexi,2.25,15,0,0
+corn,Arlington,2019,308,12,Anthem Maxx,4,5,0.3,3.229174515
+corn,Arlington,2019,309,7,Acuron Flexi,2.25,5,0,0
+corn,Arlington,2019,310,15,Anthem Maxx,4,17.5,0,0
+corn,Arlington,2019,311,6,Acuron Flexi,2.25,2.5,0,0
+corn,Arlington,2019,312,16,Check,0,0,6.1,65.65988181
+corn,Arlington,2019,313,14,Anthem Maxx,4,15,0.21,2.260422161
+corn,Arlington,2019,314,3,Resicore,1.75,10,0.02,0.215278301
+corn,Arlington,2019,315,8,Acuron Flexi,2.25,10,1.1,11.84030656
+corn,Arlington,2019,316,11,Anthem Maxx,4,2.5,1.46,15.71531597
+corn,Arlington,2019,401,11,Anthem Maxx,4,2.5,1.1,11.84030656
+corn,Arlington,2019,402,14,Anthem Maxx,4,15,0.4,4.30556602
+corn,Arlington,2019,403,10,Acuron Flexi,2.25,17.5,0,0
+corn,Arlington,2019,404,12,Anthem Maxx,4,5,3.07,33.04521921
+corn,Arlington,2019,405,6,Acuron Flexi,2.25,2.5,0,0
+corn,Arlington,2019,406,8,Acuron Flexi,2.25,10,0,0
+corn,Arlington,2019,407,13,Anthem Maxx,4,10,0.5,5.381957526
+corn,Arlington,2019,408,16,Check,0,0,1.02,10.97919335
+corn,Arlington,2019,409,1,Resicore,1.75,2.5,0,0
+corn,Arlington,2019,410,2,Resicore,1.75,5,0.96,10.33335845
+corn,Arlington,2019,411,7,Acuron Flexi,2.25,5,0.13,1.399308957
+corn,Arlington,2019,412,5,Resicore,1.75,17.5,0.03,0.322917452
+corn,Arlington,2019,413,4,Resicore,1.75,15,0.18,1.937504709
+corn,Arlington,2019,414,15,Anthem Maxx,4,17.5,0.38,4.090287719
+corn,Arlington,2019,415,9,Acuron Flexi,2.25,15,0,0
+corn,Arlington,2019,416,3,Resicore,1.75,10,0,0
+soybean,Arlington,2018,101,1,Canopy DF,2.25,2.5,9.2,73.6
+soybean,Arlington,2018,102,2,Canopy DF,2.25,5,4.3,34.4
+soybean,Arlington,2018,103,3,Canopy DF,2.25,10,4.9,39.2
+soybean,Arlington,2018,104,4,Canopy DF,2.25,15,3.9,31.2
+soybean,Arlington,2018,105,5,Canopy DF,2.25,17.5,11.6,92.8
+soybean,Arlington,2018,106,6,Verdict,5,2.5,1.4,11.2
+soybean,Arlington,2018,107,7,Verdict,5,5,2.2,17.6
+soybean,Arlington,2018,108,8,Verdict,5,10,6.2,49.6
+soybean,Arlington,2018,109,9,Verdict,5,15,4.8,38.4
+soybean,Arlington,2018,110,10,Verdict,5,17.5,9.5,76
+soybean,Arlington,2018,111,11,Fierce,4,2.5,13.7,109.6
+soybean,Arlington,2018,112,12,Fierce,4,5,6,48
+soybean,Arlington,2018,113,13,Fierce,4,10,2.7,21.6
+soybean,Arlington,2018,114,14,Fierce,4,15,3.9,31.2
+soybean,Arlington,2018,115,15,Fierce,4,17.5,0.1,0.8
+soybean,Arlington,2018,116,16,Check,0,0,13.4,107.2
+soybean,Arlington,2018,201,5,Canopy DF,2.25,17.5,4,32
+soybean,Arlington,2018,202,9,Verdict,5,15,4.2,33.6
+soybean,Arlington,2018,203,16,Check,0,0,16.6,132.8
+soybean,Arlington,2018,204,11,Fierce,4,2.5,23.3,186.4
+soybean,Arlington,2018,205,12,Fierce,4,5,3.1,24.8
+soybean,Arlington,2018,206,10,Verdict,5,17.5,1.7,13.6
+soybean,Arlington,2018,207,14,Fierce,4,15,1.3,10.4
+soybean,Arlington,2018,208,2,Canopy DF,2.25,5,11.2,89.6
+soybean,Arlington,2018,209,13,Fierce,4,10,10.8,86.4
+soybean,Arlington,2018,210,1,Canopy DF,2.25,2.5,26.2,209.6
+soybean,Arlington,2018,211,15,Fierce,4,17.5,3.11,24.88
+soybean,Arlington,2018,212,6,Verdict,5,2.5,11.6,92.8
+soybean,Arlington,2018,213,8,Verdict,5,10,4.3,34.4
+soybean,Arlington,2018,214,7,Verdict,5,5,2.8,22.4
+soybean,Arlington,2018,215,4,Canopy DF,2.25,15,3.9,31.2
+soybean,Arlington,2018,216,3,Canopy DF,2.25,10,5.2,41.6
+soybean,Arlington,2018,301,3,Canopy DF,2.25,10,7.1,56.8
+soybean,Arlington,2018,302,15,Fierce,4,17.5,0.1,0.8
+soybean,Arlington,2018,303,2,Canopy DF,2.25,5,1.1,8.8
+soybean,Arlington,2018,304,1,Canopy DF,2.25,2.5,2,16
+soybean,Arlington,2018,305,6,Verdict,5,2.5,1.7,13.6
+soybean,Arlington,2018,306,13,Fierce,4,10,4.2,33.6
+soybean,Arlington,2018,307,5,Canopy DF,2.25,17.5,7.1,56.8
+soybean,Arlington,2018,308,9,Verdict,5,15,3.3,26.4
+soybean,Arlington,2018,309,7,Verdict,5,5,2.3,18.4
+soybean,Arlington,2018,310,4,Canopy DF,2.25,15,21,168
+soybean,Arlington,2018,311,16,Check,0,0,21.8,174.4
+soybean,Arlington,2018,312,14,Fierce,4,15,1.8,14.4
+soybean,Arlington,2018,313,11,Fierce,4,2.5,8,64
+soybean,Arlington,2018,314,12,Fierce,4,5,2.8,22.4
+soybean,Arlington,2018,315,8,Verdict,5,10,1.8,14.4
+soybean,Arlington,2018,316,10,Verdict,5,17.5,1.2,9.6
+soybean,Arlington,2018,401,14,Fierce,4,15,0.01,0.08
+soybean,Arlington,2018,402,11,Fierce,4,2.5,2.9,23.2
+soybean,Arlington,2018,403,4,Canopy DF,2.25,15,10.9,87.2
+soybean,Arlington,2018,404,12,Fierce,4,5,2,16
+soybean,Arlington,2018,405,10,Verdict,5,17.5,0.01,0.08
+soybean,Arlington,2018,406,16,Check,0,0,2.6,20.8
+soybean,Arlington,2018,407,1,Canopy DF,2.25,2.5,0.8,6.4
+soybean,Arlington,2018,408,15,Fierce,4,17.5,2.8,22.4
+soybean,Arlington,2018,409,3,Canopy DF,2.25,10,11.3,90.4
+soybean,Arlington,2018,410,13,Fierce,4,10,1.3,10.4
+soybean,Arlington,2018,411,8,Verdict,5,10,1.9,15.2
+soybean,Arlington,2018,412,9,Verdict,5,15,4.8,38.4
+soybean,Arlington,2018,413,5,Canopy DF,2.25,17.5,8.9,71.2
+soybean,Arlington,2018,414,6,Verdict,5,2.5,6.2,49.6
+soybean,Arlington,2018,415,7,Verdict,5,5,23.4,187.2
+soybean,Arlington,2018,416,2,Canopy DF,2.25,5,6.4,51.2
+soybean,Janesville,2018,101,1,Canopy DF,2.25,2.5,8,64
+soybean,Janesville,2018,211,1,Canopy DF,2.25,2.5,1.1,8.8
+soybean,Janesville,2018,306,1,Canopy DF,2.25,2.5,21.8,174.4
+soybean,Janesville,2018,403,1,Canopy DF,2.25,2.5,11.1,88.8
+soybean,Janesville,2018,102,2,Canopy DF,2.25,5,87.8,702.4
+soybean,Janesville,2018,210,2,Canopy DF,2.25,5,6.6,52.8
+soybean,Janesville,2018,316,2,Canopy DF,2.25,5,126.3,1010.4
+soybean,Janesville,2018,402,2,Canopy DF,2.25,5,5.8,46.4
+soybean,Janesville,2018,103,3,Canopy DF,2.25,10,93.1,744.8
+soybean,Janesville,2018,212,3,Canopy DF,2.25,10,149.1,1192.8
+soybean,Janesville,2018,301,3,Canopy DF,2.25,10,25.8,206.4
+soybean,Janesville,2018,409,3,Canopy DF,2.25,10,0.2,1.6
+soybean,Janesville,2018,104,4,Canopy DF,2.25,15,70.7,565.6
+soybean,Janesville,2018,215,4,Canopy DF,2.25,15,85.3,682.4
+soybean,Janesville,2018,308,4,Canopy DF,2.25,15,1.1,8.8
+soybean,Janesville,2018,405,4,Canopy DF,2.25,15,0.6,4.8
+soybean,Janesville,2018,105,5,Canopy DF,2.25,17.5,73.6,588.8
+soybean,Janesville,2018,201,5,Canopy DF,2.25,17.5,9.9,79.2
+soybean,Janesville,2018,309,5,Canopy DF,2.25,17.5,1.2,9.6
+soybean,Janesville,2018,415,5,Canopy DF,2.25,17.5,66.9,535.2
+soybean,Janesville,2018,106,6,Verdict,5,2.5,47.8,382.4
+soybean,Janesville,2018,203,6,Verdict,5,2.5,49.5,396
+soybean,Janesville,2018,314,6,Verdict,5,2.5,60.8,486.4
+soybean,Janesville,2018,411,6,Verdict,5,2.5,17.9,143.2
+soybean,Janesville,2018,107,7,Verdict,5,5,26.3,210.4
+soybean,Janesville,2018,202,7,Verdict,5,5,106.4,851.2
+soybean,Janesville,2018,311,7,Verdict,5,5,9.9,79.2
+soybean,Janesville,2018,406,7,Verdict,5,5,0.7,5.6
+soybean,Janesville,2018,108,8,Verdict,5,10,2,16
+soybean,Janesville,2018,205,8,Verdict,5,10,121.6,972.8
+soybean,Janesville,2018,416,8,Verdict,5,10,59,472
+soybean,Janesville,2018,109,9,Verdict,5,15,78.6,628.8
+soybean,Janesville,2018,214,9,Verdict,5,15,158.9,1271.2
+soybean,Janesville,2018,305,9,Verdict,5,15,105.8,846.4
+soybean,Janesville,2018,413,9,Verdict,5,15,49.8,398.4
+soybean,Janesville,2018,110,10,Verdict,5,17.5,32,256
+soybean,Janesville,2018,213,10,Verdict,5,17.5,52.1,416.8
+soybean,Janesville,2018,304,10,Verdict,5,17.5,34.7,277.6
+soybean,Janesville,2018,410,10,Verdict,5,17.5,12.6,100.8
+soybean,Janesville,2018,111,11,Fierce,4,2.5,3.8,30.4
+soybean,Janesville,2018,206,11,Fierce,4,2.5,183.9,1471.2
+soybean,Janesville,2018,315,11,Fierce,4,2.5,113.9,911.2
+soybean,Janesville,2018,408,11,Fierce,4,2.5,78.9,631.2
+soybean,Janesville,2018,112,12,Fierce,4,5,80.7,645.6
+soybean,Janesville,2018,216,12,Fierce,4,5,84.7,677.6
+soybean,Janesville,2018,307,12,Fierce,4,5,12.8,102.4
+soybean,Janesville,2018,414,12,Fierce,4,5,46.5,372
+soybean,Janesville,2018,113,13,Fierce,4,10,104.7,837.6
+soybean,Janesville,2018,209,13,Fierce,4,10,1.2,9.6
+soybean,Janesville,2018,303,13,Fierce,4,10,106.3,850.4
+soybean,Janesville,2018,401,13,Fierce,4,10,13.1,104.8
+soybean,Janesville,2018,114,14,Fierce,4,15,85.3,682.4
+soybean,Janesville,2018,207,14,Fierce,4,15,83.4,667.2
+soybean,Janesville,2018,302,14,Fierce,4,15,30.4,243.2
+soybean,Janesville,2018,412,14,Fierce,4,15,80.7,645.6
+soybean,Janesville,2018,115,15,Fierce,4,17.5,78.2,625.6
+soybean,Janesville,2018,208,15,Fierce,4,17.5,19.3,154.4
+soybean,Janesville,2018,404,15,Fierce,4,17.5,1.4,11.2
+soybean,Janesville,2018,116,16,Check,0,0,44.4,355.2
+soybean,Janesville,2018,204,16,Check,0,0,86.6,692.8
+soybean,Janesville,2018,312,16,Check,0,0,23.8,190.4
+soybean,Janesville,2018,407,16,Check,0,0,3.6,28.8
+soybean,Arlington,2019,101,1,Canopy DF,2.25,2.5,0.1,1.076391505
+soybean,Arlington,2019,102,2,Canopy DF,2.25,5,0,0
+soybean,Arlington,2019,103,3,Canopy DF,2.25,10,0.56,6.027792429
+soybean,Arlington,2019,104,4,Canopy DF,2.25,15,0.5,5.381957526
+soybean,Arlington,2019,105,5,Canopy DF,2.25,17.5,1.37,14.74656362
+soybean,Arlington,2019,106,6,Verdict,5,2.5,1.1,11.84030656
+soybean,Arlington,2019,107,7,Verdict,5,5,0.7,7.534740536
+soybean,Arlington,2019,108,8,Verdict,5,10,0.8,8.611132041
+soybean,Arlington,2019,109,9,Verdict,5,15,0.13,1.399308957
+soybean,Arlington,2019,110,10,Verdict,5,17.5,0.41,4.413205171
+soybean,Arlington,2019,111,11,Fierce,4,2.5,0,0
+soybean,Arlington,2019,112,12,Fierce,4,5,0,0
+soybean,Arlington,2019,113,13,Fierce,4,10,0,0
+soybean,Arlington,2019,114,14,Fierce,4,15,0,0
+soybean,Arlington,2019,115,15,Fierce,4,17.5,0,0
+soybean,Arlington,2019,116,16,Check,0,0,9.53,102.5801104
+soybean,Arlington,2019,201,8,Verdict,5,10,0.4,4.30556602
+soybean,Arlington,2019,202,6,Verdict,5,2.5,0.1,1.076391505
+soybean,Arlington,2019,203,12,Fierce,4,5,0,0
+soybean,Arlington,2019,204,16,Check,0,0,5.58,60.06264599
+soybean,Arlington,2019,205,1,Canopy DF,2.25,2.5,0.32,3.444452816
+soybean,Arlington,2019,206,9,Verdict,5,15,1.23,13.23961551
+soybean,Arlington,2019,207,4,Canopy DF,2.25,15,1.2,12.91669806
+soybean,Arlington,2019,208,7,Verdict,5,5,1,10.76391505
+soybean,Arlington,2019,209,3,Canopy DF,2.25,10,0.16,1.722226408
+soybean,Arlington,2019,210,11,Fierce,4,2.5,0,0
+soybean,Arlington,2019,211,5,Canopy DF,2.25,17.5,0.18,1.937504709
+soybean,Arlington,2019,212,15,Fierce,4,17.5,8.1,87.18771191
+soybean,Arlington,2019,213,10,Verdict,5,17.5,0.35,3.767370268
+soybean,Arlington,2019,214,2,Canopy DF,2.25,5,3.07,33.04521921
+soybean,Arlington,2019,215,13,Fierce,4,10,0,0
+soybean,Arlington,2019,216,14,Fierce,4,15,0,0
+soybean,Arlington,2019,301,3,Canopy DF,2.25,10,0.09,0.968752355
+soybean,Arlington,2019,302,11,Fierce,4,2.5,0,0
+soybean,Arlington,2019,303,2,Canopy DF,2.25,5,0,0
+soybean,Arlington,2019,304,13,Fierce,4,10,0,0
+soybean,Arlington,2019,305,10,Verdict,5,17.5,1.1,11.84030656
+soybean,Arlington,2019,306,14,Fierce,4,15,8.99,96.76759631
+soybean,Arlington,2019,307,8,Verdict,5,10,2.8,30.13896214
+soybean,Arlington,2019,308,15,Fierce,4,17.5,0,0
+soybean,Arlington,2019,309,12,Fierce,4,5,8.16,87.83354682
+soybean,Arlington,2019,310,5,Canopy DF,2.25,17.5,1.22,13.13197636
+soybean,Arlington,2019,311,4,Canopy DF,2.25,15,0.37,3.982648569
+soybean,Arlington,2019,312,16,Check,0,0,8.1,87.18771191
+soybean,Arlington,2019,313,1,Canopy DF,2.25,2.5,0.3,3.229174515
+soybean,Arlington,2019,314,7,Verdict,5,5,7.4,79.65297138
+soybean,Arlington,2019,315,9,Verdict,5,15,3.17,34.12161071
+soybean,Arlington,2019,316,6,Verdict,5,2.5,1.76,18.94449049
+soybean,Arlington,2019,401,5,Canopy DF,2.25,17.5,1.9,20.4514386
+soybean,Arlington,2019,402,13,Fierce,4,10,0,0
+soybean,Arlington,2019,403,9,Verdict,5,15,1,10.76391505
+soybean,Arlington,2019,404,8,Verdict,5,10,6.1,65.65988181
+soybean,Arlington,2019,405,12,Fierce,4,5,0,0
+soybean,Arlington,2019,406,7,Verdict,5,5,5.53,59.52445023
+soybean,Arlington,2019,407,16,Check,0,0,14.37,154.6774593
+soybean,Arlington,2019,408,4,Canopy DF,2.25,15,10.2,109.7919335
+soybean,Arlington,2019,409,15,Fierce,4,17.5,0,0
+soybean,Arlington,2019,410,1,Canopy DF,2.25,2.5,2.4,25.83339612
+soybean,Arlington,2019,411,6,Verdict,5,2.5,14.32,154.1392635
+soybean,Arlington,2019,412,2,Canopy DF,2.25,5,10.49,112.9134689
+soybean,Arlington,2019,413,14,Fierce,4,15,2.48,26.69450933
+soybean,Arlington,2019,414,11,Fierce,4,2.5,1.15,12.37850231
+soybean,Arlington,2019,415,3,Canopy DF,2.25,10,0.5,5.381957526
+soybean,Arlington,2019,416,10,Verdict,5,17.5,3.1,33.36813666

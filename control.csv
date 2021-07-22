@@ -1,0 +1,1793 @@
+crop,Location,Year,Plot,Trt,Herbicide,Rate (oz/A),GPA,species,dens,densitym,control
+soybean,Arlington,2018,116,16,Check,0,0,common ragweed,1,8,0
+soybean,Arlington,2018,203,16,Check,0,0,common ragweed,6,48,0
+soybean,Arlington,2018,311,16,Check,0,0,common ragweed,1,8,0
+soybean,Arlington,2018,406,16,Check,0,0,common ragweed,0,1,0
+soybean,Arlington,2018,116,16,Check,0,0,lambs,2.5,20,0
+soybean,Arlington,2018,203,16,Check,0,0,lambs,1.5,12,0
+soybean,Arlington,2018,311,16,Check,0,0,lambs,3,24,0
+soybean,Arlington,2018,406,16,Check,0,0,lambs,1,8,0
+soybean,Arlington,2018,116,16,Check,0,0,velvetleaf,1,8,0
+soybean,Arlington,2018,203,16,Check,0,0,velvetleaf,0,1,0
+soybean,Arlington,2018,311,16,Check,0,0,velvetleaf,1.5,12,0
+soybean,Arlington,2018,406,16,Check,0,0,velvetleaf,0,1,0
+soybean,Arlington,2018,116,16,Check,0,0,grass,3.5,28,0
+soybean,Arlington,2018,203,16,Check,0,0,grass,15,120,0
+soybean,Arlington,2018,311,16,Check,0,0,grass,25,200,0
+soybean,Arlington,2018,406,16,Check,0,0,grass,3,24,0
+soybean,Arlington,2018,116,16,Check,0,0,smartweed,0,1,0
+soybean,Arlington,2018,203,16,Check,0,0,smartweed,1,8,0
+soybean,Arlington,2018,311,16,Check,0,0,smartweed,0,1,0
+soybean,Arlington,2018,406,16,Check,0,0,smartweed,0,1,0
+soybean,Arlington,2018,116,16,Check,0,0,eb nightshade,0,1,0
+soybean,Arlington,2018,203,16,Check,0,0,eb nightshade,0.5,4,0
+soybean,Arlington,2018,311,16,Check,0,0,eb nightshade,1,8,0
+soybean,Arlington,2018,406,16,Check,0,0,eb nightshade,0.5,4,0
+soybean,Janesville,2018,116,16,Check,0,0,giant ragweed,2,16,0
+soybean,Janesville,2018,204,16,Check,0,0,giant ragweed,2.5,20,0
+soybean,Janesville,2018,312,16,Check,0,0,giant ragweed,0.5,4,0
+soybean,Janesville,2018,407,16,Check,0,0,giant ragweed,0,1,0
+soybean,Janesville,2018,116,16,Check,0,0,lambs,0,1,0
+soybean,Janesville,2018,204,16,Check,0,0,lambs,1.5,12,0
+soybean,Janesville,2018,312,16,Check,0,0,lambs,4.5,36,0
+soybean,Janesville,2018,407,16,Check,0,0,lambs,2.5,20,0
+soybean,Janesville,2018,116,16,Check,0,0,velvetleaf,0,1,0
+soybean,Janesville,2018,204,16,Check,0,0,velvetleaf,0,1,0
+soybean,Janesville,2018,312,16,Check,0,0,velvetleaf,0,1,0
+soybean,Janesville,2018,407,16,Check,0,0,velvetleaf,0,1,0
+soybean,Janesville,2018,116,16,Check,0,0,grass,0,1,0
+soybean,Janesville,2018,204,16,Check,0,0,grass,0,1,0
+soybean,Janesville,2018,312,16,Check,0,0,grass,0,1,0
+soybean,Janesville,2018,407,16,Check,0,0,grass,0,1,0
+soybean,Janesville,2018,116,16,Check,0,0,pigweed,1.5,12,0
+soybean,Janesville,2018,204,16,Check,0,0,pigweed,1,8,0
+soybean,Janesville,2018,312,16,Check,0,0,pigweed,0.5,4,0
+soybean,Janesville,2018,407,16,Check,0,0,pigweed,0,1,0
+soybean,Arlington,2019,101,1,Canopy DF,2.25,2.5,common ragweed,2,10.8,0
+soybean,Arlington,2019,116,16,Check,0,0,velvetleaf,3,16.1,0
+soybean,Arlington,2019,116,16,Check,0,0,lambs,14,75.3,0
+soybean,Arlington,2019,116,16,Check,0,0,grass,0,1,0
+soybean,Arlington,2019,102,2,Canopy DF,2.25,5,common ragweed,5,26.9,0
+soybean,Arlington,2019,204,16,Check,0,0,velvetleaf,2,10.8,0
+soybean,Arlington,2019,204,16,Check,0,0,lambs,4,21.5,0
+soybean,Arlington,2019,204,16,Check,0,0,grass,1,5.4,0
+soybean,Arlington,2019,103,3,Canopy DF,2.25,10,common ragweed,4,21.5,0
+soybean,Arlington,2019,312,16,Check,0,0,velvetleaf,0,1,0
+soybean,Arlington,2019,312,16,Check,0,0,lambs,16,86.1,0
+soybean,Arlington,2019,312,16,Check,0,0,grass,0,1,0
+soybean,Arlington,2019,104,4,Canopy DF,2.25,15,common ragweed,12,64.6,0
+soybean,Arlington,2019,407,16,Check,0,0,velvetleaf,0,1,0
+soybean,Arlington,2019,407,16,Check,0,0,lambs,11,59.2,0
+soybean,Arlington,2019,407,16,Check,0,0,grass,0,1,0
+corn,Arlington,2018,116,16,Check,0,0,common ragweed,0,1,0
+corn,Arlington,2018,204,16,Check,0,0,common ragweed,0.5,4,0
+corn,Arlington,2018,312,16,Check,0,0,common ragweed,0.5,4,0
+corn,Arlington,2018,408,16,Check,0,0,common ragweed,1,8,0
+corn,Arlington,2018,116,16,Check,0,0,lambs,12,96,0
+corn,Arlington,2018,204,16,Check,0,0,lambs,4,32,0
+corn,Arlington,2018,312,16,Check,0,0,lambs,10.5,84,0
+corn,Arlington,2018,408,16,Check,0,0,lambs,3,24,0
+corn,Arlington,2018,116,16,Check,0,0,velvetleaf,1,8,0
+corn,Arlington,2018,204,16,Check,0,0,velvetleaf,0,1,0
+corn,Arlington,2018,312,16,Check,0,0,velvetleaf,0.5,4,0
+corn,Arlington,2018,408,16,Check,0,0,velvetleaf,1,8,0
+corn,Arlington,2018,116,16,Check,0,0,grass,10,80,0
+corn,Arlington,2018,204,16,Check,0,0,grass,11,88,0
+corn,Arlington,2018,312,16,Check,0,0,grass,9.5,76,0
+corn,Arlington,2018,408,16,Check,0,0,grass,8.5,68,0
+corn,Janesville,2018,116,16,Check,0,0,giant ragweed,3,24,0
+corn,Janesville,2018,206,16,Check,0,0,giant ragweed,0.5,4,0
+corn,Janesville,2018,312,16,Check,0,0,giant ragweed,1.5,12,0
+corn,Janesville,2018,403,16,Check,0,0,giant ragweed,2,16,0
+corn,Janesville,2018,116,16,Check,0,0,lambs,1,8,0
+corn,Janesville,2018,206,16,Check,0,0,lambs,3,24,0
+corn,Janesville,2018,312,16,Check,0,0,lambs,1.5,12,0
+corn,Janesville,2018,403,16,Check,0,0,lambs,1,8,0
+corn,Janesville,2018,116,16,Check,0,0,velvetleaf,1,8,0
+corn,Janesville,2018,206,16,Check,0,0,velvetleaf,0,1,0
+corn,Janesville,2018,312,16,Check,0,0,velvetleaf,0,1,0
+corn,Janesville,2018,403,16,Check,0,0,velvetleaf,0,1,0
+corn,Janesville,2018,116,16,Check,0,0,grass,0,1,0
+corn,Janesville,2018,206,16,Check,0,0,grass,0,1,0
+corn,Janesville,2018,312,16,Check,0,0,grass,0,1,0
+corn,Janesville,2018,403,16,Check,0,0,grass,0,1,0
+corn,Janesville,2018,116,16,Check,0,0,pigweed,0,1,0
+corn,Janesville,2018,206,16,Check,0,0,pigweed,1,8,0
+corn,Janesville,2018,312,16,Check,0,0,pigweed,0,1,0
+corn,Janesville,2018,403,16,Check,0,0,pigweed,1,8,0
+corn,Arlington,2019,106,6,Acuron Flexi,2.25,2.5,common ragweed,0,1,90
+corn,Arlington,2019,202,6,Acuron Flexi,2.25,2.5,common ragweed,0,1,95
+corn,Arlington,2019,311,6,Acuron Flexi,2.25,2.5,common ragweed,0,1,90
+corn,Arlington,2019,405,6,Acuron Flexi,2.25,2.5,common ragweed,0,1,95
+corn,Arlington,2019,116,16,Check,0,0,velvetleaf,3,16.1,0
+corn,Arlington,2019,204,16,Check,0,0,velvetleaf,1,5.4,0
+corn,Arlington,2019,312,16,Check,0,0,velvetleaf,6,32.3,0
+corn,Arlington,2019,408,16,Check,0,0,velvetleaf,5,26.9,0
+corn,Arlington,2019,116,16,Check,0,0,lambs,5,26.9,0
+corn,Arlington,2019,204,16,Check,0,0,lambs,9,48.4,0
+corn,Arlington,2019,312,16,Check,0,0,lambs,7,37.7,0
+corn,Arlington,2019,408,16,Check,0,0,lambs,3,16.1,0
+corn,Arlington,2019,116,16,Check,0,0,grass,4,21.5,0
+corn,Arlington,2019,204,16,Check,0,0,grass,4,21.5,0
+corn,Arlington,2019,312,16,Check,0,0,grass,6,32.3,0
+corn,Arlington,2019,408,16,Check,0,0,grass,0,1,0
+soybean,Arlington,2018,101,1,Canopy DF,2.25,2.5,common ragweed,3,24,85
+soybean,Arlington,2018,210,1,Canopy DF,2.25,2.5,common ragweed,1.5,12,20
+soybean,Arlington,2018,304,1,Canopy DF,2.25,2.5,common ragweed,1,8,90
+soybean,Arlington,2018,407,1,Canopy DF,2.25,2.5,common ragweed,0,1,95
+soybean,Arlington,2018,101,1,Canopy DF,2.25,2.5,lambs,0.5,4,85
+soybean,Arlington,2018,210,1,Canopy DF,2.25,2.5,lambs,0,1,20
+soybean,Arlington,2018,304,1,Canopy DF,2.25,2.5,lambs,0,1,99
+soybean,Arlington,2018,407,1,Canopy DF,2.25,2.5,lambs,0,1,95
+soybean,Arlington,2018,101,1,Canopy DF,2.25,2.5,velvetleaf,1,8,90
+soybean,Arlington,2018,210,1,Canopy DF,2.25,2.5,velvetleaf,4,32,20
+soybean,Arlington,2018,304,1,Canopy DF,2.25,2.5,velvetleaf,0,1,99
+soybean,Arlington,2018,407,1,Canopy DF,2.25,2.5,velvetleaf,0,1,90
+soybean,Arlington,2018,101,1,Canopy DF,2.25,2.5,grass,2,16,88
+soybean,Arlington,2018,210,1,Canopy DF,2.25,2.5,grass,20,160,20
+soybean,Arlington,2018,304,1,Canopy DF,2.25,2.5,grass,3.5,28,80
+soybean,Arlington,2018,407,1,Canopy DF,2.25,2.5,grass,2,16,90
+soybean,Arlington,2018,101,1,Canopy DF,2.25,2.5,smartweed,0,1,99
+soybean,Arlington,2018,210,1,Canopy DF,2.25,2.5,smartweed,0,1,99
+soybean,Arlington,2018,304,1,Canopy DF,2.25,2.5,smartweed,0,1,99
+soybean,Arlington,2018,407,1,Canopy DF,2.25,2.5,smartweed,0,1,99
+soybean,Arlington,2018,101,1,Canopy DF,2.25,2.5,eb nightshade,0.5,4,99
+soybean,Arlington,2018,210,1,Canopy DF,2.25,2.5,eb nightshade,0,1,99
+soybean,Arlington,2018,304,1,Canopy DF,2.25,2.5,eb nightshade,0.5,4,99
+soybean,Arlington,2018,407,1,Canopy DF,2.25,2.5,eb nightshade,1,8,99
+soybean,Arlington,2018,106,6,Verdict,5,2.5,common ragweed,2,16,93
+soybean,Arlington,2018,212,6,Verdict,5,2.5,common ragweed,1.5,12,80
+soybean,Arlington,2018,305,6,Verdict,5,2.5,common ragweed,0.5,4,95
+soybean,Arlington,2018,414,6,Verdict,5,2.5,common ragweed,0,1,88
+soybean,Arlington,2018,106,6,Verdict,5,2.5,lambs,0,1,99
+soybean,Arlington,2018,212,6,Verdict,5,2.5,lambs,3,24,85
+soybean,Arlington,2018,305,6,Verdict,5,2.5,lambs,0,1,99
+soybean,Arlington,2018,414,6,Verdict,5,2.5,lambs,1.5,12,80
+soybean,Arlington,2018,106,6,Verdict,5,2.5,velvetleaf,0.5,4,95
+soybean,Arlington,2018,212,6,Verdict,5,2.5,velvetleaf,1,8,80
+soybean,Arlington,2018,305,6,Verdict,5,2.5,velvetleaf,0,1,99
+soybean,Arlington,2018,414,6,Verdict,5,2.5,velvetleaf,0.5,4,80
+soybean,Arlington,2018,106,6,Verdict,5,2.5,grass,0.5,4,90
+soybean,Arlington,2018,212,6,Verdict,5,2.5,grass,2.5,20,85
+soybean,Arlington,2018,305,6,Verdict,5,2.5,grass,3,24,80
+soybean,Arlington,2018,414,6,Verdict,5,2.5,grass,14.5,116,65
+soybean,Arlington,2018,106,6,Verdict,5,2.5,smartweed,0,1,99
+soybean,Arlington,2018,212,6,Verdict,5,2.5,smartweed,0,1,99
+soybean,Arlington,2018,305,6,Verdict,5,2.5,smartweed,0,1,99
+soybean,Arlington,2018,414,6,Verdict,5,2.5,smartweed,0,1,99
+soybean,Arlington,2018,106,6,Verdict,5,2.5,eb nightshade,0,1,99
+soybean,Arlington,2018,212,6,Verdict,5,2.5,eb nightshade,0,1,99
+soybean,Arlington,2018,305,6,Verdict,5,2.5,eb nightshade,0,1,99
+soybean,Arlington,2018,414,6,Verdict,5,2.5,eb nightshade,0,1,99
+soybean,Arlington,2018,111,11,Fierce,4,2.5,common ragweed,3,24,80
+soybean,Arlington,2018,204,11,Fierce,4,2.5,common ragweed,1.5,12,85
+soybean,Arlington,2018,313,11,Fierce,4,2.5,common ragweed,0,1,93
+soybean,Arlington,2018,402,11,Fierce,4,2.5,common ragweed,0,1,95
+soybean,Arlington,2018,111,11,Fierce,4,2.5,lambs,5,40,80
+soybean,Arlington,2018,204,11,Fierce,4,2.5,lambs,4,32,85
+soybean,Arlington,2018,313,11,Fierce,4,2.5,lambs,1.5,12,90
+soybean,Arlington,2018,402,11,Fierce,4,2.5,lambs,0.5,4,85
+soybean,Arlington,2018,111,11,Fierce,4,2.5,velvetleaf,0.5,4,95
+soybean,Arlington,2018,204,11,Fierce,4,2.5,velvetleaf,0.5,4,95
+soybean,Arlington,2018,313,11,Fierce,4,2.5,velvetleaf,0.5,4,88
+soybean,Arlington,2018,402,11,Fierce,4,2.5,velvetleaf,0,1,90
+soybean,Arlington,2018,111,11,Fierce,4,2.5,grass,10.5,84,75
+soybean,Arlington,2018,204,11,Fierce,4,2.5,grass,9,72,80
+soybean,Arlington,2018,313,11,Fierce,4,2.5,grass,7.5,60,70
+soybean,Arlington,2018,402,11,Fierce,4,2.5,grass,5.5,44,88
+soybean,Arlington,2018,111,11,Fierce,4,2.5,smartweed,0,1,99
+soybean,Arlington,2018,204,11,Fierce,4,2.5,smartweed,0,1,99
+soybean,Arlington,2018,313,11,Fierce,4,2.5,smartweed,0,1,99
+soybean,Arlington,2018,402,11,Fierce,4,2.5,smartweed,0,1,99
+soybean,Arlington,2018,111,11,Fierce,4,2.5,eb nightshade,0,1,99
+soybean,Arlington,2018,204,11,Fierce,4,2.5,eb nightshade,0,1,99
+soybean,Arlington,2018,313,11,Fierce,4,2.5,eb nightshade,0,1,99
+soybean,Arlington,2018,402,11,Fierce,4,2.5,eb nightshade,0,1,99
+soybean,Janesville,2018,101,1,Canopy DF,2.25,2.5,giant ragweed,0.5,4,80
+soybean,Janesville,2018,211,1,Canopy DF,2.25,2.5,giant ragweed,0.5,4,80
+soybean,Janesville,2018,306,1,Canopy DF,2.25,2.5,giant ragweed,0.5,4,85
+soybean,Janesville,2018,403,1,Canopy DF,2.25,2.5,giant ragweed,0.5,4,90
+soybean,Janesville,2018,101,1,Canopy DF,2.25,2.5,lambs,0,1,99
+soybean,Janesville,2018,211,1,Canopy DF,2.25,2.5,lambs,0,1,99
+soybean,Janesville,2018,306,1,Canopy DF,2.25,2.5,lambs,0,1,99
+soybean,Janesville,2018,403,1,Canopy DF,2.25,2.5,lambs,0,1,99
+soybean,Janesville,2018,101,1,Canopy DF,2.25,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,211,1,Canopy DF,2.25,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,306,1,Canopy DF,2.25,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,403,1,Canopy DF,2.25,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,101,1,Canopy DF,2.25,2.5,grass,5,40,65
+soybean,Janesville,2018,211,1,Canopy DF,2.25,2.5,grass,0.5,4,85
+soybean,Janesville,2018,306,1,Canopy DF,2.25,2.5,grass,0,1,99
+soybean,Janesville,2018,403,1,Canopy DF,2.25,2.5,grass,5.5,44,85
+soybean,Janesville,2018,101,1,Canopy DF,2.25,2.5,pigweed,0,1,99
+soybean,Janesville,2018,211,1,Canopy DF,2.25,2.5,pigweed,0,1,99
+soybean,Janesville,2018,306,1,Canopy DF,2.25,2.5,pigweed,0,1,99
+soybean,Janesville,2018,403,1,Canopy DF,2.25,2.5,pigweed,0,1,99
+soybean,Janesville,2018,106,6,Verdict,5,2.5,giant ragweed,4,32,10
+soybean,Janesville,2018,203,6,Verdict,5,2.5,giant ragweed,5,40,5
+soybean,Janesville,2018,314,6,Verdict,5,2.5,giant ragweed,2,16,5
+soybean,Janesville,2018,411,6,Verdict,5,2.5,giant ragweed,0.5,4,75
+soybean,Janesville,2018,106,6,Verdict,5,2.5,lambs,0,1,99
+soybean,Janesville,2018,203,6,Verdict,5,2.5,lambs,0,1,99
+soybean,Janesville,2018,314,6,Verdict,5,2.5,lambs,0,1,99
+soybean,Janesville,2018,411,6,Verdict,5,2.5,lambs,1,8,90
+soybean,Janesville,2018,106,6,Verdict,5,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,203,6,Verdict,5,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,314,6,Verdict,5,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,411,6,Verdict,5,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,106,6,Verdict,5,2.5,grass,1,8,88
+soybean,Janesville,2018,203,6,Verdict,5,2.5,grass,0.5,4,99
+soybean,Janesville,2018,314,6,Verdict,5,2.5,grass,0,1,99
+soybean,Janesville,2018,411,6,Verdict,5,2.5,grass,0.5,4,90
+soybean,Janesville,2018,106,6,Verdict,5,2.5,pigweed,0,1,99
+soybean,Janesville,2018,203,6,Verdict,5,2.5,pigweed,0,1,99
+soybean,Janesville,2018,314,6,Verdict,5,2.5,pigweed,0,1,99
+soybean,Janesville,2018,411,6,Verdict,5,2.5,pigweed,0,1,99
+soybean,Janesville,2018,111,11,Fierce,4,2.5,giant ragweed,0.5,4,88
+soybean,Janesville,2018,206,11,Fierce,4,2.5,giant ragweed,5,40,5
+soybean,Janesville,2018,315,11,Fierce,4,2.5,giant ragweed,4.5,36,0
+soybean,Janesville,2018,408,11,Fierce,4,2.5,giant ragweed,0.5,4,75
+soybean,Janesville,2018,111,11,Fierce,4,2.5,lambs,0,1,99
+soybean,Janesville,2018,206,11,Fierce,4,2.5,lambs,0,1,99
+soybean,Janesville,2018,315,11,Fierce,4,2.5,lambs,0,1,99
+soybean,Janesville,2018,408,11,Fierce,4,2.5,lambs,0,1,99
+soybean,Janesville,2018,111,11,Fierce,4,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,206,11,Fierce,4,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,315,11,Fierce,4,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,408,11,Fierce,4,2.5,velvetleaf,0,1,99
+soybean,Janesville,2018,111,11,Fierce,4,2.5,grass,0,1,99
+soybean,Janesville,2018,206,11,Fierce,4,2.5,grass,0,1,99
+soybean,Janesville,2018,315,11,Fierce,4,2.5,grass,0,1,99
+soybean,Janesville,2018,408,11,Fierce,4,2.5,grass,0,1,99
+soybean,Janesville,2018,111,11,Fierce,4,2.5,pigweed,0,1,99
+soybean,Janesville,2018,206,11,Fierce,4,2.5,pigweed,0,1,99
+soybean,Janesville,2018,315,11,Fierce,4,2.5,pigweed,0,1,99
+soybean,Janesville,2018,408,11,Fierce,4,2.5,pigweed,0,1,99
+soybean,Arlington,2019,105,5,Canopy DF,2.25,17.5,common ragweed,1,5.4,99
+soybean,Arlington,2019,101,1,Canopy DF,2.25,2.5,velvetleaf,0,1,99
+soybean,Arlington,2019,101,1,Canopy DF,2.25,2.5,lambs,0,1,99
+soybean,Arlington,2019,101,1,Canopy DF,2.25,2.5,grass,2,10.8,93
+soybean,Arlington,2019,106,6,Verdict,5,2.5,common ragweed,0,,95
+soybean,Arlington,2019,205,1,Canopy DF,2.25,2.5,velvetleaf,0,,99
+soybean,Arlington,2019,205,1,Canopy DF,2.25,2.5,lambs,0,,99
+soybean,Arlington,2019,205,1,Canopy DF,2.25,2.5,grass,0,1,99
+soybean,Arlington,2019,107,7,Verdict,5,5,common ragweed,1,5.4,95
+soybean,Arlington,2019,313,1,Canopy DF,2.25,2.5,velvetleaf,0,1,99
+soybean,Arlington,2019,313,1,Canopy DF,2.25,2.5,lambs,1,5.4,99
+soybean,Arlington,2019,313,1,Canopy DF,2.25,2.5,grass,1,5.4,96
+soybean,Arlington,2019,108,8,Verdict,5,10,common ragweed,6,32.3,75
+soybean,Arlington,2019,410,1,Canopy DF,2.25,2.5,velvetleaf,0,1,83
+soybean,Arlington,2019,410,1,Canopy DF,2.25,2.5,lambs,1,5.4,94
+soybean,Arlington,2019,410,1,Canopy DF,2.25,2.5,grass,0,1,92
+soybean,Arlington,2019,109,9,Verdict,5,15,common ragweed,0,1,99
+soybean,Arlington,2019,106,6,Verdict,5,2.5,velvetleaf,0,1,99
+soybean,Arlington,2019,106,6,Verdict,5,2.5,lambs,1,5.4,98
+soybean,Arlington,2019,106,6,Verdict,5,2.5,grass,4,21.5,94
+soybean,Arlington,2019,110,10,Verdict,5,17.5,common ragweed,1,5.4,98
+soybean,Arlington,2019,202,6,Verdict,5,2.5,velvetleaf,0,1,99
+soybean,Arlington,2019,202,6,Verdict,5,2.5,lambs,0,1,99
+soybean,Arlington,2019,202,6,Verdict,5,2.5,grass,0,1,99
+soybean,Arlington,2019,111,11,Fierce,4,2.5,common ragweed,2,10.8,80
+soybean,Arlington,2019,316,6,Verdict,5,2.5,velvetleaf,2,10.8,87
+soybean,Arlington,2019,316,6,Verdict,5,2.5,lambs,0,1,90
+soybean,Arlington,2019,316,6,Verdict,5,2.5,grass,0,1,99
+soybean,Arlington,2019,112,12,Fierce,4,5,common ragweed,7,37.7,70
+soybean,Arlington,2019,411,6,Verdict,5,2.5,velvetleaf,0,1,98
+soybean,Arlington,2019,411,6,Verdict,5,2.5,lambs,2,10.8,96
+soybean,Arlington,2019,411,6,Verdict,5,2.5,grass,0,1,99
+soybean,Arlington,2019,113,13,Fierce,4,10,common ragweed,0,1,99
+soybean,Arlington,2019,111,11,Fierce,4,2.5,velvetleaf,0,1,99
+soybean,Arlington,2019,111,11,Fierce,4,2.5,lambs,0,1,99
+soybean,Arlington,2019,111,11,Fierce,4,2.5,grass,0,1,99
+soybean,Arlington,2019,114,14,Fierce,4,15,common ragweed,0,1,99
+soybean,Arlington,2019,210,11,Fierce,4,2.5,velvetleaf,0,1,99
+soybean,Arlington,2019,210,11,Fierce,4,2.5,lambs,0,1,99
+soybean,Arlington,2019,210,11,Fierce,4,2.5,grass,0,1,99
+soybean,Arlington,2019,115,15,Fierce,4,17.5,common ragweed,0,1,99
+soybean,Arlington,2019,302,11,Fierce,4,2.5,velvetleaf,0,1,99
+soybean,Arlington,2019,302,11,Fierce,4,2.5,lambs,0,1,99
+soybean,Arlington,2019,302,11,Fierce,4,2.5,grass,0,1,99
+soybean,Arlington,2019,116,16,Check,0,0,common ragweed,2,10.8,93
+soybean,Arlington,2019,414,11,Fierce,4,2.5,velvetleaf,0,1,99
+soybean,Arlington,2019,414,11,Fierce,4,2.5,lambs,0,1,99
+soybean,Arlington,2019,414,11,Fierce,4,2.5,grass,0,1,99
+corn,Arlington,2018,101,1,Resicore,1.75,2.5,common ragweed,0,1,90
+corn,Arlington,2018,211,1,Resicore,1.75,2.5,common ragweed,0,1,95
+corn,Arlington,2018,315,1,Resicore,1.75,2.5,common ragweed,0,1,99
+corn,Arlington,2018,402,1,Resicore,1.75,2.5,common ragweed,0,1,95
+corn,Arlington,2018,101,1,Resicore,1.75,2.5,lambs,0,1,90
+corn,Arlington,2018,211,1,Resicore,1.75,2.5,lambs,0,1,95
+corn,Arlington,2018,315,1,Resicore,1.75,2.5,lambs,0,1,90
+corn,Arlington,2018,402,1,Resicore,1.75,2.5,lambs,0,1,95
+corn,Arlington,2018,101,1,Resicore,1.75,2.5,velvetleaf,0.5,4,90
+corn,Arlington,2018,211,1,Resicore,1.75,2.5,velvetleaf,0,1,95
+corn,Arlington,2018,315,1,Resicore,1.75,2.5,velvetleaf,0,1,95
+corn,Arlington,2018,402,1,Resicore,1.75,2.5,velvetleaf,0,1,95
+corn,Arlington,2018,101,1,Resicore,1.75,2.5,grass,8,64,75
+corn,Arlington,2018,211,1,Resicore,1.75,2.5,grass,5,40,82
+corn,Arlington,2018,315,1,Resicore,1.75,2.5,grass,5,40,80
+corn,Arlington,2018,402,1,Resicore,1.75,2.5,grass,2,16,95
+corn,Arlington,2018,106,6,Acuron Flexi,2.25,2.5,common ragweed,0,1,99
+corn,Arlington,2018,213,6,Acuron Flexi,2.25,2.5,common ragweed,0,1,90
+corn,Arlington,2018,307,6,Acuron Flexi,2.25,2.5,common ragweed,0,1,95
+corn,Arlington,2018,401,6,Acuron Flexi,2.25,2.5,common ragweed,0,1,90
+corn,Arlington,2018,106,6,Acuron Flexi,2.25,2.5,lambs,0,1,95
+corn,Arlington,2018,213,6,Acuron Flexi,2.25,2.5,lambs,0,1,95
+corn,Arlington,2018,307,6,Acuron Flexi,2.25,2.5,lambs,0,1,95
+corn,Arlington,2018,401,6,Acuron Flexi,2.25,2.5,lambs,0,1,90
+corn,Arlington,2018,106,6,Acuron Flexi,2.25,2.5,velvetleaf,0,1,95
+corn,Arlington,2018,213,6,Acuron Flexi,2.25,2.5,velvetleaf,0,1,90
+corn,Arlington,2018,307,6,Acuron Flexi,2.25,2.5,velvetleaf,0,1,95
+corn,Arlington,2018,401,6,Acuron Flexi,2.25,2.5,velvetleaf,0,1,90
+corn,Arlington,2018,106,6,Acuron Flexi,2.25,2.5,grass,6,48,80
+corn,Arlington,2018,213,6,Acuron Flexi,2.25,2.5,grass,1.5,12,85
+corn,Arlington,2018,307,6,Acuron Flexi,2.25,2.5,grass,5,40,70
+corn,Arlington,2018,401,6,Acuron Flexi,2.25,2.5,grass,2,16,90
+corn,Arlington,2018,111,11,Anthem Maxx,4,2.5,common ragweed,0.5,4,50
+corn,Arlington,2018,209,11,Anthem Maxx,4,2.5,common ragweed,0,1,20
+corn,Arlington,2018,304,11,Anthem Maxx,4,2.5,common ragweed,0.5,4,70
+corn,Arlington,2018,412,11,Anthem Maxx,4,2.5,common ragweed,0,1,20
+corn,Arlington,2018,111,11,Anthem Maxx,4,2.5,lambs,1,8,90
+corn,Arlington,2018,209,11,Anthem Maxx,4,2.5,lambs,3,24,15
+corn,Arlington,2018,304,11,Anthem Maxx,4,2.5,lambs,0,1,30
+corn,Arlington,2018,412,11,Anthem Maxx,4,2.5,lambs,0,1,20
+corn,Arlington,2018,111,11,Anthem Maxx,4,2.5,velvetleaf,0.5,4,40
+corn,Arlington,2018,209,11,Anthem Maxx,4,2.5,velvetleaf,0.5,4,10
+corn,Arlington,2018,304,11,Anthem Maxx,4,2.5,velvetleaf,0.5,4,30
+corn,Arlington,2018,412,11,Anthem Maxx,4,2.5,velvetleaf,0,1,20
+corn,Arlington,2018,111,11,Anthem Maxx,4,2.5,grass,3.5,28,40
+corn,Arlington,2018,209,11,Anthem Maxx,4,2.5,grass,4.5,36,10
+corn,Arlington,2018,304,11,Anthem Maxx,4,2.5,grass,7.5,60,30
+corn,Arlington,2018,412,11,Anthem Maxx,4,2.5,grass,5,40,20
+corn,Janesville,2018,101,1,Resicore,1.75,2.5,giant ragweed,1,8,75
+corn,Janesville,2018,213,1,Resicore,1.75,2.5,giant ragweed,1,8,90
+corn,Janesville,2018,307,1,Resicore,1.75,2.5,giant ragweed,1.5,12,90
+corn,Janesville,2018,410,1,Resicore,1.75,2.5,giant ragweed,2.5,20,75
+corn,Janesville,2018,101,1,Resicore,1.75,2.5,lambs,0,1,99
+corn,Janesville,2018,213,1,Resicore,1.75,2.5,lambs,0,1,99
+corn,Janesville,2018,307,1,Resicore,1.75,2.5,lambs,0,1,99
+corn,Janesville,2018,410,1,Resicore,1.75,2.5,lambs,0,1,99
+corn,Janesville,2018,101,1,Resicore,1.75,2.5,velvetleaf,0,1,99
+corn,Janesville,2018,213,1,Resicore,1.75,2.5,velvetleaf,0.5,4,90
+corn,Janesville,2018,307,1,Resicore,1.75,2.5,velvetleaf,0,1,99
+corn,Janesville,2018,410,1,Resicore,1.75,2.5,velvetleaf,0,1,92
+corn,Janesville,2018,101,1,Resicore,1.75,2.5,grass,0,1,97
+corn,Janesville,2018,213,1,Resicore,1.75,2.5,grass,1.5,12,97
+corn,Janesville,2018,307,1,Resicore,1.75,2.5,grass,0,1,97
+corn,Janesville,2018,410,1,Resicore,1.75,2.5,grass,0,1,95
+corn,Janesville,2018,101,1,Resicore,1.75,2.5,pigweed,0,1,99
+corn,Janesville,2018,213,1,Resicore,1.75,2.5,pigweed,0.5,4,90
+corn,Janesville,2018,307,1,Resicore,1.75,2.5,pigweed,0,1,99
+corn,Janesville,2018,410,1,Resicore,1.75,2.5,pigweed,0,1,99
+corn,Janesville,2018,106,6,Acuron Flexi,2.25,2.5,giant ragweed,0,1,99
+corn,Janesville,2018,202,6,Acuron Flexi,2.25,2.5,giant ragweed,0,1,99
+corn,Janesville,2018,314,6,Acuron Flexi,2.25,2.5,giant ragweed,0,1,99
+corn,Janesville,2018,408,6,Acuron Flexi,2.25,2.5,giant ragweed,0.5,4,90
+corn,Janesville,2018,106,6,Acuron Flexi,2.25,2.5,lambs,0,1,99
+corn,Janesville,2018,202,6,Acuron Flexi,2.25,2.5,lambs,0,1,99
+corn,Janesville,2018,314,6,Acuron Flexi,2.25,2.5,lambs,0,1,99
+corn,Janesville,2018,408,6,Acuron Flexi,2.25,2.5,lambs,0,1,99
+corn,Janesville,2018,106,6,Acuron Flexi,2.25,2.5,velvetleaf,0,0,99
+corn,Janesville,2018,202,6,Acuron Flexi,2.25,2.5,velvetleaf,0,0,99
+corn,Janesville,2018,314,6,Acuron Flexi,2.25,2.5,velvetleaf,0,0,99
+corn,Janesville,2018,408,6,Acuron Flexi,2.25,2.5,velvetleaf,0,0,99
+corn,Janesville,2018,106,6,Acuron Flexi,2.25,2.5,grass,0,0,99
+corn,Janesville,2018,202,6,Acuron Flexi,2.25,2.5,grass,0,0,99
+corn,Janesville,2018,314,6,Acuron Flexi,2.25,2.5,grass,0,0,99
+corn,Janesville,2018,408,6,Acuron Flexi,2.25,2.5,grass,0,0,99
+corn,Janesville,2018,106,6,Acuron Flexi,2.25,2.5,pigweed,0,0,99
+corn,Janesville,2018,202,6,Acuron Flexi,2.25,2.5,pigweed,0,0,99
+corn,Janesville,2018,314,6,Acuron Flexi,2.25,2.5,pigweed,0,0,99
+corn,Janesville,2018,408,6,Acuron Flexi,2.25,2.5,pigweed,0,0,99
+corn,Janesville,2018,111,11,Anthem Maxx,4,2.5,giant ragweed,1,8,90
+corn,Janesville,2018,201,11,Anthem Maxx,4,2.5,giant ragweed,2,16,70
+corn,Janesville,2018,310,11,Anthem Maxx,4,2.5,giant ragweed,0,0,90
+corn,Janesville,2018,415,11,Anthem Maxx,4,2.5,giant ragweed,0.5,4,92
+corn,Janesville,2018,111,11,Anthem Maxx,4,2.5,lambs,0,0,99
+corn,Janesville,2018,201,11,Anthem Maxx,4,2.5,lambs,1,8,85
+corn,Janesville,2018,310,11,Anthem Maxx,4,2.5,lambs,4,32,80
+corn,Janesville,2018,415,11,Anthem Maxx,4,2.5,lambs,0.5,4,95
+corn,Janesville,2018,111,11,Anthem Maxx,4,2.5,velvetleaf,0,0,99
+corn,Janesville,2018,201,11,Anthem Maxx,4,2.5,velvetleaf,0.5,4,99
+corn,Janesville,2018,310,11,Anthem Maxx,4,2.5,velvetleaf,0,0,85
+corn,Janesville,2018,415,11,Anthem Maxx,4,2.5,velvetleaf,0,0,99
+corn,Janesville,2018,111,11,Anthem Maxx,4,2.5,grass,0,0,99
+corn,Janesville,2018,201,11,Anthem Maxx,4,2.5,grass,0,0,99
+corn,Janesville,2018,310,11,Anthem Maxx,4,2.5,grass,0,0,99
+corn,Janesville,2018,415,11,Anthem Maxx,4,2.5,grass,0,0,99
+corn,Janesville,2018,111,11,Anthem Maxx,4,2.5,pigweed,0,0,99
+corn,Janesville,2018,201,11,Anthem Maxx,4,2.5,pigweed,0,0,99
+corn,Janesville,2018,310,11,Anthem Maxx,4,2.5,pigweed,0,0,99
+corn,Janesville,2018,415,11,Anthem Maxx,4,2.5,pigweed,0,0,99
+corn,Arlington,2019,107,7,Acuron Flexi,2.25,5,common ragweed,0,0,99
+corn,Arlington,2019,203,7,Acuron Flexi,2.25,5,common ragweed,0,0,99
+corn,Arlington,2019,309,7,Acuron Flexi,2.25,5,common ragweed,0,0,99
+corn,Arlington,2019,411,7,Acuron Flexi,2.25,5,common ragweed,0,0,99
+corn,Arlington,2019,101,1,Resicore,1.75,2.5,velvetleaf,0,0,99
+corn,Arlington,2019,212,1,Resicore,1.75,2.5,velvetleaf,0,0,99
+corn,Arlington,2019,304,1,Resicore,1.75,2.5,velvetleaf,0,0,99
+corn,Arlington,2019,409,1,Resicore,1.75,2.5,velvetleaf,0,0,99
+corn,Arlington,2019,101,1,Resicore,1.75,2.5,lambs,0,0,99
+corn,Arlington,2019,212,1,Resicore,1.75,2.5,lambs,0,0,99
+corn,Arlington,2019,304,1,Resicore,1.75,2.5,lambs,0,0,99
+corn,Arlington,2019,409,1,Resicore,1.75,2.5,lambs,0,0,99
+corn,Arlington,2019,101,1,Resicore,1.75,2.5,grass,3,16.1,99
+corn,Arlington,2019,212,1,Resicore,1.75,2.5,grass,0,0,99
+corn,Arlington,2019,304,1,Resicore,1.75,2.5,grass,0,0,99
+corn,Arlington,2019,409,1,Resicore,1.75,2.5,grass,0,0,99
+corn,Arlington,2019,108,8,Acuron Flexi,2.25,10,common ragweed,0,0,99
+corn,Arlington,2019,213,8,Acuron Flexi,2.25,10,common ragweed,0,0,99
+corn,Arlington,2019,315,8,Acuron Flexi,2.25,10,common ragweed,0,0,99
+corn,Arlington,2019,406,8,Acuron Flexi,2.25,10,common ragweed,0,0,99
+corn,Arlington,2019,106,6,Acuron Flexi,2.25,2.5,velvetleaf,0,0,99
+corn,Arlington,2019,202,6,Acuron Flexi,2.25,2.5,velvetleaf,0,0,99
+corn,Arlington,2019,311,6,Acuron Flexi,2.25,2.5,velvetleaf,0,0,99
+corn,Arlington,2019,405,6,Acuron Flexi,2.25,2.5,velvetleaf,0,0,99
+corn,Arlington,2019,106,6,Acuron Flexi,2.25,2.5,lambs,0,0,99
+corn,Arlington,2019,202,6,Acuron Flexi,2.25,2.5,lambs,0,0,99
+corn,Arlington,2019,311,6,Acuron Flexi,2.25,2.5,lambs,0,0,99
+corn,Arlington,2019,405,6,Acuron Flexi,2.25,2.5,lambs,0,0,99
+corn,Arlington,2019,106,6,Acuron Flexi,2.25,2.5,grass,0,0,99
+corn,Arlington,2019,202,6,Acuron Flexi,2.25,2.5,grass,0,0,99
+corn,Arlington,2019,311,6,Acuron Flexi,2.25,2.5,grass,0,0,99
+corn,Arlington,2019,405,6,Acuron Flexi,2.25,2.5,grass,0,0,99
+corn,Arlington,2019,109,9,Acuron Flexi,2.25,15,common ragweed,0,0,99
+corn,Arlington,2019,214,9,Acuron Flexi,2.25,15,common ragweed,0,0,99
+corn,Arlington,2019,307,9,Acuron Flexi,2.25,15,common ragweed,0,0,99
+corn,Arlington,2019,415,9,Acuron Flexi,2.25,15,common ragweed,0,0,99
+corn,Arlington,2019,111,11,Anthem Maxx,4,2.5,velvetleaf,0,0,95
+corn,Arlington,2019,206,11,Anthem Maxx,4,2.5,velvetleaf,0,0,99
+corn,Arlington,2019,316,11,Anthem Maxx,4,2.5,velvetleaf,3,16.1,50
+corn,Arlington,2019,401,11,Anthem Maxx,4,2.5,velvetleaf,3,16.1,75
+corn,Arlington,2019,111,11,Anthem Maxx,4,2.5,lambs,1,5.4,99
+corn,Arlington,2019,206,11,Anthem Maxx,4,2.5,lambs,0,0,99
+corn,Arlington,2019,316,11,Anthem Maxx,4,2.5,lambs,0,0,99
+corn,Arlington,2019,401,11,Anthem Maxx,4,2.5,lambs,0,0,95
+corn,Arlington,2019,111,11,Anthem Maxx,4,2.5,grass,0,0,99
+corn,Arlington,2019,206,11,Anthem Maxx,4,2.5,grass,1,5.4,99
+corn,Arlington,2019,316,11,Anthem Maxx,4,2.5,grass,1,5.4,99
+corn,Arlington,2019,401,11,Anthem Maxx,4,2.5,grass,0,0,90
+soybean,Arlington,2018,102,2,Canopy DF,2.25,5,common ragweed,2.5,20,85
+soybean,Arlington,2018,208,2,Canopy DF,2.25,5,common ragweed,0,0,95
+soybean,Arlington,2018,303,2,Canopy DF,2.25,5,common ragweed,1,8,90
+soybean,Arlington,2018,416,2,Canopy DF,2.25,5,common ragweed,0,0,95
+soybean,Arlington,2018,102,2,Canopy DF,2.25,5,lambs,0,0,98
+soybean,Arlington,2018,208,2,Canopy DF,2.25,5,lambs,0,0,85
+soybean,Arlington,2018,303,2,Canopy DF,2.25,5,lambs,0,0,98
+soybean,Arlington,2018,416,2,Canopy DF,2.25,5,lambs,0,0,80
+soybean,Arlington,2018,102,2,Canopy DF,2.25,5,velvetleaf,0.5,4,95
+soybean,Arlington,2018,208,2,Canopy DF,2.25,5,velvetleaf,2.5,20,80
+soybean,Arlington,2018,303,2,Canopy DF,2.25,5,velvetleaf,0.5,4,95
+soybean,Arlington,2018,416,2,Canopy DF,2.25,5,velvetleaf,0,0,70
+soybean,Arlington,2018,102,2,Canopy DF,2.25,5,grass,4.5,36,85
+soybean,Arlington,2018,208,2,Canopy DF,2.25,5,grass,4,32,90
+soybean,Arlington,2018,303,2,Canopy DF,2.25,5,grass,3,24,80
+soybean,Arlington,2018,416,2,Canopy DF,2.25,5,grass,8,64,20
+soybean,Arlington,2018,102,2,Canopy DF,2.25,5,smartweed,0,0,99
+soybean,Arlington,2018,208,2,Canopy DF,2.25,5,smartweed,1,8,99
+soybean,Arlington,2018,303,2,Canopy DF,2.25,5,smartweed,0,0,99
+soybean,Arlington,2018,416,2,Canopy DF,2.25,5,smartweed,0,0,99
+soybean,Arlington,2018,102,2,Canopy DF,2.25,5,eb nightshade,0,0,99
+soybean,Arlington,2018,208,2,Canopy DF,2.25,5,eb nightshade,0,0,99
+soybean,Arlington,2018,303,2,Canopy DF,2.25,5,eb nightshade,0,0,99
+soybean,Arlington,2018,416,2,Canopy DF,2.25,5,eb nightshade,0,0,99
+soybean,Arlington,2018,107,7,Verdict,5,5,common ragweed,2.5,20,88
+soybean,Arlington,2018,214,7,Verdict,5,5,common ragweed,0.5,4,92
+soybean,Arlington,2018,309,7,Verdict,5,5,common ragweed,1,8,85
+soybean,Arlington,2018,415,7,Verdict,5,5,common ragweed,0.5,4,0
+soybean,Arlington,2018,107,7,Verdict,5,5,lambs,0,0,99
+soybean,Arlington,2018,214,7,Verdict,5,5,lambs,0.5,4,95
+soybean,Arlington,2018,309,7,Verdict,5,5,lambs,0,0,95
+soybean,Arlington,2018,415,7,Verdict,5,5,lambs,2.5,20,0
+soybean,Arlington,2018,107,7,Verdict,5,5,velvetleaf,0,0,99
+soybean,Arlington,2018,214,7,Verdict,5,5,velvetleaf,0,0,99
+soybean,Arlington,2018,309,7,Verdict,5,5,velvetleaf,2.5,20,90
+soybean,Arlington,2018,415,7,Verdict,5,5,velvetleaf,0.5,4,0
+soybean,Arlington,2018,107,7,Verdict,5,5,grass,0.5,4,95
+soybean,Arlington,2018,214,7,Verdict,5,5,grass,2,16,85
+soybean,Arlington,2018,309,7,Verdict,5,5,grass,7,56,75
+soybean,Arlington,2018,415,7,Verdict,5,5,grass,10.5,84,0
+soybean,Arlington,2018,107,7,Verdict,5,5,smartweed,0,0,99
+soybean,Arlington,2018,214,7,Verdict,5,5,smartweed,1,8,99
+soybean,Arlington,2018,309,7,Verdict,5,5,smartweed,1,8,99
+soybean,Arlington,2018,415,7,Verdict,5,5,smartweed,0,0,99
+soybean,Arlington,2018,107,7,Verdict,5,5,eb nightshade,0,0,99
+soybean,Arlington,2018,214,7,Verdict,5,5,eb nightshade,0,0,99
+soybean,Arlington,2018,309,7,Verdict,5,5,eb nightshade,0,0,99
+soybean,Arlington,2018,415,7,Verdict,5,5,eb nightshade,0,0,99
+soybean,Arlington,2018,112,12,Fierce,4,5,common ragweed,1,8,95
+soybean,Arlington,2018,205,12,Fierce,4,5,common ragweed,0.5,4,96
+soybean,Arlington,2018,314,12,Fierce,4,5,common ragweed,0.5,4,90
+soybean,Arlington,2018,404,12,Fierce,4,5,common ragweed,0,0,99
+soybean,Arlington,2018,112,12,Fierce,4,5,lambs,0.5,4,99
+soybean,Arlington,2018,205,12,Fierce,4,5,lambs,0,0,99
+soybean,Arlington,2018,314,12,Fierce,4,5,lambs,0,0,90
+soybean,Arlington,2018,404,12,Fierce,4,5,lambs,0,0,95
+soybean,Arlington,2018,112,12,Fierce,4,5,velvetleaf,0,0,99
+soybean,Arlington,2018,205,12,Fierce,4,5,velvetleaf,1,8,95
+soybean,Arlington,2018,314,12,Fierce,4,5,velvetleaf,0.5,4,88
+soybean,Arlington,2018,404,12,Fierce,4,5,velvetleaf,0,0,98
+soybean,Arlington,2018,112,12,Fierce,4,5,grass,0.5,4,95
+soybean,Arlington,2018,205,12,Fierce,4,5,grass,1.5,12,95
+soybean,Arlington,2018,314,12,Fierce,4,5,grass,1,8,95
+soybean,Arlington,2018,404,12,Fierce,4,5,grass,1.5,12,95
+soybean,Arlington,2018,112,12,Fierce,4,5,smartweed,0,0,99
+soybean,Arlington,2018,205,12,Fierce,4,5,smartweed,0,0,99
+soybean,Arlington,2018,314,12,Fierce,4,5,smartweed,0,0,99
+soybean,Arlington,2018,404,12,Fierce,4,5,smartweed,0,0,99
+soybean,Arlington,2018,112,12,Fierce,4,5,eb nightshade,0,0,99
+soybean,Arlington,2018,205,12,Fierce,4,5,eb nightshade,0,0,99
+soybean,Arlington,2018,314,12,Fierce,4,5,eb nightshade,0,0,99
+soybean,Arlington,2018,404,12,Fierce,4,5,eb nightshade,0,0,99
+soybean,Janesville,2018,102,2,Canopy DF,2.25,5,giant ragweed,2,16,10
+soybean,Janesville,2018,210,2,Canopy DF,2.25,5,giant ragweed,0,0,90
+soybean,Janesville,2018,316,2,Canopy DF,2.25,5,giant ragweed,7.5,60,1
+soybean,Janesville,2018,402,2,Canopy DF,2.25,5,giant ragweed,0,0,95
+soybean,Janesville,2018,102,2,Canopy DF,2.25,5,lambs,0,0,99
+soybean,Janesville,2018,210,2,Canopy DF,2.25,5,lambs,0,0,99
+soybean,Janesville,2018,316,2,Canopy DF,2.25,5,lambs,0,0,99
+soybean,Janesville,2018,402,2,Canopy DF,2.25,5,lambs,0,0,99
+soybean,Janesville,2018,102,2,Canopy DF,2.25,5,velvetleaf,0,0,99
+soybean,Janesville,2018,210,2,Canopy DF,2.25,5,velvetleaf,0,0,90
+soybean,Janesville,2018,316,2,Canopy DF,2.25,5,velvetleaf,0,0,99
+soybean,Janesville,2018,402,2,Canopy DF,2.25,5,velvetleaf,0,0,99
+soybean,Janesville,2018,102,2,Canopy DF,2.25,5,grass,1.5,12,60
+soybean,Janesville,2018,210,2,Canopy DF,2.25,5,grass,2,16,85
+soybean,Janesville,2018,316,2,Canopy DF,2.25,5,grass,0,0,99
+soybean,Janesville,2018,402,2,Canopy DF,2.25,5,grass,0.5,4,60
+soybean,Janesville,2018,102,2,Canopy DF,2.25,5,pigweed,0,0,99
+soybean,Janesville,2018,210,2,Canopy DF,2.25,5,pigweed,0,0,99
+soybean,Janesville,2018,316,2,Canopy DF,2.25,5,pigweed,0,0,99
+soybean,Janesville,2018,402,2,Canopy DF,2.25,5,pigweed,0,0,99
+soybean,Janesville,2018,107,7,Verdict,5,5,giant ragweed,3,24,35
+soybean,Janesville,2018,202,7,Verdict,5,5,giant ragweed,0.5,4,99
+soybean,Janesville,2018,311,7,Verdict,5,5,giant ragweed,0,0,85
+soybean,Janesville,2018,406,7,Verdict,5,5,giant ragweed,0,0,85
+soybean,Janesville,2018,107,7,Verdict,5,5,lambs,0,0,99
+soybean,Janesville,2018,202,7,Verdict,5,5,lambs,0,0,99
+soybean,Janesville,2018,311,7,Verdict,5,5,lambs,2,16,80
+soybean,Janesville,2018,406,7,Verdict,5,5,lambs,1,8,80
+soybean,Janesville,2018,107,7,Verdict,5,5,velvetleaf,0,0,99
+soybean,Janesville,2018,202,7,Verdict,5,5,velvetleaf,0,0,99
+soybean,Janesville,2018,311,7,Verdict,5,5,velvetleaf,0.5,4,90
+soybean,Janesville,2018,406,7,Verdict,5,5,velvetleaf,0,0,99
+soybean,Janesville,2018,107,7,Verdict,5,5,grass,0,0,99
+soybean,Janesville,2018,202,7,Verdict,5,5,grass,4,32,99
+soybean,Janesville,2018,311,7,Verdict,5,5,grass,0,0,99
+soybean,Janesville,2018,406,7,Verdict,5,5,grass,1.5,12,99
+soybean,Janesville,2018,107,7,Verdict,5,5,pigweed,0,0,99
+soybean,Janesville,2018,202,7,Verdict,5,5,pigweed,0,0,99
+soybean,Janesville,2018,311,7,Verdict,5,5,pigweed,0,0,99
+soybean,Janesville,2018,406,7,Verdict,5,5,pigweed,0,0,99
+soybean,Janesville,2018,112,12,Fierce,4,5,giant ragweed,1.5,12,10
+soybean,Janesville,2018,216,12,Fierce,4,5,giant ragweed,1,8,20
+soybean,Janesville,2018,307,12,Fierce,4,5,giant ragweed,0.5,4,92
+soybean,Janesville,2018,414,12,Fierce,4,5,giant ragweed,2,16,35
+soybean,Janesville,2018,112,12,Fierce,4,5,lambs,0,0,99
+soybean,Janesville,2018,216,12,Fierce,4,5,lambs,0,0,99
+soybean,Janesville,2018,307,12,Fierce,4,5,lambs,0,0,99
+soybean,Janesville,2018,414,12,Fierce,4,5,lambs,0,0,99
+soybean,Janesville,2018,112,12,Fierce,4,5,velvetleaf,0,0,99
+soybean,Janesville,2018,216,12,Fierce,4,5,velvetleaf,0,0,99
+soybean,Janesville,2018,307,12,Fierce,4,5,velvetleaf,0,0,99
+soybean,Janesville,2018,414,12,Fierce,4,5,velvetleaf,0,0,99
+soybean,Janesville,2018,112,12,Fierce,4,5,grass,0,0,99
+soybean,Janesville,2018,216,12,Fierce,4,5,grass,0,0,99
+soybean,Janesville,2018,307,12,Fierce,4,5,grass,0,0,99
+soybean,Janesville,2018,414,12,Fierce,4,5,grass,0,0,99
+soybean,Janesville,2018,112,12,Fierce,4,5,pigweed,0,0,99
+soybean,Janesville,2018,216,12,Fierce,4,5,pigweed,0,0,99
+soybean,Janesville,2018,307,12,Fierce,4,5,pigweed,0,0,99
+soybean,Janesville,2018,414,12,Fierce,4,5,pigweed,0,0,99
+soybean,Arlington,2019,201,8,Verdict,5,10,common ragweed,0,0,99
+soybean,Arlington,2019,102,2,Canopy DF,2.25,5,velvetleaf,0,0,99
+soybean,Arlington,2019,102,2,Canopy DF,2.25,5,lambs,0,0,99
+soybean,Arlington,2019,102,2,Canopy DF,2.25,5,grass,2,10.8,90
+soybean,Arlington,2019,202,6,Verdict,5,2.5,common ragweed,1,5.4,91
+soybean,Arlington,2019,214,2,Canopy DF,2.25,5,velvetleaf,0,0,98
+soybean,Arlington,2019,214,2,Canopy DF,2.25,5,lambs,0,0,99
+soybean,Arlington,2019,214,2,Canopy DF,2.25,5,grass,1,5.4,99
+soybean,Arlington,2019,203,12,Fierce,4,5,common ragweed,0,0,95
+soybean,Arlington,2019,303,2,Canopy DF,2.25,5,velvetleaf,0,0,99
+soybean,Arlington,2019,303,2,Canopy DF,2.25,5,lambs,0,0,99
+soybean,Arlington,2019,303,2,Canopy DF,2.25,5,grass,0,0,97
+soybean,Arlington,2019,204,16,Check,0,0,common ragweed,5,26.9,84
+soybean,Arlington,2019,412,2,Canopy DF,2.25,5,velvetleaf,0,0,99
+soybean,Arlington,2019,412,2,Canopy DF,2.25,5,lambs,1,5.4,97
+soybean,Arlington,2019,412,2,Canopy DF,2.25,5,grass,1,5.4,99
+soybean,Arlington,2019,205,1,Canopy DF,2.25,2.5,common ragweed,1,5.4,92
+soybean,Arlington,2019,107,7,Verdict,5,5,velvetleaf,0,0,96
+soybean,Arlington,2019,107,7,Verdict,5,5,lambs,0,0,98
+soybean,Arlington,2019,107,7,Verdict,5,5,grass,0,0,85
+soybean,Arlington,2019,206,9,Verdict,5,15,common ragweed,3,16.1,85
+soybean,Arlington,2019,208,7,Verdict,5,5,velvetleaf,0,0,99
+soybean,Arlington,2019,208,7,Verdict,5,5,lambs,0,0,94
+soybean,Arlington,2019,208,7,Verdict,5,5,grass,1,5.4,85
+soybean,Arlington,2019,207,4,Canopy DF,2.25,15,common ragweed,5,26.9,80
+soybean,Arlington,2019,314,7,Verdict,5,5,velvetleaf,1,5.4,92
+soybean,Arlington,2019,314,7,Verdict,5,5,lambs,0,0,95
+soybean,Arlington,2019,314,7,Verdict,5,5,grass,0,0,94
+soybean,Arlington,2019,208,7,Verdict,5,5,common ragweed,5,26.9,70
+soybean,Arlington,2019,406,7,Verdict,5,5,velvetleaf,1,5.4,95
+soybean,Arlington,2019,406,7,Verdict,5,5,lambs,1,5.4,87
+soybean,Arlington,2019,406,7,Verdict,5,5,grass,0,0,94
+soybean,Arlington,2019,209,3,Canopy DF,2.25,10,common ragweed,0,0,99
+soybean,Arlington,2019,112,12,Fierce,4,5,velvetleaf,0,0,99
+soybean,Arlington,2019,112,12,Fierce,4,5,lambs,0,0,99
+soybean,Arlington,2019,112,12,Fierce,4,5,grass,0,0,99
+soybean,Arlington,2019,210,11,Fierce,4,2.5,common ragweed,0,0,99
+soybean,Arlington,2019,203,12,Fierce,4,5,velvetleaf,0,0,99
+soybean,Arlington,2019,203,12,Fierce,4,5,lambs,0,0,99
+soybean,Arlington,2019,203,12,Fierce,4,5,grass,0,0,99
+soybean,Arlington,2019,211,5,Canopy DF,2.25,17.5,common ragweed,1,5.4,92
+soybean,Arlington,2019,309,12,Fierce,4,5,velvetleaf,0,0,99
+soybean,Arlington,2019,309,12,Fierce,4,5,lambs,0,0,96
+soybean,Arlington,2019,309,12,Fierce,4,5,grass,1,5.4,99
+soybean,Arlington,2019,212,15,Fierce,4,17.5,common ragweed,0,0,97
+soybean,Arlington,2019,405,12,Fierce,4,5,velvetleaf,0,0,99
+soybean,Arlington,2019,405,12,Fierce,4,5,lambs,0,0,99
+soybean,Arlington,2019,405,12,Fierce,4,5,grass,0,0,99
+corn,Arlington,2018,102,2,Resicore,1.75,5,common ragweed,0,0,99
+corn,Arlington,2018,215,2,Resicore,1.75,5,common ragweed,0,0,99
+corn,Arlington,2018,310,2,Resicore,1.75,5,common ragweed,0,0,95
+corn,Arlington,2018,405,2,Resicore,1.75,5,common ragweed,0,0,99
+corn,Arlington,2018,102,2,Resicore,1.75,5,lambs,0,0,99
+corn,Arlington,2018,215,2,Resicore,1.75,5,lambs,0,0,99
+corn,Arlington,2018,310,2,Resicore,1.75,5,lambs,0,0,95
+corn,Arlington,2018,405,2,Resicore,1.75,5,lambs,0,0,99
+corn,Arlington,2018,102,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Arlington,2018,215,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Arlington,2018,310,2,Resicore,1.75,5,velvetleaf,0,0,95
+corn,Arlington,2018,405,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Arlington,2018,102,2,Resicore,1.75,5,grass,5.5,44,80
+corn,Arlington,2018,215,2,Resicore,1.75,5,grass,1,8,85
+corn,Arlington,2018,310,2,Resicore,1.75,5,grass,6.5,52,80
+corn,Arlington,2018,405,2,Resicore,1.75,5,grass,0,0,99
+corn,Arlington,2018,107,7,Acuron Flexi,2.25,5,common ragweed,0,0,99
+corn,Arlington,2018,202,7,Acuron Flexi,2.25,5,common ragweed,0,0,95
+corn,Arlington,2018,314,7,Acuron Flexi,2.25,5,common ragweed,0,0,95
+corn,Arlington,2018,410,7,Acuron Flexi,2.25,5,common ragweed,0,0,99
+corn,Arlington,2018,107,7,Acuron Flexi,2.25,5,lambs,0,0,90
+corn,Arlington,2018,202,7,Acuron Flexi,2.25,5,lambs,0,0,98
+corn,Arlington,2018,314,7,Acuron Flexi,2.25,5,lambs,0,0,95
+corn,Arlington,2018,410,7,Acuron Flexi,2.25,5,lambs,0,0,99
+corn,Arlington,2018,107,7,Acuron Flexi,2.25,5,velvetleaf,0,0,90
+corn,Arlington,2018,202,7,Acuron Flexi,2.25,5,velvetleaf,0,0,88
+corn,Arlington,2018,314,7,Acuron Flexi,2.25,5,velvetleaf,0,0,95
+corn,Arlington,2018,410,7,Acuron Flexi,2.25,5,velvetleaf,0,0,99
+corn,Arlington,2018,107,7,Acuron Flexi,2.25,5,grass,6.5,52,80
+corn,Arlington,2018,202,7,Acuron Flexi,2.25,5,grass,5.5,44,60
+corn,Arlington,2018,314,7,Acuron Flexi,2.25,5,grass,4.5,36,80
+corn,Arlington,2018,410,7,Acuron Flexi,2.25,5,grass,0,0,99
+corn,Arlington,2018,112,12,Anthem Maxx,4,5,common ragweed,0,0,80
+corn,Arlington,2018,205,12,Anthem Maxx,4,5,common ragweed,0.5,4,20
+corn,Arlington,2018,311,12,Anthem Maxx,4,5,common ragweed,0.5,4,20
+corn,Arlington,2018,404,12,Anthem Maxx,4,5,common ragweed,0,0,99
+corn,Arlington,2018,112,12,Anthem Maxx,4,5,lambs,1.5,12,70
+corn,Arlington,2018,205,12,Anthem Maxx,4,5,lambs,1.5,12,20
+corn,Arlington,2018,311,12,Anthem Maxx,4,5,lambs,3.5,28,15
+corn,Arlington,2018,404,12,Anthem Maxx,4,5,lambs,0,0,99
+corn,Arlington,2018,112,12,Anthem Maxx,4,5,velvetleaf,0.5,4,80
+corn,Arlington,2018,205,12,Anthem Maxx,4,5,velvetleaf,0,0,20
+corn,Arlington,2018,311,12,Anthem Maxx,4,5,velvetleaf,0.5,4,20
+corn,Arlington,2018,404,12,Anthem Maxx,4,5,velvetleaf,0,0,99
+corn,Arlington,2018,112,12,Anthem Maxx,4,5,grass,3.5,28,20
+corn,Arlington,2018,205,12,Anthem Maxx,4,5,grass,7,56,20
+corn,Arlington,2018,311,12,Anthem Maxx,4,5,grass,3.5,28,20
+corn,Arlington,2018,404,12,Anthem Maxx,4,5,grass,0,0,99
+corn,Janesville,2018,102,2,Resicore,1.75,5,giant ragweed,1.5,12,90
+corn,Janesville,2018,209,2,Resicore,1.75,5,giant ragweed,0,0,99
+corn,Janesville,2018,304,2,Resicore,1.75,5,giant ragweed,0,0,99
+corn,Janesville,2018,414,2,Resicore,1.75,5,giant ragweed,0,0,99
+corn,Janesville,2018,102,2,Resicore,1.75,5,lambs,0,0,99
+corn,Janesville,2018,209,2,Resicore,1.75,5,lambs,0,0,99
+corn,Janesville,2018,304,2,Resicore,1.75,5,lambs,0,0,99
+corn,Janesville,2018,414,2,Resicore,1.75,5,lambs,0.5,4,98
+corn,Janesville,2018,102,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Janesville,2018,209,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Janesville,2018,304,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Janesville,2018,414,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Janesville,2018,102,2,Resicore,1.75,5,grass,0,0,97
+corn,Janesville,2018,209,2,Resicore,1.75,5,grass,0,0,97
+corn,Janesville,2018,304,2,Resicore,1.75,5,grass,0,0,97
+corn,Janesville,2018,414,2,Resicore,1.75,5,grass,0,0,97
+corn,Janesville,2018,102,2,Resicore,1.75,5,pigweed,0,0,99
+corn,Janesville,2018,209,2,Resicore,1.75,5,pigweed,0,0,99
+corn,Janesville,2018,304,2,Resicore,1.75,5,pigweed,0,0,99
+corn,Janesville,2018,414,2,Resicore,1.75,5,pigweed,0,0,99
+corn,Janesville,2018,107,7,Acuron Flexi,2.25,5,giant ragweed,0,0,99
+corn,Janesville,2018,215,7,Acuron Flexi,2.25,5,giant ragweed,0,0,99
+corn,Janesville,2018,301,7,Acuron Flexi,2.25,5,giant ragweed,2,16,60
+corn,Janesville,2018,406,7,Acuron Flexi,2.25,5,giant ragweed,2,16,85
+corn,Janesville,2018,107,7,Acuron Flexi,2.25,5,lambs,0,0,99
+corn,Janesville,2018,215,7,Acuron Flexi,2.25,5,lambs,0,0,99
+corn,Janesville,2018,301,7,Acuron Flexi,2.25,5,lambs,0,0,90
+corn,Janesville,2018,406,7,Acuron Flexi,2.25,5,lambs,0,0,99
+corn,Janesville,2018,107,7,Acuron Flexi,2.25,5,velvetleaf,0,0,99
+corn,Janesville,2018,215,7,Acuron Flexi,2.25,5,velvetleaf,0,0,99
+corn,Janesville,2018,301,7,Acuron Flexi,2.25,5,velvetleaf,0,0,99
+corn,Janesville,2018,406,7,Acuron Flexi,2.25,5,velvetleaf,0,0,99
+corn,Janesville,2018,107,7,Acuron Flexi,2.25,5,grass,0,0,99
+corn,Janesville,2018,215,7,Acuron Flexi,2.25,5,grass,0,0,99
+corn,Janesville,2018,301,7,Acuron Flexi,2.25,5,grass,0,0,99
+corn,Janesville,2018,406,7,Acuron Flexi,2.25,5,grass,0,0,99
+corn,Janesville,2018,107,7,Acuron Flexi,2.25,5,pigweed,0,0,99
+corn,Janesville,2018,215,7,Acuron Flexi,2.25,5,pigweed,0,0,99
+corn,Janesville,2018,301,7,Acuron Flexi,2.25,5,pigweed,0,0,99
+corn,Janesville,2018,406,7,Acuron Flexi,2.25,5,pigweed,0,0,99
+corn,Janesville,2018,112,12,Anthem Maxx,4,5,giant ragweed,0.5,4,95
+corn,Janesville,2018,216,12,Anthem Maxx,4,5,giant ragweed,0.5,4,90
+corn,Janesville,2018,303,12,Anthem Maxx,4,5,giant ragweed,0.5,4,90
+corn,Janesville,2018,412,12,Anthem Maxx,4,5,giant ragweed,0.5,4,85
+corn,Janesville,2018,112,12,Anthem Maxx,4,5,lambs,1,8,95
+corn,Janesville,2018,216,12,Anthem Maxx,4,5,lambs,1,8,90
+corn,Janesville,2018,303,12,Anthem Maxx,4,5,lambs,0,0,99
+corn,Janesville,2018,412,12,Anthem Maxx,4,5,lambs,0.5,4,90
+corn,Janesville,2018,112,12,Anthem Maxx,4,5,velvetleaf,0,0,99
+corn,Janesville,2018,216,12,Anthem Maxx,4,5,velvetleaf,0,0,99
+corn,Janesville,2018,303,12,Anthem Maxx,4,5,velvetleaf,0,0,99
+corn,Janesville,2018,412,12,Anthem Maxx,4,5,velvetleaf,0.5,4,85
+corn,Janesville,2018,112,12,Anthem Maxx,4,5,grass,0,0,99
+corn,Janesville,2018,216,12,Anthem Maxx,4,5,grass,0,0,99
+corn,Janesville,2018,303,12,Anthem Maxx,4,5,grass,0,0,99
+corn,Janesville,2018,412,12,Anthem Maxx,4,5,grass,0,0,99
+corn,Janesville,2018,112,12,Anthem Maxx,4,5,pigweed,0,0,99
+corn,Janesville,2018,216,12,Anthem Maxx,4,5,pigweed,0,0,99
+corn,Janesville,2018,303,12,Anthem Maxx,4,5,pigweed,0,0,99
+corn,Janesville,2018,412,12,Anthem Maxx,4,5,pigweed,0,0,99
+corn,Arlington,2019,110,10,Acuron Flexi,2.25,17.5,common ragweed,0,0,99
+corn,Arlington,2019,208,10,Acuron Flexi,2.25,17.5,common ragweed,0,0,99
+corn,Arlington,2019,301,10,Acuron Flexi,2.25,17.5,common ragweed,0,0,99
+corn,Arlington,2019,403,10,Acuron Flexi,2.25,17.5,common ragweed,0,0,99
+corn,Arlington,2019,102,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Arlington,2019,207,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Arlington,2019,305,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Arlington,2019,410,2,Resicore,1.75,5,velvetleaf,0,0,99
+corn,Arlington,2019,102,2,Resicore,1.75,5,lambs,0,0,99
+corn,Arlington,2019,207,2,Resicore,1.75,5,lambs,0,0,99
+corn,Arlington,2019,305,2,Resicore,1.75,5,lambs,0,0,99
+corn,Arlington,2019,410,2,Resicore,1.75,5,lambs,0,0,99
+corn,Arlington,2019,102,2,Resicore,1.75,5,grass,1,5.4,99
+corn,Arlington,2019,207,2,Resicore,1.75,5,grass,0,0,99
+corn,Arlington,2019,305,2,Resicore,1.75,5,grass,0,0,99
+corn,Arlington,2019,410,2,Resicore,1.75,5,grass,2,10.8,90
+corn,Arlington,2019,111,11,Anthem Maxx,4,2.5,common ragweed,0,0,99
+corn,Arlington,2019,206,11,Anthem Maxx,4,2.5,common ragweed,0,0,99
+corn,Arlington,2019,316,11,Anthem Maxx,4,2.5,common ragweed,0,0,99
+corn,Arlington,2019,401,11,Anthem Maxx,4,2.5,common ragweed,0,0,99
+corn,Arlington,2019,107,7,Acuron Flexi,2.25,5,velvetleaf,0,0,99
+corn,Arlington,2019,203,7,Acuron Flexi,2.25,5,velvetleaf,0,0,99
+corn,Arlington,2019,309,7,Acuron Flexi,2.25,5,velvetleaf,0,0,99
+corn,Arlington,2019,411,7,Acuron Flexi,2.25,5,velvetleaf,0,0,99
+corn,Arlington,2019,107,7,Acuron Flexi,2.25,5,lambs,0,0,99
+corn,Arlington,2019,203,7,Acuron Flexi,2.25,5,lambs,0,0,99
+corn,Arlington,2019,309,7,Acuron Flexi,2.25,5,lambs,0,0,99
+corn,Arlington,2019,411,7,Acuron Flexi,2.25,5,lambs,0,0,99
+corn,Arlington,2019,107,7,Acuron Flexi,2.25,5,grass,0,0,99
+corn,Arlington,2019,203,7,Acuron Flexi,2.25,5,grass,0,0,99
+corn,Arlington,2019,309,7,Acuron Flexi,2.25,5,grass,0,0,99
+corn,Arlington,2019,411,7,Acuron Flexi,2.25,5,grass,1,5.4,98
+corn,Arlington,2019,112,12,Anthem Maxx,4,5,common ragweed,0,0,99
+corn,Arlington,2019,216,12,Anthem Maxx,4,5,common ragweed,0,0,99
+corn,Arlington,2019,308,12,Anthem Maxx,4,5,common ragweed,0,0,99
+corn,Arlington,2019,404,12,Anthem Maxx,4,5,common ragweed,0,0,99
+corn,Arlington,2019,112,12,Anthem Maxx,4,5,velvetleaf,1,5.4,98
+corn,Arlington,2019,216,12,Anthem Maxx,4,5,velvetleaf,2,10.8,95
+corn,Arlington,2019,308,12,Anthem Maxx,4,5,velvetleaf,1,5.4,99
+corn,Arlington,2019,404,12,Anthem Maxx,4,5,velvetleaf,3,16.1,80
+corn,Arlington,2019,112,12,Anthem Maxx,4,5,lambs,0,0,99
+corn,Arlington,2019,216,12,Anthem Maxx,4,5,lambs,0,0,99
+corn,Arlington,2019,308,12,Anthem Maxx,4,5,lambs,0,0,99
+corn,Arlington,2019,404,12,Anthem Maxx,4,5,lambs,2,10.8,99
+corn,Arlington,2019,112,12,Anthem Maxx,4,5,grass,0,0,99
+corn,Arlington,2019,216,12,Anthem Maxx,4,5,grass,0,0,99
+corn,Arlington,2019,308,12,Anthem Maxx,4,5,grass,0,0,99
+corn,Arlington,2019,404,12,Anthem Maxx,4,5,grass,2,10.8,97
+soybean,Arlington,2018,103,3,Canopy DF,2.25,10,common ragweed,2,16,88
+soybean,Arlington,2018,216,3,Canopy DF,2.25,10,common ragweed,0,0,99
+soybean,Arlington,2018,301,3,Canopy DF,2.25,10,common ragweed,2,16,85
+soybean,Arlington,2018,409,3,Canopy DF,2.25,10,common ragweed,0.5,4,80
+soybean,Arlington,2018,103,3,Canopy DF,2.25,10,lambs,0,0,99
+soybean,Arlington,2018,216,3,Canopy DF,2.25,10,lambs,0.5,4,95
+soybean,Arlington,2018,301,3,Canopy DF,2.25,10,lambs,0,0,90
+soybean,Arlington,2018,409,3,Canopy DF,2.25,10,lambs,0,0,95
+soybean,Arlington,2018,103,3,Canopy DF,2.25,10,velvetleaf,1,8,90
+soybean,Arlington,2018,216,3,Canopy DF,2.25,10,velvetleaf,0.5,4,95
+soybean,Arlington,2018,301,3,Canopy DF,2.25,10,velvetleaf,1,8,85
+soybean,Arlington,2018,409,3,Canopy DF,2.25,10,velvetleaf,0,0,85
+soybean,Arlington,2018,103,3,Canopy DF,2.25,10,grass,1.5,12,88
+soybean,Arlington,2018,216,3,Canopy DF,2.25,10,grass,2,16,90
+soybean,Arlington,2018,301,3,Canopy DF,2.25,10,grass,4,32,75
+soybean,Arlington,2018,409,3,Canopy DF,2.25,10,grass,6,48,75
+soybean,Arlington,2018,103,3,Canopy DF,2.25,10,smartweed,0,0,99
+soybean,Arlington,2018,216,3,Canopy DF,2.25,10,smartweed,0,0,99
+soybean,Arlington,2018,301,3,Canopy DF,2.25,10,smartweed,0,0,99
+soybean,Arlington,2018,409,3,Canopy DF,2.25,10,smartweed,0,0,99
+soybean,Arlington,2018,103,3,Canopy DF,2.25,10,eb nightshade,0.5,4,99
+soybean,Arlington,2018,216,3,Canopy DF,2.25,10,eb nightshade,0.5,4,99
+soybean,Arlington,2018,301,3,Canopy DF,2.25,10,eb nightshade,0,0,99
+soybean,Arlington,2018,409,3,Canopy DF,2.25,10,eb nightshade,0,0,99
+soybean,Arlington,2018,108,8,Verdict,5,10,common ragweed,0.5,4,85
+soybean,Arlington,2018,213,8,Verdict,5,10,common ragweed,1.5,12,85
+soybean,Arlington,2018,315,8,Verdict,5,10,common ragweed,0,0,95
+soybean,Arlington,2018,411,8,Verdict,5,10,common ragweed,0,0,88
+soybean,Arlington,2018,108,8,Verdict,5,10,lambs,1,8,80
+soybean,Arlington,2018,213,8,Verdict,5,10,lambs,2,16,90
+soybean,Arlington,2018,315,8,Verdict,5,10,lambs,0,0,95
+soybean,Arlington,2018,411,8,Verdict,5,10,lambs,0,0,88
+soybean,Arlington,2018,108,8,Verdict,5,10,velvetleaf,1,8,85
+soybean,Arlington,2018,213,8,Verdict,5,10,velvetleaf,0.5,4,90
+soybean,Arlington,2018,315,8,Verdict,5,10,velvetleaf,0.5,4,92
+soybean,Arlington,2018,411,8,Verdict,5,10,velvetleaf,0.5,4,95
+soybean,Arlington,2018,108,8,Verdict,5,10,grass,1,8,95
+soybean,Arlington,2018,213,8,Verdict,5,10,grass,0,0,90
+soybean,Arlington,2018,315,8,Verdict,5,10,grass,4,32,85
+soybean,Arlington,2018,411,8,Verdict,5,10,grass,9,72,80
+soybean,Arlington,2018,108,8,Verdict,5,10,smartweed,0,0,99
+soybean,Arlington,2018,213,8,Verdict,5,10,smartweed,1,8,99
+soybean,Arlington,2018,315,8,Verdict,5,10,smartweed,0,0,99
+soybean,Arlington,2018,411,8,Verdict,5,10,smartweed,0,0,99
+soybean,Arlington,2018,108,8,Verdict,5,10,eb nightshade,0,0,99
+soybean,Arlington,2018,213,8,Verdict,5,10,eb nightshade,0,0,99
+soybean,Arlington,2018,315,8,Verdict,5,10,eb nightshade,0,0,99
+soybean,Arlington,2018,411,8,Verdict,5,10,eb nightshade,0,0,99
+soybean,Arlington,2018,113,13,Fierce,4,10,common ragweed,0,0,99
+soybean,Arlington,2018,209,13,Fierce,4,10,common ragweed,1,8,90
+soybean,Arlington,2018,306,13,Fierce,4,10,common ragweed,1,8,90
+soybean,Arlington,2018,410,13,Fierce,4,10,common ragweed,0,0,95
+soybean,Arlington,2018,113,13,Fierce,4,10,lambs,1.5,12,99
+soybean,Arlington,2018,209,13,Fierce,4,10,lambs,0.5,4,90
+soybean,Arlington,2018,306,13,Fierce,4,10,lambs,0,0,95
+soybean,Arlington,2018,410,13,Fierce,4,10,lambs,0.5,4,95
+soybean,Arlington,2018,113,13,Fierce,4,10,velvetleaf,0,0,99
+soybean,Arlington,2018,209,13,Fierce,4,10,velvetleaf,1,8,90
+soybean,Arlington,2018,306,13,Fierce,4,10,velvetleaf,0,0,95
+soybean,Arlington,2018,410,13,Fierce,4,10,velvetleaf,0,0,98
+soybean,Arlington,2018,113,13,Fierce,4,10,grass,0.5,4,99
+soybean,Arlington,2018,209,13,Fierce,4,10,grass,3,24,90
+soybean,Arlington,2018,306,13,Fierce,4,10,grass,0.5,4,95
+soybean,Arlington,2018,410,13,Fierce,4,10,grass,4.5,36,90
+soybean,Arlington,2018,113,13,Fierce,4,10,smartweed,0,0,99
+soybean,Arlington,2018,209,13,Fierce,4,10,smartweed,0,0,99
+soybean,Arlington,2018,306,13,Fierce,4,10,smartweed,0,0,99
+soybean,Arlington,2018,410,13,Fierce,4,10,smartweed,0,0,99
+soybean,Arlington,2018,113,13,Fierce,4,10,eb nightshade,0,0,99
+soybean,Arlington,2018,209,13,Fierce,4,10,eb nightshade,0,0,99
+soybean,Arlington,2018,306,13,Fierce,4,10,eb nightshade,0,0,99
+soybean,Arlington,2018,410,13,Fierce,4,10,eb nightshade,0,0,99
+soybean,Janesville,2018,103,3,Canopy DF,2.25,10,giant ragweed,5,40,10
+soybean,Janesville,2018,212,3,Canopy DF,2.25,10,giant ragweed,1,8,40
+soybean,Janesville,2018,301,3,Canopy DF,2.25,10,giant ragweed,1.5,12,75
+soybean,Janesville,2018,409,3,Canopy DF,2.25,10,giant ragweed,1,8,85
+soybean,Janesville,2018,103,3,Canopy DF,2.25,10,lambs,0,0,99
+soybean,Janesville,2018,212,3,Canopy DF,2.25,10,lambs,0,0,90
+soybean,Janesville,2018,301,3,Canopy DF,2.25,10,lambs,0,0,99
+soybean,Janesville,2018,409,3,Canopy DF,2.25,10,lambs,0,0,99
+soybean,Janesville,2018,103,3,Canopy DF,2.25,10,velvetleaf,0,0,99
+soybean,Janesville,2018,212,3,Canopy DF,2.25,10,velvetleaf,0,0,90
+soybean,Janesville,2018,301,3,Canopy DF,2.25,10,velvetleaf,0,0,99
+soybean,Janesville,2018,409,3,Canopy DF,2.25,10,velvetleaf,0,0,99
+soybean,Janesville,2018,103,3,Canopy DF,2.25,10,grass,1,8,90
+soybean,Janesville,2018,212,3,Canopy DF,2.25,10,grass,0,0,90
+soybean,Janesville,2018,301,3,Canopy DF,2.25,10,grass,3,24,70
+soybean,Janesville,2018,409,3,Canopy DF,2.25,10,grass,0,0,90
+soybean,Janesville,2018,103,3,Canopy DF,2.25,10,pigweed,0,0,99
+soybean,Janesville,2018,212,3,Canopy DF,2.25,10,pigweed,0,0,99
+soybean,Janesville,2018,301,3,Canopy DF,2.25,10,pigweed,0,0,99
+soybean,Janesville,2018,409,3,Canopy DF,2.25,10,pigweed,0,0,99
+soybean,Janesville,2018,108,8,Verdict,5,10,giant ragweed,1,8,90
+soybean,Janesville,2018,205,8,Verdict,5,10,giant ragweed,3,24,10
+soybean,Janesville,2018,313,8,Verdict,5,10,giant ragweed,2,16,40
+soybean,Janesville,2018,416,8,Verdict,5,10,giant ragweed,4,32,20
+soybean,Janesville,2018,108,8,Verdict,5,10,lambs,0,0,95
+soybean,Janesville,2018,205,8,Verdict,5,10,lambs,0,0,99
+soybean,Janesville,2018,313,8,Verdict,5,10,lambs,0,0,99
+soybean,Janesville,2018,416,8,Verdict,5,10,lambs,0,0,99
+soybean,Janesville,2018,108,8,Verdict,5,10,velvetleaf,0,0,99
+soybean,Janesville,2018,205,8,Verdict,5,10,velvetleaf,0,0,99
+soybean,Janesville,2018,313,8,Verdict,5,10,velvetleaf,0,0,99
+soybean,Janesville,2018,416,8,Verdict,5,10,velvetleaf,0,0,99
+soybean,Janesville,2018,108,8,Verdict,5,10,grass,0.5,4,95
+soybean,Janesville,2018,205,8,Verdict,5,10,grass,0,0,99
+soybean,Janesville,2018,313,8,Verdict,5,10,grass,0,0,99
+soybean,Janesville,2018,416,8,Verdict,5,10,grass,0,0,99
+soybean,Janesville,2018,108,8,Verdict,5,10,pigweed,0,0,99
+soybean,Janesville,2018,205,8,Verdict,5,10,pigweed,0,0,99
+soybean,Janesville,2018,313,8,Verdict,5,10,pigweed,0,0,99
+soybean,Janesville,2018,416,8,Verdict,5,10,pigweed,0,0,99
+soybean,Janesville,2018,113,13,Fierce,4,10,giant ragweed,3,24,10
+soybean,Janesville,2018,209,13,Fierce,4,10,giant ragweed,0.5,4,85
+soybean,Janesville,2018,303,13,Fierce,4,10,giant ragweed,2,16,35
+soybean,Janesville,2018,401,13,Fierce,4,10,giant ragweed,0.5,4,95
+soybean,Janesville,2018,113,13,Fierce,4,10,lambs,0,0,99
+soybean,Janesville,2018,209,13,Fierce,4,10,lambs,0,0,99
+soybean,Janesville,2018,303,13,Fierce,4,10,lambs,0,0,99
+soybean,Janesville,2018,401,13,Fierce,4,10,lambs,0,0,99
+soybean,Janesville,2018,113,13,Fierce,4,10,velvetleaf,0,0,99
+soybean,Janesville,2018,209,13,Fierce,4,10,velvetleaf,0,0,99
+soybean,Janesville,2018,303,13,Fierce,4,10,velvetleaf,0,0,99
+soybean,Janesville,2018,401,13,Fierce,4,10,velvetleaf,0,0,99
+soybean,Janesville,2018,113,13,Fierce,4,10,grass,0,0,99
+soybean,Janesville,2018,209,13,Fierce,4,10,grass,0,0,99
+soybean,Janesville,2018,303,13,Fierce,4,10,grass,0,0,99
+soybean,Janesville,2018,401,13,Fierce,4,10,grass,0,0,85
+soybean,Janesville,2018,113,13,Fierce,4,10,pigweed,0,0,99
+soybean,Janesville,2018,209,13,Fierce,4,10,pigweed,0,0,99
+soybean,Janesville,2018,303,13,Fierce,4,10,pigweed,0,0,99
+soybean,Janesville,2018,401,13,Fierce,4,10,pigweed,0,0,99
+soybean,Arlington,2019,213,10,Verdict,5,17.5,common ragweed,2,10.8,97
+soybean,Arlington,2019,103,3,Canopy DF,2.25,10,velvetleaf,0,0,99
+soybean,Arlington,2019,103,3,Canopy DF,2.25,10,lambs,0,0,99
+soybean,Arlington,2019,103,3,Canopy DF,2.25,10,grass,1,5.4,97
+soybean,Arlington,2019,214,2,Canopy DF,2.25,5,common ragweed,0,0,93
+soybean,Arlington,2019,209,3,Canopy DF,2.25,10,velvetleaf,0,0,99
+soybean,Arlington,2019,209,3,Canopy DF,2.25,10,lambs,0,0,99
+soybean,Arlington,2019,209,3,Canopy DF,2.25,10,grass,2,10.8,92
+soybean,Arlington,2019,215,13,Fierce,4,10,common ragweed,0,0,94
+soybean,Arlington,2019,301,3,Canopy DF,2.25,10,velvetleaf,0,0,99
+soybean,Arlington,2019,301,3,Canopy DF,2.25,10,lambs,0,0,99
+soybean,Arlington,2019,301,3,Canopy DF,2.25,10,grass,1,5.4,97
+soybean,Arlington,2019,216,14,Fierce,4,15,common ragweed,1,5.4,91
+soybean,Arlington,2019,415,3,Canopy DF,2.25,10,velvetleaf,1,5.4,95
+soybean,Arlington,2019,415,3,Canopy DF,2.25,10,lambs,0,0,96
+soybean,Arlington,2019,415,3,Canopy DF,2.25,10,grass,1,5.4,98
+soybean,Arlington,2019,301,3,Canopy DF,2.25,10,common ragweed,0,0,88
+soybean,Arlington,2019,108,8,Verdict,5,10,velvetleaf,0,0,99
+soybean,Arlington,2019,108,8,Verdict,5,10,lambs,0,0,92
+soybean,Arlington,2019,108,8,Verdict,5,10,grass,2,10.8,98
+soybean,Arlington,2019,302,11,Fierce,4,2.5,common ragweed,2,10.8,90
+soybean,Arlington,2019,201,8,Verdict,5,10,velvetleaf,0,0,99
+soybean,Arlington,2019,201,8,Verdict,5,10,lambs,0,0,98
+soybean,Arlington,2019,201,8,Verdict,5,10,grass,1,5.4,99
+soybean,Arlington,2019,303,2,Canopy DF,2.25,5,common ragweed,2,10.8,99
+soybean,Arlington,2019,307,8,Verdict,5,10,velvetleaf,0,0,99
+soybean,Arlington,2019,307,8,Verdict,5,10,lambs,2,10.8,85
+soybean,Arlington,2019,307,8,Verdict,5,10,grass,2,10.8,85
+soybean,Arlington,2019,304,13,Fierce,4,10,common ragweed,2,10.8,85
+soybean,Arlington,2019,404,8,Verdict,5,10,velvetleaf,0,0,96
+soybean,Arlington,2019,404,8,Verdict,5,10,lambs,2,10.8,88
+soybean,Arlington,2019,404,8,Verdict,5,10,grass,0,0,99
+soybean,Arlington,2019,305,10,Verdict,5,17.5,common ragweed,0,0,98
+soybean,Arlington,2019,113,13,Fierce,4,10,velvetleaf,0,0,99
+soybean,Arlington,2019,113,13,Fierce,4,10,lambs,0,0,99
+soybean,Arlington,2019,113,13,Fierce,4,10,grass,0,0,99
+soybean,Arlington,2019,306,14,Fierce,4,15,common ragweed,0,0,99
+soybean,Arlington,2019,215,13,Fierce,4,10,velvetleaf,0,0,99
+soybean,Arlington,2019,215,13,Fierce,4,10,lambs,0,0,99
+soybean,Arlington,2019,215,13,Fierce,4,10,grass,0,0,99
+soybean,Arlington,2019,307,8,Verdict,5,10,common ragweed,0,0,99
+soybean,Arlington,2019,304,13,Fierce,4,10,velvetleaf,0,0,99
+soybean,Arlington,2019,304,13,Fierce,4,10,lambs,0,0,99
+soybean,Arlington,2019,304,13,Fierce,4,10,grass,0,0,99
+soybean,Arlington,2019,308,15,Fierce,4,17.5,common ragweed,0,0,99
+soybean,Arlington,2019,402,13,Fierce,4,10,velvetleaf,0,0,99
+soybean,Arlington,2019,402,13,Fierce,4,10,lambs,0,0,99
+soybean,Arlington,2019,402,13,Fierce,4,10,grass,0,0,99
+corn,Arlington,2018,103,3,Resicore,1.75,10,common ragweed,0,0,99
+corn,Arlington,2018,206,3,Resicore,1.75,10,common ragweed,0,0,95
+corn,Arlington,2018,316,3,Resicore,1.75,10,common ragweed,0,0,95
+corn,Arlington,2018,411,3,Resicore,1.75,10,common ragweed,0,0,80
+corn,Arlington,2018,103,3,Resicore,1.75,10,lambs,0,0,90
+corn,Arlington,2018,206,3,Resicore,1.75,10,lambs,0,0,90
+corn,Arlington,2018,316,3,Resicore,1.75,10,lambs,0.5,4,90
+corn,Arlington,2018,411,3,Resicore,1.75,10,lambs,3.5,28,85
+corn,Arlington,2018,103,3,Resicore,1.75,10,velvetleaf,0.5,4,85
+corn,Arlington,2018,206,3,Resicore,1.75,10,velvetleaf,0,0,95
+corn,Arlington,2018,316,3,Resicore,1.75,10,velvetleaf,0,0,90
+corn,Arlington,2018,411,3,Resicore,1.75,10,velvetleaf,0,0,80
+corn,Arlington,2018,103,3,Resicore,1.75,10,grass,6,48,80
+corn,Arlington,2018,206,3,Resicore,1.75,10,grass,9,72,60
+corn,Arlington,2018,316,3,Resicore,1.75,10,grass,7,56,80
+corn,Arlington,2018,411,3,Resicore,1.75,10,grass,5,40,85
+corn,Arlington,2018,108,8,Acuron Flexi,2.25,10,common ragweed,0,0,99
+corn,Arlington,2018,212,8,Acuron Flexi,2.25,10,common ragweed,0,0,95
+corn,Arlington,2018,305,8,Acuron Flexi,2.25,10,common ragweed,0,0,90
+corn,Arlington,2018,407,8,Acuron Flexi,2.25,10,common ragweed,0,0,95
+corn,Arlington,2018,108,8,Acuron Flexi,2.25,10,lambs,0,0,95
+corn,Arlington,2018,212,8,Acuron Flexi,2.25,10,lambs,0,0,95
+corn,Arlington,2018,305,8,Acuron Flexi,2.25,10,lambs,0,0,95
+corn,Arlington,2018,407,8,Acuron Flexi,2.25,10,lambs,0,0,95
+corn,Arlington,2018,108,8,Acuron Flexi,2.25,10,velvetleaf,0,0,90
+corn,Arlington,2018,212,8,Acuron Flexi,2.25,10,velvetleaf,0,0,98
+corn,Arlington,2018,305,8,Acuron Flexi,2.25,10,velvetleaf,0,0,90
+corn,Arlington,2018,407,8,Acuron Flexi,2.25,10,velvetleaf,0,0,95
+corn,Arlington,2018,108,8,Acuron Flexi,2.25,10,grass,8,64,80
+corn,Arlington,2018,212,8,Acuron Flexi,2.25,10,grass,3,24,88
+corn,Arlington,2018,305,8,Acuron Flexi,2.25,10,grass,3.5,28,80
+corn,Arlington,2018,407,8,Acuron Flexi,2.25,10,grass,2,16,95
+corn,Arlington,2018,113,13,Anthem Maxx,4,10,common ragweed,0,0,40
+corn,Arlington,2018,208,13,Anthem Maxx,4,10,common ragweed,0,0,20
+corn,Arlington,2018,301,13,Anthem Maxx,4,10,common ragweed,1.5,12,20
+corn,Arlington,2018,416,13,Anthem Maxx,4,10,common ragweed,0,0,20
+corn,Arlington,2018,113,13,Anthem Maxx,4,10,lambs,7,56,20
+corn,Arlington,2018,208,13,Anthem Maxx,4,10,lambs,44.5,356,20
+corn,Arlington,2018,301,13,Anthem Maxx,4,10,lambs,0,0,20
+corn,Arlington,2018,416,13,Anthem Maxx,4,10,lambs,0,0,20
+corn,Arlington,2018,113,13,Anthem Maxx,4,10,velvetleaf,0,0,50
+corn,Arlington,2018,208,13,Anthem Maxx,4,10,velvetleaf,0,0,20
+corn,Arlington,2018,301,13,Anthem Maxx,4,10,velvetleaf,1,8,20
+corn,Arlington,2018,416,13,Anthem Maxx,4,10,velvetleaf,1.5,12,20
+corn,Arlington,2018,113,13,Anthem Maxx,4,10,grass,4.5,36,20
+corn,Arlington,2018,208,13,Anthem Maxx,4,10,grass,4.5,36,20
+corn,Arlington,2018,301,13,Anthem Maxx,4,10,grass,4.5,36,20
+corn,Arlington,2018,416,13,Anthem Maxx,4,10,grass,5.5,44,20
+corn,Janesville,2018,103,3,Resicore,1.75,10,giant ragweed,0.5,4,95
+corn,Janesville,2018,208,3,Resicore,1.75,10,giant ragweed,0,0,99
+corn,Janesville,2018,313,3,Resicore,1.75,10,giant ragweed,0.5,4,92
+corn,Janesville,2018,404,3,Resicore,1.75,10,giant ragweed,0.5,4,90
+corn,Janesville,2018,103,3,Resicore,1.75,10,lambs,0,0,99
+corn,Janesville,2018,208,3,Resicore,1.75,10,lambs,0,0,99
+corn,Janesville,2018,313,3,Resicore,1.75,10,lambs,0,0,99
+corn,Janesville,2018,404,3,Resicore,1.75,10,lambs,0,0,99
+corn,Janesville,2018,103,3,Resicore,1.75,10,velvetleaf,0,0,99
+corn,Janesville,2018,208,3,Resicore,1.75,10,velvetleaf,0,0,99
+corn,Janesville,2018,313,3,Resicore,1.75,10,velvetleaf,0,0,99
+corn,Janesville,2018,404,3,Resicore,1.75,10,velvetleaf,0,0,99
+corn,Janesville,2018,103,3,Resicore,1.75,10,grass,0,0,98
+corn,Janesville,2018,208,3,Resicore,1.75,10,grass,0,0,98
+corn,Janesville,2018,313,3,Resicore,1.75,10,grass,0,0,96
+corn,Janesville,2018,404,3,Resicore,1.75,10,grass,0,0,97
+corn,Janesville,2018,103,3,Resicore,1.75,10,pigweed,0,0,99
+corn,Janesville,2018,208,3,Resicore,1.75,10,pigweed,0,0,99
+corn,Janesville,2018,313,3,Resicore,1.75,10,pigweed,0,0,99
+corn,Janesville,2018,404,3,Resicore,1.75,10,pigweed,0,0,99
+corn,Janesville,2018,108,8,Acuron Flexi,2.25,10,giant ragweed,0,0,99
+corn,Janesville,2018,214,8,Acuron Flexi,2.25,10,giant ragweed,0,0,99
+corn,Janesville,2018,305,8,Acuron Flexi,2.25,10,giant ragweed,0,0,99
+corn,Janesville,2018,409,8,Acuron Flexi,2.25,10,giant ragweed,0.5,4,92
+corn,Janesville,2018,108,8,Acuron Flexi,2.25,10,lambs,0,0,99
+corn,Janesville,2018,214,8,Acuron Flexi,2.25,10,lambs,0,0,99
+corn,Janesville,2018,305,8,Acuron Flexi,2.25,10,lambs,0,0,99
+corn,Janesville,2018,409,8,Acuron Flexi,2.25,10,lambs,0,0,99
+corn,Janesville,2018,108,8,Acuron Flexi,2.25,10,velvetleaf,0,0,99
+corn,Janesville,2018,214,8,Acuron Flexi,2.25,10,velvetleaf,0,0,99
+corn,Janesville,2018,305,8,Acuron Flexi,2.25,10,velvetleaf,0,0,99
+corn,Janesville,2018,409,8,Acuron Flexi,2.25,10,velvetleaf,0,0,99
+corn,Janesville,2018,108,8,Acuron Flexi,2.25,10,grass,0,0,99
+corn,Janesville,2018,214,8,Acuron Flexi,2.25,10,grass,0,0,99
+corn,Janesville,2018,305,8,Acuron Flexi,2.25,10,grass,0,0,99
+corn,Janesville,2018,409,8,Acuron Flexi,2.25,10,grass,0,0,99
+corn,Janesville,2018,108,8,Acuron Flexi,2.25,10,pigweed,0,0,99
+corn,Janesville,2018,214,8,Acuron Flexi,2.25,10,pigweed,0,0,99
+corn,Janesville,2018,305,8,Acuron Flexi,2.25,10,pigweed,0,0,99
+corn,Janesville,2018,409,8,Acuron Flexi,2.25,10,pigweed,0,0,99
+corn,Janesville,2018,113,13,Anthem Maxx,4,10,giant ragweed,1.5,12,70
+corn,Janesville,2018,203,13,Anthem Maxx,4,10,giant ragweed,0.5,4,85
+corn,Janesville,2018,308,13,Anthem Maxx,4,10,giant ragweed,4,32,50
+corn,Janesville,2018,416,13,Anthem Maxx,4,10,giant ragweed,0.5,4,94
+corn,Janesville,2018,113,13,Anthem Maxx,4,10,lambs,0,0,99
+corn,Janesville,2018,203,13,Anthem Maxx,4,10,lambs,0.5,4,90
+corn,Janesville,2018,308,13,Anthem Maxx,4,10,lambs,0,0,99
+corn,Janesville,2018,416,13,Anthem Maxx,4,10,lambs,0,0,99
+corn,Janesville,2018,113,13,Anthem Maxx,4,10,velvetleaf,0.5,4,90
+corn,Janesville,2018,203,13,Anthem Maxx,4,10,velvetleaf,0,0,90
+corn,Janesville,2018,308,13,Anthem Maxx,4,10,velvetleaf,0,0,99
+corn,Janesville,2018,416,13,Anthem Maxx,4,10,velvetleaf,0,0,99
+corn,Janesville,2018,113,13,Anthem Maxx,4,10,grass,0,0,99
+corn,Janesville,2018,203,13,Anthem Maxx,4,10,grass,0,0,99
+corn,Janesville,2018,308,13,Anthem Maxx,4,10,grass,0,0,99
+corn,Janesville,2018,416,13,Anthem Maxx,4,10,grass,0,0,99
+corn,Janesville,2018,113,13,Anthem Maxx,4,10,pigweed,0,0,99
+corn,Janesville,2018,203,13,Anthem Maxx,4,10,pigweed,0,0,99
+corn,Janesville,2018,308,13,Anthem Maxx,4,10,pigweed,0,0,99
+corn,Janesville,2018,416,13,Anthem Maxx,4,10,pigweed,0,0,99
+corn,Arlington,2019,113,13,Anthem Maxx,4,10,common ragweed,0,0,99
+corn,Arlington,2019,215,13,Anthem Maxx,4,10,common ragweed,0,0,99
+corn,Arlington,2019,303,13,Anthem Maxx,4,10,common ragweed,0,0,99
+corn,Arlington,2019,407,13,Anthem Maxx,4,10,common ragweed,0,0,99
+corn,Arlington,2019,103,3,Resicore,1.75,10,velvetleaf,0,0,99
+corn,Arlington,2019,205,3,Resicore,1.75,10,velvetleaf,0,0,99
+corn,Arlington,2019,314,3,Resicore,1.75,10,velvetleaf,0,0,99
+corn,Arlington,2019,416,3,Resicore,1.75,10,velvetleaf,0,0,99
+corn,Arlington,2019,103,3,Resicore,1.75,10,lambs,0,0,99
+corn,Arlington,2019,205,3,Resicore,1.75,10,lambs,0,0,99
+corn,Arlington,2019,314,3,Resicore,1.75,10,lambs,0,0,99
+corn,Arlington,2019,416,3,Resicore,1.75,10,lambs,0,0,99
+corn,Arlington,2019,103,3,Resicore,1.75,10,grass,1,5.4,97
+corn,Arlington,2019,205,3,Resicore,1.75,10,grass,0,0,99
+corn,Arlington,2019,314,3,Resicore,1.75,10,grass,2,10.8,99
+corn,Arlington,2019,416,3,Resicore,1.75,10,grass,0,0,99
+corn,Arlington,2019,114,14,Anthem Maxx,4,15,common ragweed,0,0,99
+corn,Arlington,2019,209,14,Anthem Maxx,4,15,common ragweed,0,0,99
+corn,Arlington,2019,313,14,Anthem Maxx,4,15,common ragweed,0,0,99
+corn,Arlington,2019,402,14,Anthem Maxx,4,15,common ragweed,0,0,99
+corn,Arlington,2019,108,8,Acuron Flexi,2.25,10,velvetleaf,0,0,99
+corn,Arlington,2019,213,8,Acuron Flexi,2.25,10,velvetleaf,0,0,99
+corn,Arlington,2019,315,8,Acuron Flexi,2.25,10,velvetleaf,0,0,99
+corn,Arlington,2019,406,8,Acuron Flexi,2.25,10,velvetleaf,0,0,99
+corn,Arlington,2019,108,8,Acuron Flexi,2.25,10,lambs,0,0,99
+corn,Arlington,2019,213,8,Acuron Flexi,2.25,10,lambs,0,0,99
+corn,Arlington,2019,315,8,Acuron Flexi,2.25,10,lambs,0,0,99
+corn,Arlington,2019,406,8,Acuron Flexi,2.25,10,lambs,0,0,99
+corn,Arlington,2019,108,8,Acuron Flexi,2.25,10,grass,0,0,99
+corn,Arlington,2019,213,8,Acuron Flexi,2.25,10,grass,0,0,99
+corn,Arlington,2019,315,8,Acuron Flexi,2.25,10,grass,1,5.4,99
+corn,Arlington,2019,406,8,Acuron Flexi,2.25,10,grass,0,0,99
+corn,Arlington,2019,115,15,Anthem Maxx,4,17.5,common ragweed,0,0,99
+corn,Arlington,2019,201,15,Anthem Maxx,4,17.5,common ragweed,0,0,99
+corn,Arlington,2019,310,15,Anthem Maxx,4,17.5,common ragweed,0,0,99
+corn,Arlington,2019,414,15,Anthem Maxx,4,17.5,common ragweed,0,0,99
+corn,Arlington,2019,113,13,Anthem Maxx,4,10,velvetleaf,3,16.1,95
+corn,Arlington,2019,215,13,Anthem Maxx,4,10,velvetleaf,4,21.5,60
+corn,Arlington,2019,303,13,Anthem Maxx,4,10,velvetleaf,2,10.8,95
+corn,Arlington,2019,407,13,Anthem Maxx,4,10,velvetleaf,2,10.8,85
+corn,Arlington,2019,113,13,Anthem Maxx,4,10,lambs,1,5.4,99
+corn,Arlington,2019,215,13,Anthem Maxx,4,10,lambs,0,0,99
+corn,Arlington,2019,303,13,Anthem Maxx,4,10,lambs,0,0,99
+corn,Arlington,2019,407,13,Anthem Maxx,4,10,lambs,0,0,99
+corn,Arlington,2019,113,13,Anthem Maxx,4,10,grass,1,5.4,99
+corn,Arlington,2019,215,13,Anthem Maxx,4,10,grass,0,0,99
+corn,Arlington,2019,303,13,Anthem Maxx,4,10,grass,0,0,99
+corn,Arlington,2019,407,13,Anthem Maxx,4,10,grass,2,10.8,95
+soybean,Arlington,2018,104,4,Canopy DF,2.25,15,common ragweed,1.5,12,88
+soybean,Arlington,2018,215,4,Canopy DF,2.25,15,common ragweed,0.5,4,95
+soybean,Arlington,2018,310,4,Canopy DF,2.25,15,common ragweed,1.5,12,30
+soybean,Arlington,2018,403,4,Canopy DF,2.25,15,common ragweed,0.5,4,85
+soybean,Arlington,2018,104,4,Canopy DF,2.25,15,lambs,0,0,99
+soybean,Arlington,2018,215,4,Canopy DF,2.25,15,lambs,1,8,92
+soybean,Arlington,2018,310,4,Canopy DF,2.25,15,lambs,0.5,4,85
+soybean,Arlington,2018,403,4,Canopy DF,2.25,15,lambs,0,0,88
+soybean,Arlington,2018,104,4,Canopy DF,2.25,15,velvetleaf,0,0,99
+soybean,Arlington,2018,215,4,Canopy DF,2.25,15,velvetleaf,1,8,95
+soybean,Arlington,2018,310,4,Canopy DF,2.25,15,velvetleaf,1,8,85
+soybean,Arlington,2018,403,4,Canopy DF,2.25,15,velvetleaf,0.5,4,90
+soybean,Arlington,2018,104,4,Canopy DF,2.25,15,grass,3,24,90
+soybean,Arlington,2018,215,4,Canopy DF,2.25,15,grass,4,32,88
+soybean,Arlington,2018,310,4,Canopy DF,2.25,15,grass,20,160,20
+soybean,Arlington,2018,403,4,Canopy DF,2.25,15,grass,4,32,75
+soybean,Arlington,2018,104,4,Canopy DF,2.25,15,smartweed,0,0,99
+soybean,Arlington,2018,215,4,Canopy DF,2.25,15,smartweed,0,0,99
+soybean,Arlington,2018,310,4,Canopy DF,2.25,15,smartweed,0,0,99
+soybean,Arlington,2018,403,4,Canopy DF,2.25,15,smartweed,0,0,99
+soybean,Arlington,2018,104,4,Canopy DF,2.25,15,eb nightshade,1,8,99
+soybean,Arlington,2018,215,4,Canopy DF,2.25,15,eb nightshade,0,0,99
+soybean,Arlington,2018,310,4,Canopy DF,2.25,15,eb nightshade,0,0,99
+soybean,Arlington,2018,403,4,Canopy DF,2.25,15,eb nightshade,1.5,12,99
+soybean,Arlington,2018,109,9,Verdict,5,15,common ragweed,1.5,12,80
+soybean,Arlington,2018,202,9,Verdict,5,15,common ragweed,1,8,96
+soybean,Arlington,2018,308,9,Verdict,5,15,common ragweed,1.5,12,90
+soybean,Arlington,2018,412,9,Verdict,5,15,common ragweed,1,8,88
+soybean,Arlington,2018,109,9,Verdict,5,15,lambs,1,8,90
+soybean,Arlington,2018,202,9,Verdict,5,15,lambs,0.5,4,90
+soybean,Arlington,2018,308,9,Verdict,5,15,lambs,0,0,98
+soybean,Arlington,2018,412,9,Verdict,5,15,lambs,0,0,85
+soybean,Arlington,2018,109,9,Verdict,5,15,velvetleaf,0.5,4,85
+soybean,Arlington,2018,202,9,Verdict,5,15,velvetleaf,0,0,90
+soybean,Arlington,2018,308,9,Verdict,5,15,velvetleaf,0,0,90
+soybean,Arlington,2018,412,9,Verdict,5,15,velvetleaf,0,0,90
+soybean,Arlington,2018,109,9,Verdict,5,15,grass,3.5,28,90
+soybean,Arlington,2018,202,9,Verdict,5,15,grass,4,32,90
+soybean,Arlington,2018,308,9,Verdict,5,15,grass,5,40,80
+soybean,Arlington,2018,412,9,Verdict,5,15,grass,11.5,92,80
+soybean,Arlington,2018,109,9,Verdict,5,15,smartweed,2,16,99
+soybean,Arlington,2018,202,9,Verdict,5,15,smartweed,0,0,99
+soybean,Arlington,2018,308,9,Verdict,5,15,smartweed,0,0,99
+soybean,Arlington,2018,412,9,Verdict,5,15,smartweed,0,0,99
+soybean,Arlington,2018,109,9,Verdict,5,15,eb nightshade,0,0,99
+soybean,Arlington,2018,202,9,Verdict,5,15,eb nightshade,0,0,99
+soybean,Arlington,2018,308,9,Verdict,5,15,eb nightshade,0,0,99
+soybean,Arlington,2018,412,9,Verdict,5,15,eb nightshade,0,0,99
+soybean,Arlington,2018,114,14,Fierce,4,15,common ragweed,0.5,4,99
+soybean,Arlington,2018,207,14,Fierce,4,15,common ragweed,0,0,99
+soybean,Arlington,2018,312,14,Fierce,4,15,common ragweed,0,0,99
+soybean,Arlington,2018,401,14,Fierce,4,15,common ragweed,0,0,99
+soybean,Arlington,2018,114,14,Fierce,4,15,lambs,0.5,4,98
+soybean,Arlington,2018,207,14,Fierce,4,15,lambs,0,0,99
+soybean,Arlington,2018,312,14,Fierce,4,15,lambs,0,0,99
+soybean,Arlington,2018,401,14,Fierce,4,15,lambs,0,0,99
+soybean,Arlington,2018,114,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Arlington,2018,207,14,Fierce,4,15,velvetleaf,0.5,4,95
+soybean,Arlington,2018,312,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Arlington,2018,401,14,Fierce,4,15,velvetleaf,0,0,98
+soybean,Arlington,2018,114,14,Fierce,4,15,grass,1.5,12,95
+soybean,Arlington,2018,207,14,Fierce,4,15,grass,0.5,4,99
+soybean,Arlington,2018,312,14,Fierce,4,15,grass,3,24,85
+soybean,Arlington,2018,401,14,Fierce,4,15,grass,1.5,12,95
+soybean,Arlington,2018,114,14,Fierce,4,15,smartweed,0,0,99
+soybean,Arlington,2018,207,14,Fierce,4,15,smartweed,0,0,99
+soybean,Arlington,2018,312,14,Fierce,4,15,smartweed,0,0,99
+soybean,Arlington,2018,401,14,Fierce,4,15,smartweed,0,0,99
+soybean,Arlington,2018,114,14,Fierce,4,15,eb nightshade,0,0,99
+soybean,Arlington,2018,207,14,Fierce,4,15,eb nightshade,0,0,99
+soybean,Arlington,2018,312,14,Fierce,4,15,eb nightshade,0,0,99
+soybean,Arlington,2018,401,14,Fierce,4,15,eb nightshade,0,0,99
+soybean,Janesville,2018,104,4,Canopy DF,2.25,15,giant ragweed,5,40,20
+soybean,Janesville,2018,215,4,Canopy DF,2.25,15,giant ragweed,1,8,40
+soybean,Janesville,2018,308,4,Canopy DF,2.25,15,giant ragweed,0.5,4,95
+soybean,Janesville,2018,405,4,Canopy DF,2.25,15,giant ragweed,0,0,95
+soybean,Janesville,2018,104,4,Canopy DF,2.25,15,lambs,0,0,99
+soybean,Janesville,2018,215,4,Canopy DF,2.25,15,lambs,0,0,99
+soybean,Janesville,2018,308,4,Canopy DF,2.25,15,lambs,0,0,99
+soybean,Janesville,2018,405,4,Canopy DF,2.25,15,lambs,0,0,99
+soybean,Janesville,2018,104,4,Canopy DF,2.25,15,velvetleaf,0,0,99
+soybean,Janesville,2018,215,4,Canopy DF,2.25,15,velvetleaf,0,0,99
+soybean,Janesville,2018,308,4,Canopy DF,2.25,15,velvetleaf,0,0,99
+soybean,Janesville,2018,405,4,Canopy DF,2.25,15,velvetleaf,0,0,99
+soybean,Janesville,2018,104,4,Canopy DF,2.25,15,grass,0,0,99
+soybean,Janesville,2018,215,4,Canopy DF,2.25,15,grass,0.5,4,90
+soybean,Janesville,2018,308,4,Canopy DF,2.25,15,grass,0,0,99
+soybean,Janesville,2018,405,4,Canopy DF,2.25,15,grass,0,0,85
+soybean,Janesville,2018,104,4,Canopy DF,2.25,15,pigweed,0,0,99
+soybean,Janesville,2018,215,4,Canopy DF,2.25,15,pigweed,0,0,99
+soybean,Janesville,2018,308,4,Canopy DF,2.25,15,pigweed,0,0,99
+soybean,Janesville,2018,405,4,Canopy DF,2.25,15,pigweed,0,0,99
+soybean,Janesville,2018,109,9,Verdict,5,15,giant ragweed,0.5,4,80
+soybean,Janesville,2018,214,9,Verdict,5,15,giant ragweed,1.5,12,20
+soybean,Janesville,2018,305,9,Verdict,5,15,giant ragweed,1.5,12,50
+soybean,Janesville,2018,413,9,Verdict,5,15,giant ragweed,4,32,10
+soybean,Janesville,2018,109,9,Verdict,5,15,lambs,0.5,4,90
+soybean,Janesville,2018,214,9,Verdict,5,15,lambs,0,0,99
+soybean,Janesville,2018,305,9,Verdict,5,15,lambs,0,0,99
+soybean,Janesville,2018,413,9,Verdict,5,15,lambs,0.5,4,90
+soybean,Janesville,2018,109,9,Verdict,5,15,velvetleaf,0,0,99
+soybean,Janesville,2018,214,9,Verdict,5,15,velvetleaf,0,0,99
+soybean,Janesville,2018,305,9,Verdict,5,15,velvetleaf,0,0,99
+soybean,Janesville,2018,413,9,Verdict,5,15,velvetleaf,0,0,99
+soybean,Janesville,2018,109,9,Verdict,5,15,grass,0,0,99
+soybean,Janesville,2018,214,9,Verdict,5,15,grass,0.5,4,85
+soybean,Janesville,2018,305,9,Verdict,5,15,grass,0,0,99
+soybean,Janesville,2018,413,9,Verdict,5,15,grass,0.5,4,90
+soybean,Janesville,2018,109,9,Verdict,5,15,pigweed,0,0,99
+soybean,Janesville,2018,214,9,Verdict,5,15,pigweed,0,0,99
+soybean,Janesville,2018,305,9,Verdict,5,15,pigweed,0,0,99
+soybean,Janesville,2018,413,9,Verdict,5,15,pigweed,0,0,99
+soybean,Janesville,2018,114,14,Fierce,4,15,giant ragweed,1,8,25
+soybean,Janesville,2018,207,14,Fierce,4,15,giant ragweed,1.5,12,50
+soybean,Janesville,2018,302,14,Fierce,4,15,giant ragweed,1.5,12,20
+soybean,Janesville,2018,412,14,Fierce,4,15,giant ragweed,3,24,25
+soybean,Janesville,2018,114,14,Fierce,4,15,lambs,0,0,99
+soybean,Janesville,2018,207,14,Fierce,4,15,lambs,0,0,99
+soybean,Janesville,2018,302,14,Fierce,4,15,lambs,0,0,99
+soybean,Janesville,2018,412,14,Fierce,4,15,lambs,0,0,99
+soybean,Janesville,2018,114,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Janesville,2018,207,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Janesville,2018,302,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Janesville,2018,412,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Janesville,2018,114,14,Fierce,4,15,grass,0,0,99
+soybean,Janesville,2018,207,14,Fierce,4,15,grass,0,0,99
+soybean,Janesville,2018,302,14,Fierce,4,15,grass,0,0,99
+soybean,Janesville,2018,412,14,Fierce,4,15,grass,0,0,99
+soybean,Janesville,2018,114,14,Fierce,4,15,pigweed,0,0,99
+soybean,Janesville,2018,207,14,Fierce,4,15,pigweed,5,40,99
+soybean,Janesville,2018,302,14,Fierce,4,15,pigweed,0,0,99
+soybean,Janesville,2018,412,14,Fierce,4,15,pigweed,0,0,99
+soybean,Arlington,2019,309,12,Fierce,4,5,common ragweed,0,0,92
+soybean,Arlington,2019,104,4,Canopy DF,2.25,15,velvetleaf,0,0,99
+soybean,Arlington,2019,104,4,Canopy DF,2.25,15,lambs,0,0,99
+soybean,Arlington,2019,104,4,Canopy DF,2.25,15,grass,2,10.8,99
+soybean,Arlington,2019,310,5,Canopy DF,2.25,17.5,common ragweed,1,5.4,93
+soybean,Arlington,2019,207,4,Canopy DF,2.25,15,velvetleaf,0,0,98
+soybean,Arlington,2019,207,4,Canopy DF,2.25,15,lambs,0,0,99
+soybean,Arlington,2019,207,4,Canopy DF,2.25,15,grass,0,0,99
+soybean,Arlington,2019,311,4,Canopy DF,2.25,15,common ragweed,1,5.4,90
+soybean,Arlington,2019,311,4,Canopy DF,2.25,15,velvetleaf,1,5.4,96
+soybean,Arlington,2019,311,4,Canopy DF,2.25,15,lambs,0,0,97
+soybean,Arlington,2019,311,4,Canopy DF,2.25,15,grass,0,0,99
+soybean,Arlington,2019,312,16,Check,0,0,common ragweed,7,37.7,78
+soybean,Arlington,2019,408,4,Canopy DF,2.25,15,velvetleaf,0,0,98
+soybean,Arlington,2019,408,4,Canopy DF,2.25,15,lambs,0,0,99
+soybean,Arlington,2019,408,4,Canopy DF,2.25,15,grass,0,0,94
+soybean,Arlington,2019,313,1,Canopy DF,2.25,2.5,common ragweed,1,5.4,95
+soybean,Arlington,2019,109,9,Verdict,5,15,velvetleaf,0,0,96
+soybean,Arlington,2019,109,9,Verdict,5,15,lambs,2,10.8,99
+soybean,Arlington,2019,109,9,Verdict,5,15,grass,0,0,98
+soybean,Arlington,2019,314,7,Verdict,5,5,common ragweed,1,5.4,95
+soybean,Arlington,2019,206,9,Verdict,5,15,velvetleaf,0,0,97
+soybean,Arlington,2019,206,9,Verdict,5,15,lambs,3,16.1,90
+soybean,Arlington,2019,206,9,Verdict,5,15,grass,1,5.4,75
+soybean,Arlington,2019,315,9,Verdict,5,15,common ragweed,2,10.8,82
+soybean,Arlington,2019,315,9,Verdict,5,15,velvetleaf,1,5.4,80
+soybean,Arlington,2019,315,9,Verdict,5,15,lambs,3,16.1,92
+soybean,Arlington,2019,315,9,Verdict,5,15,grass,0,0,99
+soybean,Arlington,2019,316,6,Verdict,5,2.5,common ragweed,3,16.1,82
+soybean,Arlington,2019,403,9,Verdict,5,15,velvetleaf,1,5.4,94
+soybean,Arlington,2019,403,9,Verdict,5,15,lambs,1,5.4,90
+soybean,Arlington,2019,403,9,Verdict,5,15,grass,0,0,99
+soybean,Arlington,2019,401,5,Canopy DF,2.25,17.5,common ragweed,0,0,99
+soybean,Arlington,2019,114,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Arlington,2019,114,14,Fierce,4,15,lambs,0,0,99
+soybean,Arlington,2019,114,14,Fierce,4,15,grass,0,0,99
+soybean,Arlington,2019,402,13,Fierce,4,10,common ragweed,1,5.4,94
+soybean,Arlington,2019,216,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Arlington,2019,216,14,Fierce,4,15,lambs,0,0,99
+soybean,Arlington,2019,216,14,Fierce,4,15,grass,0,0,99
+soybean,Arlington,2019,403,9,Verdict,5,15,common ragweed,2,10.8,93
+soybean,Arlington,2019,306,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Arlington,2019,306,14,Fierce,4,15,lambs,0,0,99
+soybean,Arlington,2019,306,14,Fierce,4,15,grass,0,0,99
+soybean,Arlington,2019,404,8,Verdict,5,10,common ragweed,2,10.8,86
+soybean,Arlington,2019,413,14,Fierce,4,15,velvetleaf,0,0,99
+soybean,Arlington,2019,413,14,Fierce,4,15,lambs,0,0,99
+soybean,Arlington,2019,413,14,Fierce,4,15,grass,0,0,99
+corn,Arlington,2018,104,4,Resicore,1.75,15,common ragweed,0,0,99
+corn,Arlington,2018,210,4,Resicore,1.75,15,common ragweed,0,0,90
+corn,Arlington,2018,306,4,Resicore,1.75,15,common ragweed,0,0,95
+corn,Arlington,2018,414,4,Resicore,1.75,15,common ragweed,0.5,4,85
+corn,Arlington,2018,104,4,Resicore,1.75,15,lambs,0,0,95
+corn,Arlington,2018,210,4,Resicore,1.75,15,lambs,0,0,95
+corn,Arlington,2018,306,4,Resicore,1.75,15,lambs,0,0,95
+corn,Arlington,2018,414,4,Resicore,1.75,15,lambs,2.5,20,95
+corn,Arlington,2018,104,4,Resicore,1.75,15,velvetleaf,1,8,85
+corn,Arlington,2018,210,4,Resicore,1.75,15,velvetleaf,0,0,90
+corn,Arlington,2018,306,4,Resicore,1.75,15,velvetleaf,0,0,90
+corn,Arlington,2018,414,4,Resicore,1.75,15,velvetleaf,0.5,4,85
+corn,Arlington,2018,104,4,Resicore,1.75,15,grass,5.5,44,80
+corn,Arlington,2018,210,4,Resicore,1.75,15,grass,6.5,52,75
+corn,Arlington,2018,306,4,Resicore,1.75,15,grass,8.5,68,70
+corn,Arlington,2018,414,4,Resicore,1.75,15,grass,7,56,95
+corn,Arlington,2018,109,9,Acuron Flexi,2.25,15,common ragweed,0,0,99
+corn,Arlington,2018,214,9,Acuron Flexi,2.25,15,common ragweed,0.5,4,90
+corn,Arlington,2018,308,9,Acuron Flexi,2.25,15,common ragweed,0,0,95
+corn,Arlington,2018,403,9,Acuron Flexi,2.25,15,common ragweed,0,0,95
+corn,Arlington,2018,109,9,Acuron Flexi,2.25,15,lambs,0,0,95
+corn,Arlington,2018,214,9,Acuron Flexi,2.25,15,lambs,0,0,95
+corn,Arlington,2018,308,9,Acuron Flexi,2.25,15,lambs,0,0,95
+corn,Arlington,2018,403,9,Acuron Flexi,2.25,15,lambs,0,0,95
+corn,Arlington,2018,109,9,Acuron Flexi,2.25,15,velvetleaf,0,0,95
+corn,Arlington,2018,214,9,Acuron Flexi,2.25,15,velvetleaf,0,0,95
+corn,Arlington,2018,308,9,Acuron Flexi,2.25,15,velvetleaf,0,0,95
+corn,Arlington,2018,403,9,Acuron Flexi,2.25,15,velvetleaf,0,0,95
+corn,Arlington,2018,109,9,Acuron Flexi,2.25,15,grass,6.5,52,80
+corn,Arlington,2018,214,9,Acuron Flexi,2.25,15,grass,2,16,80
+corn,Arlington,2018,308,9,Acuron Flexi,2.25,15,grass,6.5,52,75
+corn,Arlington,2018,403,9,Acuron Flexi,2.25,15,grass,2,16,95
+corn,Arlington,2018,114,14,Anthem Maxx,4,15,common ragweed,0,0,20
+corn,Arlington,2018,203,14,Anthem Maxx,4,15,common ragweed,0,0,20
+corn,Arlington,2018,309,14,Anthem Maxx,4,15,common ragweed,1.5,12,20
+corn,Arlington,2018,415,14,Anthem Maxx,4,15,common ragweed,0,0,20
+corn,Arlington,2018,114,14,Anthem Maxx,4,15,lambs,2.5,20,20
+corn,Arlington,2018,203,14,Anthem Maxx,4,15,lambs,4.5,36,20
+corn,Arlington,2018,309,14,Anthem Maxx,4,15,lambs,2.5,20,30
+corn,Arlington,2018,415,14,Anthem Maxx,4,15,lambs,3,24,20
+corn,Arlington,2018,114,14,Anthem Maxx,4,15,velvetleaf,0,0,20
+corn,Arlington,2018,203,14,Anthem Maxx,4,15,velvetleaf,0,0,20
+corn,Arlington,2018,309,14,Anthem Maxx,4,15,velvetleaf,0,0,30
+corn,Arlington,2018,415,14,Anthem Maxx,4,15,velvetleaf,1.5,12,20
+corn,Arlington,2018,114,14,Anthem Maxx,4,15,grass,5,40,20
+corn,Arlington,2018,203,14,Anthem Maxx,4,15,grass,2.5,20,30
+corn,Arlington,2018,309,14,Anthem Maxx,4,15,grass,2,16,50
+corn,Arlington,2018,415,14,Anthem Maxx,4,15,grass,5.5,44,20
+corn,Janesville,2018,104,4,Resicore,1.75,15,giant ragweed,0,0,95
+corn,Janesville,2018,211,4,Resicore,1.75,15,giant ragweed,1,8,85
+corn,Janesville,2018,306,4,Resicore,1.75,15,giant ragweed,0,0,99
+corn,Janesville,2018,413,4,Resicore,1.75,15,giant ragweed,0.5,4,88
+corn,Janesville,2018,104,4,Resicore,1.75,15,lambs,0,0,99
+corn,Janesville,2018,211,4,Resicore,1.75,15,lambs,0,0,99
+corn,Janesville,2018,306,4,Resicore,1.75,15,lambs,0,0,99
+corn,Janesville,2018,413,4,Resicore,1.75,15,lambs,0,0,99
+corn,Janesville,2018,104,4,Resicore,1.75,15,velvetleaf,0,0,99
+corn,Janesville,2018,211,4,Resicore,1.75,15,velvetleaf,0,0,99
+corn,Janesville,2018,306,4,Resicore,1.75,15,velvetleaf,0,0,99
+corn,Janesville,2018,413,4,Resicore,1.75,15,velvetleaf,0,0,99
+corn,Janesville,2018,104,4,Resicore,1.75,15,grass,0,0,97
+corn,Janesville,2018,211,4,Resicore,1.75,15,grass,0,0,98
+corn,Janesville,2018,306,4,Resicore,1.75,15,grass,0,0,98
+corn,Janesville,2018,413,4,Resicore,1.75,15,grass,0,0,97
+corn,Janesville,2018,104,4,Resicore,1.75,15,pigweed,0,0,99
+corn,Janesville,2018,211,4,Resicore,1.75,15,pigweed,0,0,99
+corn,Janesville,2018,306,4,Resicore,1.75,15,pigweed,0,0,99
+corn,Janesville,2018,413,4,Resicore,1.75,15,pigweed,0,0,99
+corn,Janesville,2018,109,9,Acuron Flexi,2.25,15,giant ragweed,0,0,99
+corn,Janesville,2018,205,9,Acuron Flexi,2.25,15,giant ragweed,0,0,99
+corn,Janesville,2018,311,9,Acuron Flexi,2.25,15,giant ragweed,0,0,99
+corn,Janesville,2018,402,9,Acuron Flexi,2.25,15,giant ragweed,2,16,90
+corn,Janesville,2018,109,9,Acuron Flexi,2.25,15,lambs,0,0,99
+corn,Janesville,2018,205,9,Acuron Flexi,2.25,15,lambs,0,0,99
+corn,Janesville,2018,311,9,Acuron Flexi,2.25,15,lambs,0,0,99
+corn,Janesville,2018,402,9,Acuron Flexi,2.25,15,lambs,0,0,99
+corn,Janesville,2018,109,9,Acuron Flexi,2.25,15,velvetleaf,0,0,99
+corn,Janesville,2018,205,9,Acuron Flexi,2.25,15,velvetleaf,0,0,99
+corn,Janesville,2018,311,9,Acuron Flexi,2.25,15,velvetleaf,0,0,99
+corn,Janesville,2018,402,9,Acuron Flexi,2.25,15,velvetleaf,0,0,99
+corn,Janesville,2018,109,9,Acuron Flexi,2.25,15,grass,0,0,99
+corn,Janesville,2018,205,9,Acuron Flexi,2.25,15,grass,0,0,99
+corn,Janesville,2018,311,9,Acuron Flexi,2.25,15,grass,0,0,99
+corn,Janesville,2018,402,9,Acuron Flexi,2.25,15,grass,0,0,99
+corn,Janesville,2018,109,9,Acuron Flexi,2.25,15,pigweed,0,0,99
+corn,Janesville,2018,205,9,Acuron Flexi,2.25,15,pigweed,0,0,99
+corn,Janesville,2018,311,9,Acuron Flexi,2.25,15,pigweed,0,0,99
+corn,Janesville,2018,402,9,Acuron Flexi,2.25,15,pigweed,0,0,99
+corn,Janesville,2018,114,14,Anthem Maxx,4,15,giant ragweed,1.5,12,80
+corn,Janesville,2018,207,14,Anthem Maxx,4,15,giant ragweed,0,0,90
+corn,Janesville,2018,302,14,Anthem Maxx,4,15,giant ragweed,2,16,70
+corn,Janesville,2018,411,14,Anthem Maxx,4,15,giant ragweed,0.5,4,85
+corn,Janesville,2018,114,14,Anthem Maxx,4,15,lambs,0.5,4,90
+corn,Janesville,2018,207,14,Anthem Maxx,4,15,lambs,1.5,12,90
+corn,Janesville,2018,302,14,Anthem Maxx,4,15,lambs,0.5,4,90
+corn,Janesville,2018,411,14,Anthem Maxx,4,15,lambs,1,8,90
+corn,Janesville,2018,114,14,Anthem Maxx,4,15,velvetleaf,0,0,99
+corn,Janesville,2018,207,14,Anthem Maxx,4,15,velvetleaf,0,0,99
+corn,Janesville,2018,302,14,Anthem Maxx,4,15,velvetleaf,0,0,99
+corn,Janesville,2018,411,14,Anthem Maxx,4,15,velvetleaf,0,0,99
+corn,Janesville,2018,114,14,Anthem Maxx,4,15,grass,0,0,99
+corn,Janesville,2018,207,14,Anthem Maxx,4,15,grass,0,0,99
+corn,Janesville,2018,302,14,Anthem Maxx,4,15,grass,0,0,99
+corn,Janesville,2018,411,14,Anthem Maxx,4,15,grass,0,0,99
+corn,Janesville,2018,114,14,Anthem Maxx,4,15,pigweed,0,0,99
+corn,Janesville,2018,207,14,Anthem Maxx,4,15,pigweed,0,0,99
+corn,Janesville,2018,302,14,Anthem Maxx,4,15,pigweed,0,0,99
+corn,Janesville,2018,411,14,Anthem Maxx,4,15,pigweed,0,0,99
+corn,Arlington,2019,116,16,Check,0,0,common ragweed,0,0,99
+corn,Arlington,2019,204,16,Check,0,0,common ragweed,0,0,99
+corn,Arlington,2019,312,16,Check,0,0,common ragweed,0,0,99
+corn,Arlington,2019,408,16,Check,0,0,common ragweed,0,0,99
+corn,Arlington,2019,104,4,Resicore,1.75,15,velvetleaf,0,0,99
+corn,Arlington,2019,210,4,Resicore,1.75,15,velvetleaf,0,0,99
+corn,Arlington,2019,302,4,Resicore,1.75,15,velvetleaf,0,0,99
+corn,Arlington,2019,413,4,Resicore,1.75,15,velvetleaf,0,0,99
+corn,Arlington,2019,104,4,Resicore,1.75,15,lambs,0,0,99
+corn,Arlington,2019,210,4,Resicore,1.75,15,lambs,0,0,99
+corn,Arlington,2019,302,4,Resicore,1.75,15,lambs,0,0,99
+corn,Arlington,2019,413,4,Resicore,1.75,15,lambs,0,0,99
+corn,Arlington,2019,104,4,Resicore,1.75,15,grass,0,0,99
+corn,Arlington,2019,210,4,Resicore,1.75,15,grass,0,0,99
+corn,Arlington,2019,302,4,Resicore,1.75,15,grass,0,0,99
+corn,Arlington,2019,413,4,Resicore,1.75,15,grass,1,5.4,99
+corn,Arlington,2019,101,1,Resicore,1.75,2.5,common ragweed,0,0,99
+corn,Arlington,2019,212,1,Resicore,1.75,2.5,common ragweed,0,0,99
+corn,Arlington,2019,304,1,Resicore,1.75,2.5,common ragweed,0,0,99
+corn,Arlington,2019,409,1,Resicore,1.75,2.5,common ragweed,0,0,99
+corn,Arlington,2019,109,9,Acuron Flexi,2.25,15,velvetleaf,0,0,99
+corn,Arlington,2019,214,9,Acuron Flexi,2.25,15,velvetleaf,0,0,99
+corn,Arlington,2019,307,9,Acuron Flexi,2.25,15,velvetleaf,0,0,99
+corn,Arlington,2019,415,9,Acuron Flexi,2.25,15,velvetleaf,0,0,99
+corn,Arlington,2019,109,9,Acuron Flexi,2.25,15,lambs,0,0,99
+corn,Arlington,2019,214,9,Acuron Flexi,2.25,15,lambs,0,0,99
+corn,Arlington,2019,307,9,Acuron Flexi,2.25,15,lambs,0,0,99
+corn,Arlington,2019,415,9,Acuron Flexi,2.25,15,lambs,0,0,99
+corn,Arlington,2019,109,9,Acuron Flexi,2.25,15,grass,0,0,99
+corn,Arlington,2019,214,9,Acuron Flexi,2.25,15,grass,0,0,99
+corn,Arlington,2019,307,9,Acuron Flexi,2.25,15,grass,0,0,99
+corn,Arlington,2019,415,9,Acuron Flexi,2.25,15,grass,0,0,99
+corn,Arlington,2019,102,2,Resicore,1.75,5,common ragweed,1,5.4,99
+corn,Arlington,2019,207,2,Resicore,1.75,5,common ragweed,0,0,99
+corn,Arlington,2019,305,2,Resicore,1.75,5,common ragweed,0,0,99
+corn,Arlington,2019,410,2,Resicore,1.75,5,common ragweed,0,0,99
+corn,Arlington,2019,114,14,Anthem Maxx,4,15,velvetleaf,1,5.4,75
+corn,Arlington,2019,209,14,Anthem Maxx,4,15,velvetleaf,0,0,99
+corn,Arlington,2019,313,14,Anthem Maxx,4,15,velvetleaf,2,10.8,85
+corn,Arlington,2019,402,14,Anthem Maxx,4,15,velvetleaf,2,10.8,95
+corn,Arlington,2019,114,14,Anthem Maxx,4,15,lambs,0,0,99
+corn,Arlington,2019,209,14,Anthem Maxx,4,15,lambs,0,0,99
+corn,Arlington,2019,313,14,Anthem Maxx,4,15,lambs,0,0,99
+corn,Arlington,2019,402,14,Anthem Maxx,4,15,lambs,0,0,99
+corn,Arlington,2019,114,14,Anthem Maxx,4,15,grass,0,0,99
+corn,Arlington,2019,209,14,Anthem Maxx,4,15,grass,0,0,99
+corn,Arlington,2019,313,14,Anthem Maxx,4,15,grass,0,0,99
+corn,Arlington,2019,402,14,Anthem Maxx,4,15,grass,0,0,99
+soybean,Arlington,2018,105,5,Canopy DF,2.25,17.5,common ragweed,1.5,12,85
+soybean,Arlington,2018,201,5,Canopy DF,2.25,17.5,common ragweed,2,16,95
+soybean,Arlington,2018,307,5,Canopy DF,2.25,17.5,common ragweed,2.5,20,80
+soybean,Arlington,2018,413,5,Canopy DF,2.25,17.5,common ragweed,1.5,12,85
+soybean,Arlington,2018,105,5,Canopy DF,2.25,17.5,lambs,0.5,4,88
+soybean,Arlington,2018,201,5,Canopy DF,2.25,17.5,lambs,0.5,4,90
+soybean,Arlington,2018,307,5,Canopy DF,2.25,17.5,lambs,0,0,99
+soybean,Arlington,2018,413,5,Canopy DF,2.25,17.5,lambs,0,0,85
+soybean,Arlington,2018,105,5,Canopy DF,2.25,17.5,velvetleaf,1,8,90
+soybean,Arlington,2018,201,5,Canopy DF,2.25,17.5,velvetleaf,0.5,4,90
+soybean,Arlington,2018,307,5,Canopy DF,2.25,17.5,velvetleaf,0.5,4,90
+soybean,Arlington,2018,413,5,Canopy DF,2.25,17.5,velvetleaf,0.5,4,90
+soybean,Arlington,2018,105,5,Canopy DF,2.25,17.5,grass,2,16,88
+soybean,Arlington,2018,201,5,Canopy DF,2.25,17.5,grass,0.5,4,95
+soybean,Arlington,2018,307,5,Canopy DF,2.25,17.5,grass,9.5,76,70
+soybean,Arlington,2018,413,5,Canopy DF,2.25,17.5,grass,7,56,60
+soybean,Arlington,2018,105,5,Canopy DF,2.25,17.5,smartweed,1,8,99
+soybean,Arlington,2018,201,5,Canopy DF,2.25,17.5,smartweed,0,0,99
+soybean,Arlington,2018,307,5,Canopy DF,2.25,17.5,smartweed,0,0,99
+soybean,Arlington,2018,413,5,Canopy DF,2.25,17.5,smartweed,0,0,99
+soybean,Arlington,2018,105,5,Canopy DF,2.25,17.5,eb nightshade,0.5,4,99
+soybean,Arlington,2018,201,5,Canopy DF,2.25,17.5,eb nightshade,1,8,99
+soybean,Arlington,2018,307,5,Canopy DF,2.25,17.5,eb nightshade,0,0,99
+soybean,Arlington,2018,413,5,Canopy DF,2.25,17.5,eb nightshade,1,8,99
+soybean,Arlington,2018,110,10,Verdict,5,17.5,common ragweed,1,8,70
+soybean,Arlington,2018,206,10,Verdict,5,17.5,common ragweed,0.5,4,90
+soybean,Arlington,2018,316,10,Verdict,5,17.5,common ragweed,0,0,96
+soybean,Arlington,2018,405,10,Verdict,5,17.5,common ragweed,0,0,90
+soybean,Arlington,2018,110,10,Verdict,5,17.5,lambs,1.5,12,95
+soybean,Arlington,2018,206,10,Verdict,5,17.5,lambs,1,8,95
+soybean,Arlington,2018,316,10,Verdict,5,17.5,lambs,1,8,92
+soybean,Arlington,2018,405,10,Verdict,5,17.5,lambs,0,0,98
+soybean,Arlington,2018,110,10,Verdict,5,17.5,velvetleaf,0,0,99
+soybean,Arlington,2018,206,10,Verdict,5,17.5,velvetleaf,1,8,95
+soybean,Arlington,2018,316,10,Verdict,5,17.5,velvetleaf,1,8,90
+soybean,Arlington,2018,405,10,Verdict,5,17.5,velvetleaf,0.5,4,95
+soybean,Arlington,2018,110,10,Verdict,5,17.5,grass,6,48,90
+soybean,Arlington,2018,206,10,Verdict,5,17.5,grass,0.5,4,95
+soybean,Arlington,2018,316,10,Verdict,5,17.5,grass,2,16,80
+soybean,Arlington,2018,405,10,Verdict,5,17.5,grass,2.5,20,95
+soybean,Arlington,2018,110,10,Verdict,5,17.5,smartweed,0,0,99
+soybean,Arlington,2018,206,10,Verdict,5,17.5,smartweed,0,0,99
+soybean,Arlington,2018,316,10,Verdict,5,17.5,smartweed,0,0,99
+soybean,Arlington,2018,405,10,Verdict,5,17.5,smartweed,0,0,99
+soybean,Arlington,2018,110,10,Verdict,5,17.5,eb nightshade,0,0,99
+soybean,Arlington,2018,206,10,Verdict,5,17.5,eb nightshade,0,0,99
+soybean,Arlington,2018,316,10,Verdict,5,17.5,eb nightshade,0,0,99
+soybean,Arlington,2018,405,10,Verdict,5,17.5,eb nightshade,0,0,99
+soybean,Arlington,2018,115,15,Fierce,4,17.5,common ragweed,0.5,4,92
+soybean,Arlington,2018,211,15,Fierce,4,17.5,common ragweed,1,8,90
+soybean,Arlington,2018,302,15,Fierce,4,17.5,common ragweed,0.5,4,95
+soybean,Arlington,2018,408,15,Fierce,4,17.5,common ragweed,0,0,95
+soybean,Arlington,2018,115,15,Fierce,4,17.5,lambs,0.5,4,98
+soybean,Arlington,2018,211,15,Fierce,4,17.5,lambs,0,0,99
+soybean,Arlington,2018,302,15,Fierce,4,17.5,lambs,0,0,99
+soybean,Arlington,2018,408,15,Fierce,4,17.5,lambs,1,8,85
+soybean,Arlington,2018,115,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Arlington,2018,211,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Arlington,2018,302,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Arlington,2018,408,15,Fierce,4,17.5,velvetleaf,0,0,90
+soybean,Arlington,2018,115,15,Fierce,4,17.5,grass,0.5,4,99
+soybean,Arlington,2018,211,15,Fierce,4,17.5,grass,2,16,90
+soybean,Arlington,2018,302,15,Fierce,4,17.5,grass,0,0,99
+soybean,Arlington,2018,408,15,Fierce,4,17.5,grass,6.5,52,80
+soybean,Arlington,2018,115,15,Fierce,4,17.5,smartweed,0,0,99
+soybean,Arlington,2018,211,15,Fierce,4,17.5,smartweed,0,0,99
+soybean,Arlington,2018,302,15,Fierce,4,17.5,smartweed,0,0,99
+soybean,Arlington,2018,408,15,Fierce,4,17.5,smartweed,0,0,99
+soybean,Arlington,2018,115,15,Fierce,4,17.5,eb nightshade,0,0,99
+soybean,Arlington,2018,211,15,Fierce,4,17.5,eb nightshade,0,0,99
+soybean,Arlington,2018,302,15,Fierce,4,17.5,eb nightshade,0,0,99
+soybean,Arlington,2018,408,15,Fierce,4,17.5,eb nightshade,0,0,99
+soybean,Janesville,2018,105,5,Canopy DF,2.25,17.5,giant ragweed,3.5,28,10
+soybean,Janesville,2018,201,5,Canopy DF,2.25,17.5,giant ragweed,2,16,60
+soybean,Janesville,2018,309,5,Canopy DF,2.25,17.5,giant ragweed,1,8,90
+soybean,Janesville,2018,415,5,Canopy DF,2.25,17.5,giant ragweed,2,16,15
+soybean,Janesville,2018,105,5,Canopy DF,2.25,17.5,lambs,0,0,99
+soybean,Janesville,2018,201,5,Canopy DF,2.25,17.5,lambs,0,0,99
+soybean,Janesville,2018,309,5,Canopy DF,2.25,17.5,lambs,0,0,99
+soybean,Janesville,2018,415,5,Canopy DF,2.25,17.5,lambs,0,0,99
+soybean,Janesville,2018,105,5,Canopy DF,2.25,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,201,5,Canopy DF,2.25,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,309,5,Canopy DF,2.25,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,415,5,Canopy DF,2.25,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,105,5,Canopy DF,2.25,17.5,grass,0,0,99
+soybean,Janesville,2018,201,5,Canopy DF,2.25,17.5,grass,6,48,35
+soybean,Janesville,2018,309,5,Canopy DF,2.25,17.5,grass,0,0,99
+soybean,Janesville,2018,415,5,Canopy DF,2.25,17.5,grass,0,0,99
+soybean,Janesville,2018,105,5,Canopy DF,2.25,17.5,pigweed,0,0,99
+soybean,Janesville,2018,201,5,Canopy DF,2.25,17.5,pigweed,0,0,99
+soybean,Janesville,2018,309,5,Canopy DF,2.25,17.5,pigweed,0,0,99
+soybean,Janesville,2018,415,5,Canopy DF,2.25,17.5,pigweed,0,0,99
+soybean,Janesville,2018,110,10,Verdict,5,17.5,giant ragweed,0.5,4,90
+soybean,Janesville,2018,213,10,Verdict,5,17.5,giant ragweed,2.5,20,25
+soybean,Janesville,2018,304,10,Verdict,5,17.5,giant ragweed,1.5,12,35
+soybean,Janesville,2018,410,10,Verdict,5,17.5,giant ragweed,0.5,4,85
+soybean,Janesville,2018,110,10,Verdict,5,17.5,lambs,0,0,99
+soybean,Janesville,2018,213,10,Verdict,5,17.5,lambs,0,0,99
+soybean,Janesville,2018,304,10,Verdict,5,17.5,lambs,0,0,90
+soybean,Janesville,2018,410,10,Verdict,5,17.5,lambs,0,0,99
+soybean,Janesville,2018,110,10,Verdict,5,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,213,10,Verdict,5,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,304,10,Verdict,5,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,410,10,Verdict,5,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,110,10,Verdict,5,17.5,grass,0,0,99
+soybean,Janesville,2018,213,10,Verdict,5,17.5,grass,0.5,4,80
+soybean,Janesville,2018,304,10,Verdict,5,17.5,grass,0,0,99
+soybean,Janesville,2018,410,10,Verdict,5,17.5,grass,0.5,4,90
+soybean,Janesville,2018,110,10,Verdict,5,17.5,pigweed,0,0,99
+soybean,Janesville,2018,213,10,Verdict,5,17.5,pigweed,0,0,99
+soybean,Janesville,2018,304,10,Verdict,5,17.5,pigweed,0,0,99
+soybean,Janesville,2018,410,10,Verdict,5,17.5,pigweed,0,0,99
+soybean,Janesville,2018,115,15,Fierce,4,17.5,giant ragweed,1.5,12,35
+soybean,Janesville,2018,208,15,Fierce,4,17.5,giant ragweed,1,8,90
+soybean,Janesville,2018,310,15,Fierce,4,17.5,giant ragweed,0.5,4,90
+soybean,Janesville,2018,404,15,Fierce,4,17.5,giant ragweed,0.5,4,90
+soybean,Janesville,2018,115,15,Fierce,4,17.5,lambs,1,8,99
+soybean,Janesville,2018,208,15,Fierce,4,17.5,lambs,0,0,99
+soybean,Janesville,2018,310,15,Fierce,4,17.5,lambs,0,0,99
+soybean,Janesville,2018,404,15,Fierce,4,17.5,lambs,0,0,99
+soybean,Janesville,2018,115,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,208,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,310,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,404,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Janesville,2018,115,15,Fierce,4,17.5,grass,0,0,99
+soybean,Janesville,2018,208,15,Fierce,4,17.5,grass,0,0,99
+soybean,Janesville,2018,310,15,Fierce,4,17.5,grass,0,0,99
+soybean,Janesville,2018,404,15,Fierce,4,17.5,grass,1,8,99
+soybean,Janesville,2018,115,15,Fierce,4,17.5,pigweed,0,0,99
+soybean,Janesville,2018,208,15,Fierce,4,17.5,pigweed,0,0,99
+soybean,Janesville,2018,310,15,Fierce,4,17.5,pigweed,0,0,99
+soybean,Janesville,2018,404,15,Fierce,4,17.5,pigweed,0,0,99
+soybean,Arlington,2019,405,12,Fierce,4,5,common ragweed,1,5.4,98
+soybean,Arlington,2019,105,5,Canopy DF,2.25,17.5,velvetleaf,0,0,99
+soybean,Arlington,2019,105,5,Canopy DF,2.25,17.5,lambs,0,0,99
+soybean,Arlington,2019,105,5,Canopy DF,2.25,17.5,grass,3,16.1,88
+soybean,Arlington,2019,406,7,Verdict,5,5,common ragweed,1,5.4,92
+soybean,Arlington,2019,211,5,Canopy DF,2.25,17.5,velvetleaf,1,5.4,96
+soybean,Arlington,2019,211,5,Canopy DF,2.25,17.5,lambs,0,0,97
+soybean,Arlington,2019,211,5,Canopy DF,2.25,17.5,grass,0,0,99
+soybean,Arlington,2019,407,16,Check,0,0,common ragweed,1,5.4,92
+soybean,Arlington,2019,310,5,Canopy DF,2.25,17.5,velvetleaf,0,0,95
+soybean,Arlington,2019,310,5,Canopy DF,2.25,17.5,lambs,0,0,99
+soybean,Arlington,2019,310,5,Canopy DF,2.25,17.5,grass,0,0,99
+soybean,Arlington,2019,408,4,Canopy DF,2.25,15,common ragweed,2,10.8,88
+soybean,Arlington,2019,401,5,Canopy DF,2.25,17.5,velvetleaf,0,0,99
+soybean,Arlington,2019,401,5,Canopy DF,2.25,17.5,lambs,0,0,99
+soybean,Arlington,2019,401,5,Canopy DF,2.25,17.5,grass,0,0,95
+soybean,Arlington,2019,409,15,Fierce,4,17.5,common ragweed,1,5.4,94
+soybean,Arlington,2019,110,10,Verdict,5,17.5,velvetleaf,0,0,99
+soybean,Arlington,2019,110,10,Verdict,5,17.5,lambs,0,0,99
+soybean,Arlington,2019,110,10,Verdict,5,17.5,grass,1,5.4,80
+soybean,Arlington,2019,410,1,Canopy DF,2.25,2.5,common ragweed,1,5.4,99
+soybean,Arlington,2019,213,10,Verdict,5,17.5,velvetleaf,1,5.4,97
+soybean,Arlington,2019,213,10,Verdict,5,17.5,lambs,1,5.4,96
+soybean,Arlington,2019,213,10,Verdict,5,17.5,grass,0,0,93
+soybean,Arlington,2019,411,6,Verdict,5,2.5,common ragweed,2,10.8,87
+soybean,Arlington,2019,305,10,Verdict,5,17.5,velvetleaf,0,0,99
+soybean,Arlington,2019,305,10,Verdict,5,17.5,lambs,0,0,99
+soybean,Arlington,2019,305,10,Verdict,5,17.5,grass,3,16.1,80
+soybean,Arlington,2019,412,2,Canopy DF,2.25,5,common ragweed,4,21.5,90
+soybean,Arlington,2019,416,10,Verdict,5,17.5,velvetleaf,0,0,99
+soybean,Arlington,2019,416,10,Verdict,5,17.5,lambs,0,0,95
+soybean,Arlington,2019,416,10,Verdict,5,17.5,grass,0,0,99
+soybean,Arlington,2019,413,14,Fierce,4,15,common ragweed,0,0,95
+soybean,Arlington,2019,115,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Arlington,2019,115,15,Fierce,4,17.5,lambs,0,0,99
+soybean,Arlington,2019,115,15,Fierce,4,17.5,grass,0,0,99
+soybean,Arlington,2019,414,11,Fierce,4,2.5,common ragweed,1,5.4,99
+soybean,Arlington,2019,212,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Arlington,2019,212,15,Fierce,4,17.5,lambs,0,0,99
+soybean,Arlington,2019,212,15,Fierce,4,17.5,grass,0,0,99
+soybean,Arlington,2019,415,3,Canopy DF,2.25,10,common ragweed,0,0,99
+soybean,Arlington,2019,308,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Arlington,2019,308,15,Fierce,4,17.5,lambs,0,0,99
+soybean,Arlington,2019,308,15,Fierce,4,17.5,grass,0,0,99
+soybean,Arlington,2019,416,10,Verdict,5,17.5,common ragweed,0,0,92
+soybean,Arlington,2019,409,15,Fierce,4,17.5,velvetleaf,0,0,99
+soybean,Arlington,2019,409,15,Fierce,4,17.5,lambs,0,0,99
+soybean,Arlington,2019,409,15,Fierce,4,17.5,grass,0,0,99
+corn,Arlington,2018,105,5,Resicore,1.75,17.5,common ragweed,0,0,99
+corn,Arlington,2018,207,5,Resicore,1.75,17.5,common ragweed,0,0,95
+corn,Arlington,2018,303,5,Resicore,1.75,17.5,common ragweed,0,0,90
+corn,Arlington,2018,409,5,Resicore,1.75,17.5,common ragweed,0,0,95
+corn,Arlington,2018,105,5,Resicore,1.75,17.5,lambs,0.5,4,88
+corn,Arlington,2018,207,5,Resicore,1.75,17.5,lambs,0,0,95
+corn,Arlington,2018,303,5,Resicore,1.75,17.5,lambs,0,0,90
+corn,Arlington,2018,409,5,Resicore,1.75,17.5,lambs,1,8,75
+corn,Arlington,2018,105,5,Resicore,1.75,17.5,velvetleaf,0,0,90
+corn,Arlington,2018,207,5,Resicore,1.75,17.5,velvetleaf,0,0,95
+corn,Arlington,2018,303,5,Resicore,1.75,17.5,velvetleaf,0,0,90
+corn,Arlington,2018,409,5,Resicore,1.75,17.5,velvetleaf,0,0,90
+corn,Arlington,2018,105,5,Resicore,1.75,17.5,grass,10,80,65
+corn,Arlington,2018,207,5,Resicore,1.75,17.5,grass,4.5,36,70
+corn,Arlington,2018,303,5,Resicore,1.75,17.5,grass,6,48,40
+corn,Arlington,2018,409,5,Resicore,1.75,17.5,grass,4,32,75
+corn,Arlington,2018,110,10,Acuron Flexi,2.25,17.5,common ragweed,0,0,99
+corn,Arlington,2018,216,10,Acuron Flexi,2.25,17.5,common ragweed,0,0,99
+corn,Arlington,2018,302,10,Acuron Flexi,2.25,17.5,common ragweed,0,0,90
+corn,Arlington,2018,413,10,Acuron Flexi,2.25,17.5,common ragweed,0,0,90
+corn,Arlington,2018,110,10,Acuron Flexi,2.25,17.5,lambs,0,0,98
+corn,Arlington,2018,216,10,Acuron Flexi,2.25,17.5,lambs,0,0,95
+corn,Arlington,2018,302,10,Acuron Flexi,2.25,17.5,lambs,0,0,90
+corn,Arlington,2018,413,10,Acuron Flexi,2.25,17.5,lambs,0,0,95
+corn,Arlington,2018,110,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,95
+corn,Arlington,2018,216,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,95
+corn,Arlington,2018,302,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,90
+corn,Arlington,2018,413,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,90
+corn,Arlington,2018,110,10,Acuron Flexi,2.25,17.5,grass,4.5,36,5
+corn,Arlington,2018,216,10,Acuron Flexi,2.25,17.5,grass,1.5,12,90
+corn,Arlington,2018,302,10,Acuron Flexi,2.25,17.5,grass,6.5,52,50
+corn,Arlington,2018,413,10,Acuron Flexi,2.25,17.5,grass,7.5,60,95
+corn,Arlington,2018,115,15,Anthem Maxx,4,17.5,common ragweed,0,0,80
+corn,Arlington,2018,201,15,Anthem Maxx,4,17.5,common ragweed,1,8,20
+corn,Arlington,2018,313,15,Anthem Maxx,4,17.5,common ragweed,0,0,10
+corn,Arlington,2018,406,15,Anthem Maxx,4,17.5,common ragweed,2.5,20,20
+corn,Arlington,2018,115,15,Anthem Maxx,4,17.5,lambs,8.5,68,10
+corn,Arlington,2018,201,15,Anthem Maxx,4,17.5,lambs,3,24,20
+corn,Arlington,2018,313,15,Anthem Maxx,4,17.5,lambs,6,48,10
+corn,Arlington,2018,406,15,Anthem Maxx,4,17.5,lambs,1.5,12,20
+corn,Arlington,2018,115,15,Anthem Maxx,4,17.5,velvetleaf,1,8,20
+corn,Arlington,2018,201,15,Anthem Maxx,4,17.5,velvetleaf,0.5,4,20
+corn,Arlington,2018,313,15,Anthem Maxx,4,17.5,velvetleaf,0.5,4,40
+corn,Arlington,2018,406,15,Anthem Maxx,4,17.5,velvetleaf,1,8,20
+corn,Arlington,2018,115,15,Anthem Maxx,4,17.5,grass,5,40,10
+corn,Arlington,2018,201,15,Anthem Maxx,4,17.5,grass,4.5,36,20
+corn,Arlington,2018,313,15,Anthem Maxx,4,17.5,grass,4.5,36,20
+corn,Arlington,2018,406,15,Anthem Maxx,4,17.5,grass,4,32,20
+corn,Janesville,2018,105,5,Resicore,1.75,17.5,giant ragweed,0.5,4,96
+corn,Janesville,2018,210,5,Resicore,1.75,17.5,giant ragweed,0,0,99
+corn,Janesville,2018,316,5,Resicore,1.75,17.5,giant ragweed,1.5,12,85
+corn,Janesville,2018,407,5,Resicore,1.75,17.5,giant ragweed,0.5,4,90
+corn,Janesville,2018,105,5,Resicore,1.75,17.5,lambs,0,0,99
+corn,Janesville,2018,210,5,Resicore,1.75,17.5,lambs,0,0,99
+corn,Janesville,2018,316,5,Resicore,1.75,17.5,lambs,0,0,99
+corn,Janesville,2018,407,5,Resicore,1.75,17.5,lambs,0,0,99
+corn,Janesville,2018,105,5,Resicore,1.75,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,210,5,Resicore,1.75,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,316,5,Resicore,1.75,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,407,5,Resicore,1.75,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,105,5,Resicore,1.75,17.5,grass,0,0,97
+corn,Janesville,2018,210,5,Resicore,1.75,17.5,grass,0,0,98
+corn,Janesville,2018,316,5,Resicore,1.75,17.5,grass,0,0,98
+corn,Janesville,2018,407,5,Resicore,1.75,17.5,grass,0,0,98
+corn,Janesville,2018,105,5,Resicore,1.75,17.5,pigweed,0,0,99
+corn,Janesville,2018,210,5,Resicore,1.75,17.5,pigweed,0,0,99
+corn,Janesville,2018,316,5,Resicore,1.75,17.5,pigweed,0,0,99
+corn,Janesville,2018,407,5,Resicore,1.75,17.5,pigweed,0,0,99
+corn,Janesville,2018,110,10,Acuron Flexi,2.25,17.5,giant ragweed,0.5,4,95
+corn,Janesville,2018,204,10,Acuron Flexi,2.25,17.5,giant ragweed,0,0,99
+corn,Janesville,2018,315,10,Acuron Flexi,2.25,17.5,giant ragweed,0.5,4,95
+corn,Janesville,2018,405,10,Acuron Flexi,2.25,17.5,giant ragweed,1.5,12,92
+corn,Janesville,2018,110,10,Acuron Flexi,2.25,17.5,lambs,0,0,99
+corn,Janesville,2018,204,10,Acuron Flexi,2.25,17.5,lambs,0,0,99
+corn,Janesville,2018,315,10,Acuron Flexi,2.25,17.5,lambs,0,0,99
+corn,Janesville,2018,405,10,Acuron Flexi,2.25,17.5,lambs,0,0,99
+corn,Janesville,2018,110,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,204,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,315,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,405,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,110,10,Acuron Flexi,2.25,17.5,grass,0,0,99
+corn,Janesville,2018,204,10,Acuron Flexi,2.25,17.5,grass,0,0,99
+corn,Janesville,2018,315,10,Acuron Flexi,2.25,17.5,grass,0,0,99
+corn,Janesville,2018,405,10,Acuron Flexi,2.25,17.5,grass,0,0,99
+corn,Janesville,2018,110,10,Acuron Flexi,2.25,17.5,pigweed,0,0,99
+corn,Janesville,2018,204,10,Acuron Flexi,2.25,17.5,pigweed,0,0,99
+corn,Janesville,2018,315,10,Acuron Flexi,2.25,17.5,pigweed,0,0,99
+corn,Janesville,2018,405,10,Acuron Flexi,2.25,17.5,pigweed,0,0,99
+corn,Janesville,2018,115,15,Anthem Maxx,4,17.5,giant ragweed,0.5,4,85
+corn,Janesville,2018,212,15,Anthem Maxx,4,17.5,giant ragweed,1,8,85
+corn,Janesville,2018,309,15,Anthem Maxx,4,17.5,giant ragweed,1.5,12,85
+corn,Janesville,2018,401,15,Anthem Maxx,4,17.5,giant ragweed,1.5,12,40
+corn,Janesville,2018,115,15,Anthem Maxx,4,17.5,lambs,1,8,90
+corn,Janesville,2018,212,15,Anthem Maxx,4,17.5,lambs,0,0,99
+corn,Janesville,2018,309,15,Anthem Maxx,4,17.5,lambs,0,0,99
+corn,Janesville,2018,401,15,Anthem Maxx,4,17.5,lambs,0.5,4,80
+corn,Janesville,2018,115,15,Anthem Maxx,4,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,212,15,Anthem Maxx,4,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,309,15,Anthem Maxx,4,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,401,15,Anthem Maxx,4,17.5,velvetleaf,0,0,99
+corn,Janesville,2018,115,15,Anthem Maxx,4,17.5,grass,0,0,99
+corn,Janesville,2018,212,15,Anthem Maxx,4,17.5,grass,0,0,99
+corn,Janesville,2018,309,15,Anthem Maxx,4,17.5,grass,0,0,99
+corn,Janesville,2018,401,15,Anthem Maxx,4,17.5,grass,0,0,99
+corn,Janesville,2018,115,15,Anthem Maxx,4,17.5,pigweed,0,0,99
+corn,Janesville,2018,212,15,Anthem Maxx,4,17.5,pigweed,0,0,99
+corn,Janesville,2018,309,15,Anthem Maxx,4,17.5,pigweed,0,0,99
+corn,Janesville,2018,401,15,Anthem Maxx,4,17.5,pigweed,0,0,99
+corn,Arlington,2019,103,3,Resicore,1.75,10,common ragweed,0,0,99
+corn,Arlington,2019,205,3,Resicore,1.75,10,common ragweed,0,0,99
+corn,Arlington,2019,314,3,Resicore,1.75,10,common ragweed,0,0,99
+corn,Arlington,2019,416,3,Resicore,1.75,10,common ragweed,0,0,99
+corn,Arlington,2019,105,5,Resicore,1.75,17.5,velvetleaf,0,0,99
+corn,Arlington,2019,211,5,Resicore,1.75,17.5,velvetleaf,0,0,99
+corn,Arlington,2019,306,5,Resicore,1.75,17.5,velvetleaf,0,0,99
+corn,Arlington,2019,412,5,Resicore,1.75,17.5,velvetleaf,0,0,99
+corn,Arlington,2019,105,5,Resicore,1.75,17.5,lambs,0,0,99
+corn,Arlington,2019,211,5,Resicore,1.75,17.5,lambs,0,0,99
+corn,Arlington,2019,306,5,Resicore,1.75,17.5,lambs,0,0,99
+corn,Arlington,2019,412,5,Resicore,1.75,17.5,lambs,0,0,99
+corn,Arlington,2019,105,5,Resicore,1.75,17.5,grass,0,0,99
+corn,Arlington,2019,211,5,Resicore,1.75,17.5,grass,0,0,99
+corn,Arlington,2019,306,5,Resicore,1.75,17.5,grass,1,5.4,99
+corn,Arlington,2019,412,5,Resicore,1.75,17.5,grass,1,5.4,95
+corn,Arlington,2019,104,4,Resicore,1.75,15,common ragweed,0,0,99
+corn,Arlington,2019,210,4,Resicore,1.75,15,common ragweed,0,0,99
+corn,Arlington,2019,302,4,Resicore,1.75,15,common ragweed,0,0,99
+corn,Arlington,2019,413,4,Resicore,1.75,15,common ragweed,0,0,99
+corn,Arlington,2019,110,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,99
+corn,Arlington,2019,208,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,99
+corn,Arlington,2019,301,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,99
+corn,Arlington,2019,403,10,Acuron Flexi,2.25,17.5,velvetleaf,0,0,99
+corn,Arlington,2019,110,10,Acuron Flexi,2.25,17.5,lambs,0,0,99
+corn,Arlington,2019,208,10,Acuron Flexi,2.25,17.5,lambs,0,0,99
+corn,Arlington,2019,301,10,Acuron Flexi,2.25,17.5,lambs,0,0,99
+corn,Arlington,2019,403,10,Acuron Flexi,2.25,17.5,lambs,0,0,99
+corn,Arlington,2019,110,10,Acuron Flexi,2.25,17.5,grass,0,0,99
+corn,Arlington,2019,208,10,Acuron Flexi,2.25,17.5,grass,0,0,99
+corn,Arlington,2019,301,10,Acuron Flexi,2.25,17.5,grass,0,0,99
+corn,Arlington,2019,403,10,Acuron Flexi,2.25,17.5,grass,0,0,99
+corn,Arlington,2019,105,5,Resicore,1.75,17.5,common ragweed,0,0,99
+corn,Arlington,2019,211,5,Resicore,1.75,17.5,common ragweed,0,0,99
+corn,Arlington,2019,306,5,Resicore,1.75,17.5,common ragweed,0,0,99
+corn,Arlington,2019,412,5,Resicore,1.75,17.5,common ragweed,0,0,99
+corn,Arlington,2019,115,15,Anthem Maxx,4,17.5,velvetleaf,4,21.5,50
+corn,Arlington,2019,201,15,Anthem Maxx,4,17.5,velvetleaf,2,10.8,85
+corn,Arlington,2019,310,15,Anthem Maxx,4,17.5,velvetleaf,0,0,99
+corn,Arlington,2019,414,15,Anthem Maxx,4,17.5,velvetleaf,2,10.8,85
+corn,Arlington,2019,115,15,Anthem Maxx,4,17.5,lambs,0,0,99
+corn,Arlington,2019,201,15,Anthem Maxx,4,17.5,lambs,0,0,99
+corn,Arlington,2019,310,15,Anthem Maxx,4,17.5,lambs,0,0,99
+corn,Arlington,2019,414,15,Anthem Maxx,4,17.5,lambs,1,5.4,95
+corn,Arlington,2019,115,15,Anthem Maxx,4,17.5,grass,0,0,85
+corn,Arlington,2019,201,15,Anthem Maxx,4,17.5,grass,0,0,99
+corn,Arlington,2019,310,15,Anthem Maxx,4,17.5,grass,0,0,99
+corn,Arlington,2019,414,15,Anthem Maxx,4,17.5,grass,3,16.1,80
