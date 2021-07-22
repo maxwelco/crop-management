@@ -18,10 +18,8 @@ library(car)
 library(skimr)
 library(pbkrtest)
 library(moderndive)
-library(purrr)
 library(multcomp)
 library(broom.mixed)
-library(glmmTMB)
 ```
 
 # Weed control
@@ -29,7 +27,7 @@ library(glmmTMB)
 ## Load data
 
 ```{r load-data, echo=TRUE, message=FALSE}
-dat <- read_csv("control.csv") %>%  # Enter the data
+dat <- read_csv("data/control.csv") %>%  # Enter the data
   mutate(control = control/100) %>% 
   mutate_if(is.character, as.factor) %>% 
   mutate(GPA = as.factor(GPA)) %>% 
@@ -142,7 +140,7 @@ nested_models4 <- nested_models3 %>%
 ## Load data
 
 ```{r load-data-bio, include=FALSE}
-biomass <- read_csv("biomass.csv") %>% 
+biomass <- read_csv("data/biomass.csv") %>% 
   mutate(GPA = as.factor(GPA))
 ```
 
