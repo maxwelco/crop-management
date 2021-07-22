@@ -413,7 +413,7 @@ all_data1 %>%
       hi.box.col = "black", hi.col = "#282728"
     ))
 
-ggsave("Figure 1.pdf", width = 7,
+ggsave("figures/Figure 1.png", width = 7,
        height = 5, dpi = 300) 
 ```
 
@@ -652,7 +652,7 @@ fig_2 <- grass_cn_j %>%
       hi.box.col = "black", hi.col = "#282728"
     )) 
 
-#ggsave("grass_weeds.png", width = 3, #device = cairo_pdf,
+#ggsave("figures/grass_weeds.png", width = 3, #device = cairo_pdf,
 #       height = 9, dpi = 300) -> b
 ```
 
@@ -668,7 +668,7 @@ library(patchwork)
 combined <- fig_1 + wrap_elements(full = fig_2) + 
   plot_layout(widths = c(2.9, 1.1)) 
 
-ggsave("Figure 2.pdf", #device = cairo_pdf,
+ggsave("figures/Figure 2.png", #device = cairo_pdf,
        width = 9, height = 5, dpi = 300, combined)
 ```
 
